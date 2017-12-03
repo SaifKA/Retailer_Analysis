@@ -1,0 +1,2565 @@
+Area	Brand	Age	Device	Region	RGB Count	"Data User count
+Monthly usage>100 MB"	 Total Data Usage (GB) 	" Total usage of Data Users with
+Monthly usage>100 MB "
+Selected	Robi	<=24 yrs	2G Device	Barisal	115	37	 83 	 83 
+Selected	Robi	<=24 yrs	3G Device	Barisal	427	315	 841 	 838 
+Selected	Robi	<=24 yrs	4G Device	Barisal	219	169	 548 	 547 
+Selected	Robi	<=24 yrs	Basic	Barisal	262	92	 141 	 140 
+Selected	Robi	<=24 yrs	Others	Barisal	80	39	 54 	 54 
+Selected	Robi	25-29 yrs	2G Device	Barisal	159	38	 63 	 62 
+Selected	Robi	25-29 yrs	3G Device	Barisal	436	272	 558 	 556 
+Selected	Robi	25-29 yrs	4G Device	Barisal	204	143	 579 	 578 
+Selected	Robi	25-29 yrs	Basic	Barisal	291	67	 98 	 97 
+Selected	Robi	25-29 yrs	Others	Barisal	65	20	 35 	 34 
+Selected	Robi	30-34 yrs	2G Device	Barisal	212	27	 40 	 39 
+Selected	Robi	30-34 yrs	3G Device	Barisal	433	225	 604 	 601 
+Selected	Robi	30-34 yrs	4G Device	Barisal	181	122	 425 	 424 
+Selected	Robi	30-34 yrs	Basic	Barisal	397	56	 83 	 81 
+Selected	Robi	30-34 yrs	Others	Barisal	91	22	 29 	 29 
+Selected	Robi	35-39 yrs	2G Device	Barisal	229	39	 58 	 57 
+Selected	Robi	35-39 yrs	3G Device	Barisal	424	194	 353 	 351 
+Selected	Robi	35-39 yrs	4G Device	Barisal	175	126	 397 	 397 
+Selected	Robi	35-39 yrs	Basic	Barisal	396	64	 107 	 106 
+Selected	Robi	35-39 yrs	Others	Barisal	90	25	 36 	 36 
+Selected	Robi	40-44 yrs	2G Device	Barisal	171	34	 73 	 72 
+Selected	Robi	40-44 yrs	3G Device	Barisal	341	166	 383 	 381 
+Selected	Robi	40-44 yrs	4G Device	Barisal	145	99	 449 	 448 
+Selected	Robi	40-44 yrs	Basic	Barisal	332	55	 96 	 95 
+Selected	Robi	40-44 yrs	Others	Barisal	77	17	 46 	 46 
+Selected	Robi	45-59 yrs	2G Device	Barisal	356	51	 103 	 101 
+Selected	Robi	45-59 yrs	3G Device	Barisal	589	325	 716 	 712 
+Selected	Robi	45-59 yrs	4G Device	Barisal	272	190	 729 	 727 
+Selected	Robi	45-59 yrs	Basic	Barisal	518	91	 150 	 148 
+Selected	Robi	45-59 yrs	Others	Barisal	121	26	 47 	 47 
+Selected	Robi	60+ yrs	2G Device	Barisal	97	12	 20 	 20 
+Selected	Robi	60+ yrs	3G Device	Barisal	129	66	 144 	 143 
+Selected	Robi	60+ yrs	4G Device	Barisal	57	37	 154 	 153 
+Selected	Robi	60+ yrs	Basic	Barisal	139	20	 27 	 27 
+Selected	Robi	60+ yrs	Others	Barisal	27	7	 21 	 21 
+Selected	Robi	OTHERS	2G Device	Barisal	0	0	 -   	
+Selected	Robi	OTHERS	3G Device	Barisal	2	0	 -   	
+Selected	Robi	OTHERS	4G Device	Barisal	0	0	 -   	
+Selected	Robi	OTHERS	Basic	Barisal	1	0	 -   	
+Selected	Robi	OTHERS	Others	Barisal	2	0	 -   	
+Selected	Robi	<=24 yrs	2G Device	Brahmanbaria 	 281.00 	 79.00 	 211 	 209 
+Selected	Robi	<=24 yrs	3G Device	Brahmanbaria 	730	483	" 1,051 "	" 1,049 "
+Selected	Robi	<=24 yrs	4G Device	Brahmanbaria 	 382.00 	 292 	 964 	 962 
+Selected	Robi	<=24 yrs	Basic	Brahmanbaria 	578	134	 229 	 227 
+Selected	Robi	<=24 yrs	Others	Brahmanbaria 	 82.00 	 29.00 	 22 	 22 
+Selected	Robi	25-29 yrs	2G Device	Brahmanbaria 	861	127	 231 	 230 
+Selected	Robi	25-29 yrs	3G Device	Brahmanbaria 	1838	107800%	" 2,846 "	" 2,838 "
+Selected	Robi	25-29 yrs	4G Device	Brahmanbaria 	894	648	" 2,534 "	" 2,531 "
+Selected	Robi	25-29 yrs	Basic	Brahmanbaria 	1901	248	 436 	 433 
+Selected	Robi	25-29 yrs	Others	Brahmanbaria 	210	77	 178 	 177 
+Selected	Robi	30-34 yrs	2G Device	Brahmanbaria 	1331	118	 178 	 175 
+Selected	Robi	30-34 yrs	3G Device	Brahmanbaria 	2287	1205	" 2,838 "	" 2,828 "
+Selected	Robi	30-34 yrs	4G Device	Brahmanbaria 	1098	797	" 2,657 "	" 2,654 "
+Selected	Robi	30-34 yrs	Basic	Brahmanbaria 	3059	256	 451 	 446 
+Selected	Robi	30-34 yrs	Others	Brahmanbaria 	252	72	 78 	 77 
+Selected	Robi	35-39 yrs	2G Device	Brahmanbaria 	1277	112	 156 	 153 
+Selected	Robi	35-39 yrs	3G Device	Brahmanbaria 	1906	979	" 2,102 "	" 2,093 "
+Selected	Robi	35-39 yrs	4G Device	Brahmanbaria 	916	662	" 2,027 "	" 2,025 "
+Selected	Robi	35-39 yrs	Basic	Brahmanbaria 	2806	228	 463 	 459 
+Selected	Robi	35-39 yrs	Others	Brahmanbaria 	232	64	 93 	 92 
+Selected	Robi	40-44 yrs	2G Device	Brahmanbaria 	974	77	 91 	 90 
+Selected	Robi	40-44 yrs	3G Device	Brahmanbaria 	1306	670	" 1,694 "	" 1,688 "
+Selected	Robi	40-44 yrs	4G Device	Brahmanbaria 	609	438	" 1,624 "	" 1,622 "
+Selected	Robi	40-44 yrs	Basic	Brahmanbaria 	2100	145	 219 	 216 
+Selected	Robi	40-44 yrs	Others	Brahmanbaria 	202	49	 126 	 125 
+Selected	Robi	45-59 yrs	2G Device	Brahmanbaria 	1890	172	 204 	 200 
+Selected	Robi	45-59 yrs	3G Device	Brahmanbaria 	2326	1280	" 3,052 "	" 3,041 "
+Selected	Robi	45-59 yrs	4G Device	Brahmanbaria 	1083	787	" 2,513 "	" 2,510 "
+Selected	Robi	45-59 yrs	Basic	Brahmanbaria 	4059	322	 636 	 631 
+Selected	Robi	45-59 yrs	Others	Brahmanbaria 	318	88	 158 	 157 
+Selected	Robi	60+ yrs	2G Device	Brahmanbaria 	579	36	 50 	 49 
+Selected	Robi	60+ yrs	3G Device	Brahmanbaria 	621	318	 697 	 694 
+Selected	Robi	60+ yrs	4G Device	Brahmanbaria 	282	208	 663 	 662 
+Selected	Robi	60+ yrs	Basic	Brahmanbaria 	1300	57	 136 	 135 
+Selected	Robi	60+ yrs	Others	Brahmanbaria 	90	22	 42 	 41 
+Selected	Robi	OTHERS	2G Device	Brahmanbaria 	1	0	 -   	
+Selected	Robi	OTHERS	3G Device	Brahmanbaria 	1	0	 -   	
+Selected	Robi	OTHERS	4G Device	Brahmanbaria 	0	0	 -   	
+Selected	Robi	OTHERS	Basic	Brahmanbaria 	1	0	 -   	
+Selected	Robi	OTHERS	Others	Brahmanbaria 	0	0	 -   	
+Selected	Robi	<=24 yrs	2G Device	Chittagong Metro	17268	3686	" 4,951 "	" 4,871 "
+Selected	Robi	<=24 yrs	3G Device	Chittagong Metro	32106	20211	" 41,044 "	" 40,870 "
+Selected	Robi	<=24 yrs	4G Device	Chittagong Metro	15861	12102	" 41,300 "	" 41,235 "
+Selected	Robi	<=24 yrs	Basic	Chittagong Metro	35595	6414	" 9,269 "	" 9,157 "
+Selected	Robi	<=24 yrs	Others	Chittagong Metro	5884	2577	" 5,682 "	" 5,659 "
+Selected	Robi	25-29 yrs	2G Device	Chittagong Metro	58760	8765	" 11,337 "	" 11,132 "
+Selected	Robi	25-29 yrs	3G Device	Chittagong Metro	92903	53392	" 109,537 "	" 109,055 "
+Selected	Robi	25-29 yrs	4G Device	Chittagong Metro	39118	28894	" 102,073 "	" 101,927 "
+Selected	Robi	25-29 yrs	Basic	Chittagong Metro	124435	16630	" 23,556 "	" 23,247 "
+Selected	Robi	25-29 yrs	Others	Chittagong Metro	15061	6127	" 14,261 "	" 14,204 "
+Selected	Robi	30-34 yrs	2G Device	Chittagong Metro	81522	8855	" 12,366 "	" 12,154 "
+Selected	Robi	30-34 yrs	3G Device	Chittagong Metro	112703	59676	" 123,789 "	" 123,240 "
+Selected	Robi	30-34 yrs	4G Device	Chittagong Metro	42799	30604	" 108,298 "	" 108,141 "
+Selected	Robi	30-34 yrs	Basic	Chittagong Metro	171664	17926	" 25,928 "	" 25,579 "
+Selected	Robi	30-34 yrs	Others	Chittagong Metro	18096	6127	" 13,970 "	" 13,909 "
+Selected	Robi	35-39 yrs	2G Device	Chittagong Metro	71250	7330	" 9,002 "	" 8,812 "
+Selected	Robi	35-39 yrs	3G Device	Chittagong Metro	89918	45800	" 93,495 "	" 93,056 "
+Selected	Robi	35-39 yrs	4G Device	Chittagong Metro	33642	23883	" 81,954 "	" 81,829 "
+Selected	Robi	35-39 yrs	Basic	Chittagong Metro	141071	13400	" 19,318 "	" 19,047 "
+Selected	Robi	35-39 yrs	Others	Chittagong Metro	14149	4440	" 9,508 "	" 9,462 "
+Selected	Robi	40-44 yrs	2G Device	Chittagong Metro	51862	5412	" 6,297 "	" 6,145 "
+Selected	Robi	40-44 yrs	3G Device	Chittagong Metro	63819	32631	" 65,435 "	" 65,120 "
+Selected	Robi	40-44 yrs	4G Device	Chittagong Metro	24277	17079	" 57,671 "	" 57,571 "
+Selected	Robi	40-44 yrs	Basic	Chittagong Metro	100405	9516	" 13,667 "	" 13,473 "
+Selected	Robi	40-44 yrs	Others	Chittagong Metro	10016	3179	" 6,412 "	" 6,378 "
+Selected	Robi	45-59 yrs	2G Device	Chittagong Metro	96179	9827	" 11,434 "	" 11,159 "
+Selected	Robi	45-59 yrs	3G Device	Chittagong Metro	104369	53596	" 105,005 "	" 104,470 "
+Selected	Robi	45-59 yrs	4G Device	Chittagong Metro	39307	27490	" 87,938 "	" 87,774 "
+Selected	Robi	45-59 yrs	Basic	Chittagong Metro	175059	16796	" 23,744 "	" 23,397 "
+Selected	Robi	45-59 yrs	Others	Chittagong Metro	16872	5306	" 10,680 "	" 10,624 "
+Selected	Robi	60+ yrs	2G Device	Chittagong Metro	25541	1834	" 2,090 "	" 2,037 "
+Selected	Robi	60+ yrs	3G Device	Chittagong Metro	22018	10234	" 19,887 "	" 19,783 "
+Selected	Robi	60+ yrs	4G Device	Chittagong Metro	8517	5627	" 17,987 "	" 17,952 "
+Selected	Robi	60+ yrs	Basic	Chittagong Metro	45568	3218	" 4,224 "	" 4,158 "
+Selected	Robi	60+ yrs	Others	Chittagong Metro	4648	964	" 2,152 "	" 2,140 "
+Selected	Robi	OTHERS	2G Device	Chittagong Metro	17	0	 -   	
+Selected	Robi	OTHERS	3G Device	Chittagong Metro	17	0	 -   	
+Selected	Robi	OTHERS	4G Device	Chittagong Metro	2	0	 -   	
+Selected	Robi	OTHERS	Basic	Chittagong Metro	20	0	 -   	
+Selected	Robi	OTHERS	Others	Chittagong Metro	75	0	 0 	
+Selected	Robi	<=24 yrs	2G Device	Chittagong North	11041	2173	" 3,018 "	" 2,973 "
+Selected	Robi	<=24 yrs	3G Device	Chittagong North	20165	13172	" 28,175 "	" 28,080 "
+Selected	Robi	<=24 yrs	4G Device	Chittagong North	10243	8144	" 28,907 "	" 28,876 "
+Selected	Robi	<=24 yrs	Basic	Chittagong North	22076	3888	" 6,087 "	" 6,023 "
+Selected	Robi	<=24 yrs	Others	Chittagong North	2929	1268	" 2,465 "	" 2,453 "
+Selected	Robi	25-29 yrs	2G Device	Chittagong North	37952	4901	" 6,906 "	" 6,797 "
+Selected	Robi	25-29 yrs	3G Device	Chittagong North	60780	36881	" 77,369 "	" 77,110 "
+Selected	Robi	25-29 yrs	4G Device	Chittagong North	27466	21596	" 75,378 "	" 75,300 "
+Selected	Robi	25-29 yrs	Basic	Chittagong North	75635	8734	" 13,449 "	" 13,299 "
+Selected	Robi	25-29 yrs	Others	Chittagong North	8633	3085	" 6,649 "	" 6,623 "
+Selected	Robi	30-34 yrs	2G Device	Chittagong North	53064	4965	" 6,930 "	" 6,817 "
+Selected	Robi	30-34 yrs	3G Device	Chittagong North	76017	42549	" 85,738 "	" 85,412 "
+Selected	Robi	30-34 yrs	4G Device	Chittagong North	33791	25900	" 83,738 "	" 83,639 "
+Selected	Robi	30-34 yrs	Basic	Chittagong North	104385	8970	" 13,628 "	" 13,462 "
+Selected	Robi	30-34 yrs	Others	Chittagong North	11234	3251	" 6,655 "	" 6,620 "
+Selected	Robi	35-39 yrs	2G Device	Chittagong North	50554	4272	" 5,302 "	" 5,181 "
+Selected	Robi	35-39 yrs	3G Device	Chittagong North	63915	34882	" 66,420 "	" 66,148 "
+Selected	Robi	35-39 yrs	4G Device	Chittagong North	25900	19794	" 59,504 "	" 59,423 "
+Selected	Robi	35-39 yrs	Basic	Chittagong North	94837	7400	" 11,007 "	" 10,862 "
+Selected	Robi	35-39 yrs	Others	Chittagong North	9937	2518	" 4,856 "	" 4,829 "
+Selected	Robi	40-44 yrs	2G Device	Chittagong North	38903	3409	" 3,890 "	" 3,796 "
+Selected	Robi	40-44 yrs	3G Device	Chittagong North	44237	24193	" 45,596 "	" 45,404 "
+Selected	Robi	40-44 yrs	4G Device	Chittagong North	17377	13214	" 39,506 "	" 39,451 "
+Selected	Robi	40-44 yrs	Basic	Chittagong North	72138	5692	" 7,654 "	" 7,540 "
+Selected	Robi	40-44 yrs	Others	Chittagong North	7583	1763	" 3,438 "	" 3,417 "
+Selected	Robi	45-59 yrs	2G Device	Chittagong North	76047	6527	" 7,335 "	" 7,154 "
+Selected	Robi	45-59 yrs	3G Device	Chittagong North	76890	42185	" 76,870 "	" 76,529 "
+Selected	Robi	45-59 yrs	4G Device	Chittagong North	30114	23132	" 68,200 "	" 68,102 "
+Selected	Robi	45-59 yrs	Basic	Chittagong North	141442	10370	" 14,386 "	" 14,176 "
+Selected	Robi	45-59 yrs	Others	Chittagong North	13684	3329	" 6,246 "	" 6,209 "
+Selected	Robi	60+ yrs	2G Device	Chittagong North	24074	1481	" 1,453 "	" 1,410 "
+Selected	Robi	60+ yrs	3G Device	Chittagong North	21152	11268	" 19,487 "	" 19,399 "
+Selected	Robi	60+ yrs	4G Device	Chittagong North	9203	7107	" 19,611 "	" 19,581 "
+Selected	Robi	60+ yrs	Basic	Chittagong North	47681	2471	" 3,360 "	" 3,313 "
+Selected	Robi	60+ yrs	Others	Chittagong North	4288	853	" 1,545 "	" 1,537 "
+Selected	Robi	OTHERS	2G Device	Chittagong North	8	0	 -   	
+Selected	Robi	OTHERS	3G Device	Chittagong North	6	0	 -   	
+Selected	Robi	OTHERS	4G Device	Chittagong North	1	0	 -   	
+Selected	Robi	OTHERS	Basic	Chittagong North	8	0	 -   	
+Selected	Robi	OTHERS	Others	Chittagong North	22	0	 -   	
+Selected	Robi	<=24 yrs	2G Device	Chittagong South	10832	1840	" 2,525 "	" 2,485 "
+Selected	Robi	<=24 yrs	3G Device	Chittagong South	17851	11296	" 23,993 "	" 23,912 "
+Selected	Robi	<=24 yrs	4G Device	Chittagong South	8330	6568	" 24,121 "	" 24,096 "
+Selected	Robi	<=24 yrs	Basic	Chittagong South	26624	3773	" 5,981 "	" 5,922 "
+Selected	Robi	<=24 yrs	Others	Chittagong South	3090	1194	" 2,540 "	" 2,531 "
+Selected	Robi	25-29 yrs	2G Device	Chittagong South	36544	4441	" 6,602 "	" 6,505 "
+Selected	Robi	25-29 yrs	3G Device	Chittagong South	54677	32014	" 69,585 "	" 69,340 "
+Selected	Robi	25-29 yrs	4G Device	Chittagong South	23527	17984	" 66,011 "	" 65,941 "
+Selected	Robi	25-29 yrs	Basic	Chittagong South	91399	9354	" 14,158 "	" 13,997 "
+Selected	Robi	25-29 yrs	Others	Chittagong South	8512	3016	" 6,887 "	" 6,862 "
+Selected	Robi	30-34 yrs	2G Device	Chittagong South	55457	4977	" 7,222 "	" 7,108 "
+Selected	Robi	30-34 yrs	3G Device	Chittagong South	71482	38655	" 83,739 "	" 83,436 "
+Selected	Robi	30-34 yrs	4G Device	Chittagong South	28779	21288	" 76,526 "	" 76,438 "
+Selected	Robi	30-34 yrs	Basic	Chittagong South	134824	10647	" 16,336 "	" 16,143 "
+Selected	Robi	30-34 yrs	Others	Chittagong South	11845	3463	" 7,916 "	" 7,884 "
+Selected	Robi	35-39 yrs	2G Device	Chittagong South	51415	4018	" 5,266 "	" 5,161 "
+Selected	Robi	35-39 yrs	3G Device	Chittagong South	58465	30349	" 62,637 "	" 62,387 "
+Selected	Robi	35-39 yrs	4G Device	Chittagong South	21409	15599	" 52,850 "	" 52,778 "
+Selected	Robi	35-39 yrs	Basic	Chittagong South	121767	8416	" 12,374 "	" 12,212 "
+Selected	Robi	35-39 yrs	Others	Chittagong South	10177	2635	" 5,558 "	" 5,533 "
+Selected	Robi	40-44 yrs	2G Device	Chittagong South	35475	2793	" 3,715 "	" 3,640 "
+Selected	Robi	40-44 yrs	3G Device	Chittagong South	37241	19355	" 38,552 "	" 38,391 "
+Selected	Robi	40-44 yrs	4G Device	Chittagong South	12880	9427	" 30,788 "	" 30,747 "
+Selected	Robi	40-44 yrs	Basic	Chittagong South	83722	5553	" 8,138 "	" 8,026 "
+Selected	Robi	40-44 yrs	Others	Chittagong South	7141	1626	" 3,363 "	" 3,348 "
+Selected	Robi	45-59 yrs	2G Device	Chittagong South	66684	5415	" 6,528 "	" 6,379 "
+Selected	Robi	45-59 yrs	3G Device	Chittagong South	64971	33977	" 66,831 "	" 66,540 "
+Selected	Robi	45-59 yrs	4G Device	Chittagong South	22420	16473	" 53,149 "	" 53,071 "
+Selected	Robi	45-59 yrs	Basic	Chittagong South	157124	10836	" 15,122 "	" 14,910 "
+Selected	Robi	45-59 yrs	Others	Chittagong South	12856	3158	" 6,483 "	" 6,448 "
+Selected	Robi	60+ yrs	2G Device	Chittagong South	20465	1390	" 1,808 "	" 1,772 "
+Selected	Robi	60+ yrs	3G Device	Chittagong South	18482	9664	" 18,887 "	" 18,814 "
+Selected	Robi	60+ yrs	4G Device	Chittagong South	6980	5210	" 15,328 "	" 15,306 "
+Selected	Robi	60+ yrs	Basic	Chittagong South	49979	2826	" 4,145 "	" 4,093 "
+Selected	Robi	60+ yrs	Others	Chittagong South	3894	822	" 1,600 "	" 1,592 "
+Selected	Robi	OTHERS	2G Device	Chittagong South	13	0	 -   	
+Selected	Robi	OTHERS	3G Device	Chittagong South	8	0	 -   	
+Selected	Robi	OTHERS	4G Device	Chittagong South	2	0	 -   	
+Selected	Robi	OTHERS	Basic	Chittagong South	25	0	 -   	
+Selected	Robi	OTHERS	Others	Chittagong South	20	0	 -   	
+Selected	Robi	<=24 yrs	2G Device	Comilla	7379	1332	" 1,902 "	" 1,878 "
+Selected	Robi	<=24 yrs	3G Device	Comilla	14759	9303	" 18,337 "	" 18,269 "
+Selected	Robi	<=24 yrs	4G Device	Comilla	7041	5352	" 17,350 "	" 17,326 "
+Selected	Robi	<=24 yrs	Basic	Comilla	15589	2563	" 4,050 "	" 4,012 "
+Selected	Robi	<=24 yrs	Others	Comilla	1640	540	 818 	 812 
+Selected	Robi	25-29 yrs	2G Device	Comilla	26700	3257	" 4,510 "	" 4,447 "
+Selected	Robi	25-29 yrs	3G Device	Comilla	44913	26455	" 52,289 "	" 52,097 "
+Selected	Robi	25-29 yrs	4G Device	Comilla	20312	15398	" 47,518 "	" 47,461 "
+Selected	Robi	25-29 yrs	Basic	Comilla	57006	6975	" 10,781 "	" 10,683 "
+Selected	Robi	25-29 yrs	Others	Comilla	5378	1619	" 2,591 "	" 2,576 "
+Selected	Robi	30-34 yrs	2G Device	Comilla	42245	3768	" 5,063 "	" 4,989 "
+Selected	Robi	30-34 yrs	3G Device	Comilla	62946	35357	" 66,765 "	" 66,502 "
+Selected	Robi	30-34 yrs	4G Device	Comilla	28387	21371	" 61,224 "	" 61,143 "
+Selected	Robi	30-34 yrs	Basic	Comilla	89989	8310	" 12,517 "	" 12,387 "
+Selected	Robi	30-34 yrs	Others	Comilla	8392	2131	" 3,604 "	" 3,577 "
+Selected	Robi	35-39 yrs	2G Device	Comilla	40439	3290	" 4,370 "	" 4,298 "
+Selected	Robi	35-39 yrs	3G Device	Comilla	53637	29519	" 55,174 "	" 54,953 "
+Selected	Robi	35-39 yrs	4G Device	Comilla	22866	17168	" 47,738 "	" 47,669 "
+Selected	Robi	35-39 yrs	Basic	Comilla	83788	7089	" 10,204 "	" 10,092 "
+Selected	Robi	35-39 yrs	Others	Comilla	7637	1796	" 2,721 "	" 2,702 "
+Selected	Robi	40-44 yrs	2G Device	Comilla	27247	2262	" 2,981 "	" 2,925 "
+Selected	Robi	40-44 yrs	3G Device	Comilla	34307	18826	" 34,455 "	" 34,308 "
+Selected	Robi	40-44 yrs	4G Device	Comilla	14113	10484	" 29,997 "	" 29,952 "
+Selected	Robi	40-44 yrs	Basic	Comilla	56994	4861	" 7,041 "	" 6,962 "
+Selected	Robi	40-44 yrs	Others	Comilla	5410	1114	" 1,647 "	" 1,634 "
+Selected	Robi	45-59 yrs	2G Device	Comilla	54626	4426	" 5,743 "	" 5,641 "
+Selected	Robi	45-59 yrs	3G Device	Comilla	61565	33981	" 60,788 "	" 60,523 "
+Selected	Robi	45-59 yrs	4G Device	Comilla	25027	18742	" 51,555 "	" 51,476 "
+Selected	Robi	45-59 yrs	Basic	Comilla	115270	9407	" 13,746 "	" 13,598 "
+Selected	Robi	45-59 yrs	Others	Comilla	9768	2067	" 3,346 "	" 3,323 "
+Selected	Robi	60+ yrs	2G Device	Comilla	18318	1048	" 1,322 "	" 1,296 "
+Selected	Robi	60+ yrs	3G Device	Comilla	17892	9728	" 17,482 "	" 17,415 "
+Selected	Robi	60+ yrs	4G Device	Comilla	7829	5912	" 15,272 "	" 15,248 "
+Selected	Robi	60+ yrs	Basic	Comilla	39815	2314	" 3,316 "	" 3,281 "
+Selected	Robi	60+ yrs	Others	Comilla	3224	629	 994 	 987 
+Selected	Robi	OTHERS	2G Device	Comilla	6	0	 -   	
+Selected	Robi	OTHERS	3G Device	Comilla	6	0	 -   	
+Selected	Robi	OTHERS	4G Device	Comilla	2	0	 -   	
+Selected	Robi	OTHERS	Basic	Comilla	13	0	 -   	
+Selected	Robi	OTHERS	Others	Comilla	25	0	 -   	
+Selected	Robi	<=24 yrs	2G Device	Dhaka Metro	10971	1661	" 2,190 "	" 2,146 "
+Selected	Robi	<=24 yrs	3G Device	Dhaka Metro	23721	10486	" 17,057 "	" 16,885 "
+Selected	Robi	<=24 yrs	4G Device	Dhaka Metro	15335	8646	" 18,575 "	" 18,467 "
+Selected	Robi	<=24 yrs	Basic	Dhaka Metro	21609	3283	" 4,323 "	" 4,248 "
+Selected	Robi	<=24 yrs	Others	Dhaka Metro	4325	998	" 1,216 "	" 1,196 "
+Selected	Robi	25-29 yrs	2G Device	Dhaka Metro	28029	3495	" 4,484 "	" 4,395 "
+Selected	Robi	25-29 yrs	3G Device	Dhaka Metro	54251	22489	" 39,769 "	" 39,418 "
+Selected	Robi	25-29 yrs	4G Device	Dhaka Metro	31332	17420	" 42,219 "	" 42,035 "
+Selected	Robi	25-29 yrs	Basic	Dhaka Metro	56208	6347	" 8,772 "	" 8,622 "
+Selected	Robi	25-29 yrs	Others	Dhaka Metro	8535	1723	" 2,431 "	" 2,400 "
+Selected	Robi	30-34 yrs	2G Device	Dhaka Metro	34948	3336	" 4,284 "	" 4,196 "
+Selected	Robi	30-34 yrs	3G Device	Dhaka Metro	59726	23389	" 42,803 "	" 42,453 "
+Selected	Robi	30-34 yrs	4G Device	Dhaka Metro	32490	17627	" 45,447 "	" 45,274 "
+Selected	Robi	30-34 yrs	Basic	Dhaka Metro	69476	6686	" 9,487 "	" 9,335 "
+Selected	Robi	30-34 yrs	Others	Dhaka Metro	10158	1684	" 2,465 "	" 2,432 "
+Selected	Robi	35-39 yrs	2G Device	Dhaka Metro	32255	2757	" 3,440 "	" 3,363 "
+Selected	Robi	35-39 yrs	3G Device	Dhaka Metro	51294	19681	" 36,041 "	" 35,746 "
+Selected	Robi	35-39 yrs	4G Device	Dhaka Metro	27710	14958	" 39,607 "	" 39,462 "
+Selected	Robi	35-39 yrs	Basic	Dhaka Metro	60608	5363	" 7,526 "	" 7,398 "
+Selected	Robi	35-39 yrs	Others	Dhaka Metro	8520	1296	" 1,714 "	" 1,686 "
+Selected	Robi	40-44 yrs	2G Device	Dhaka Metro	24190	1994	" 2,474 "	" 2,412 "
+Selected	Robi	40-44 yrs	3G Device	Dhaka Metro	40979	14263	" 26,103 "	" 25,869 "
+Selected	Robi	40-44 yrs	4G Device	Dhaka Metro	21137	11035	" 28,546 "	" 28,423 "
+Selected	Robi	40-44 yrs	Basic	Dhaka Metro	42635	3955	" 5,446 "	" 5,349 "
+Selected	Robi	40-44 yrs	Others	Dhaka Metro	6248	873	" 1,385 "	" 1,367 "
+Selected	Robi	45-59 yrs	2G Device	Dhaka Metro	46998	3665	" 4,490 "	" 4,367 "
+Selected	Robi	45-59 yrs	3G Device	Dhaka Metro	65808	23659	" 42,951 "	" 42,530 "
+Selected	Robi	45-59 yrs	4G Device	Dhaka Metro	35629	17727	" 42,159 "	" 41,928 "
+Selected	Robi	45-59 yrs	Basic	Dhaka Metro	80429	6929	" 9,658 "	" 9,480 "
+Selected	Robi	45-59 yrs	Others	Dhaka Metro	10118	1411	" 1,919 "	" 1,888 "
+Selected	Robi	60+ yrs	2G Device	Dhaka Metro	12528	656	 714 	 691 
+Selected	Robi	60+ yrs	3G Device	Dhaka Metro	14767	4315	" 7,337 "	" 7,253 "
+Selected	Robi	60+ yrs	4G Device	Dhaka Metro	7902	3482	" 7,418 "	" 7,371 "
+Selected	Robi	60+ yrs	Basic	Dhaka Metro	19067	1256	" 1,824 "	" 1,792 "
+Selected	Robi	60+ yrs	Others	Dhaka Metro	2910	273	 327 	 320 
+Selected	Robi	OTHERS	2G Device	Dhaka Metro	37	0	 0 	
+Selected	Robi	OTHERS	3G Device	Dhaka Metro	27	1	 0 	 0 
+Selected	Robi	OTHERS	4G Device	Dhaka Metro	3	1	 2 	 2 
+Selected	Robi	OTHERS	Basic	Dhaka Metro	34	0	 -   	
+Selected	Robi	OTHERS	Others	Dhaka Metro	84	2	 1 	 1 
+Selected	Robi	<=24 yrs	2G Device	Dhaka North	11057	1921	" 2,491 "	" 2,442 "
+Selected	Robi	<=24 yrs	3G Device	Dhaka North	21480	10283	" 17,274 "	" 17,126 "
+Selected	Robi	<=24 yrs	4G Device	Dhaka North	11620	6836	" 16,807 "	" 16,732 "
+Selected	Robi	<=24 yrs	Basic	Dhaka North	22439	3578	" 5,030 "	" 4,953 "
+Selected	Robi	<=24 yrs	Others	Dhaka North	3642	974	 967 	 952 
+Selected	Robi	25-29 yrs	2G Device	Dhaka North	28710	3601	" 4,422 "	" 4,330 "
+Selected	Robi	25-29 yrs	3G Device	Dhaka North	47322	20138	" 36,062 "	" 35,759 "
+Selected	Robi	25-29 yrs	4G Device	Dhaka North	22399	12801	" 32,545 "	" 32,420 "
+Selected	Robi	25-29 yrs	Basic	Dhaka North	58361	6626	" 9,119 "	" 8,959 "
+Selected	Robi	25-29 yrs	Others	Dhaka North	6914	1466	" 1,645 "	" 1,618 "
+Selected	Robi	30-34 yrs	2G Device	Dhaka North	37447	3501	" 4,437 "	" 4,342 "
+Selected	Robi	30-34 yrs	3G Device	Dhaka North	55578	21942	" 39,550 "	" 39,211 "
+Selected	Robi	30-34 yrs	4G Device	Dhaka North	23961	13328	" 35,879 "	" 35,755 "
+Selected	Robi	30-34 yrs	Basic	Dhaka North	78131	7167	" 9,656 "	" 9,479 "
+Selected	Robi	30-34 yrs	Others	Dhaka North	8910	1585	" 1,956 "	" 1,921 "
+Selected	Robi	35-39 yrs	2G Device	Dhaka North	32723	2778	" 3,937 "	" 3,852 "
+Selected	Robi	35-39 yrs	3G Device	Dhaka North	45124	17422	" 31,917 "	" 31,649 "
+Selected	Robi	35-39 yrs	4G Device	Dhaka North	19986	10853	" 28,617 "	" 28,509 "
+Selected	Robi	35-39 yrs	Basic	Dhaka North	64311	5736	" 8,091 "	" 7,954 "
+Selected	Robi	35-39 yrs	Others	Dhaka North	7382	1174	" 1,520 "	" 1,495 "
+Selected	Robi	40-44 yrs	2G Device	Dhaka North	22399	1995	" 2,492 "	" 2,433 "
+Selected	Robi	40-44 yrs	3G Device	Dhaka North	31720	12004	" 21,641 "	" 21,446 "
+Selected	Robi	40-44 yrs	4G Device	Dhaka North	13664	7325	" 18,300 "	" 18,221 "
+Selected	Robi	40-44 yrs	Basic	Dhaka North	42647	3754	" 5,113 "	" 5,009 "
+Selected	Robi	40-44 yrs	Others	Dhaka North	5287	765	 957 	 940 
+Selected	Robi	45-59 yrs	2G Device	Dhaka North	37778	3294	" 3,888 "	" 3,782 "
+Selected	Robi	45-59 yrs	3G Device	Dhaka North	48622	18679	" 33,303 "	" 32,993 "
+Selected	Robi	45-59 yrs	4G Device	Dhaka North	21949	11466	" 28,846 "	" 28,713 "
+Selected	Robi	45-59 yrs	Basic	Dhaka North	69256	6126	" 8,095 "	" 7,932 "
+Selected	Robi	45-59 yrs	Others	Dhaka North	7150	1081	" 1,466 "	" 1,443 "
+Selected	Robi	60+ yrs	2G Device	Dhaka North	9738	598	 680 	 660 
+Selected	Robi	60+ yrs	3G Device	Dhaka North	10206	3288	" 5,399 "	" 5,342 "
+Selected	Robi	60+ yrs	4G Device	Dhaka North	4504	2187	" 6,171 "	" 6,146 "
+Selected	Robi	60+ yrs	Basic	Dhaka North	17112	1177	" 1,558 "	" 1,527 "
+Selected	Robi	60+ yrs	Others	Dhaka North	2009	207	 259 	 254 
+Selected	Robi	OTHERS	2G Device	Dhaka North	19	0	 -   	
+Selected	Robi	OTHERS	3G Device	Dhaka North	22	1	 3 	 2 
+Selected	Robi	OTHERS	4G Device	Dhaka North	5	0	 -   	
+Selected	Robi	OTHERS	Basic	Dhaka North	32	0	 0 	
+Selected	Robi	OTHERS	Others	Dhaka North	70	0	 -   	
+Selected	Robi	<=24 yrs	2G Device	Dhaka South	7220	1309	" 1,586 "	" 1,555 "
+Selected	Robi	<=24 yrs	3G Device	Dhaka South	14031	7337	" 12,812 "	" 12,721 "
+Selected	Robi	<=24 yrs	4G Device	Dhaka South	6982	4523	" 12,188 "	" 12,151 "
+Selected	Robi	<=24 yrs	Basic	Dhaka South	14754	2537	" 3,567 "	" 3,518 "
+Selected	Robi	<=24 yrs	Others	Dhaka South	2254	714	 769 	 756 
+Selected	Robi	25-29 yrs	2G Device	Dhaka South	22563	3071	" 3,908 "	" 3,836 "
+Selected	Robi	25-29 yrs	3G Device	Dhaka South	39767	19113	" 34,871 "	" 34,632 "
+Selected	Robi	25-29 yrs	4G Device	Dhaka South	18009	11397	" 30,751 "	" 30,660 "
+Selected	Robi	25-29 yrs	Basic	Dhaka South	46646	6025	" 8,768 "	" 8,646 "
+Selected	Robi	25-29 yrs	Others	Dhaka South	5269	1619	" 2,205 "	" 2,181 "
+Selected	Robi	30-34 yrs	2G Device	Dhaka South	32618	3266	" 4,515 "	" 4,434 "
+Selected	Robi	30-34 yrs	3G Device	Dhaka South	50662	22995	" 41,252 "	" 40,972 "
+Selected	Robi	30-34 yrs	4G Device	Dhaka South	21979	13732	" 37,206 "	" 37,100 "
+Selected	Robi	30-34 yrs	Basic	Dhaka South	67728	6966	" 9,689 "	" 9,537 "
+Selected	Robi	30-34 yrs	Others	Dhaka South	7153	1902	" 2,852 "	" 2,820 "
+Selected	Robi	35-39 yrs	2G Device	Dhaka South	30527	2830	" 3,654 "	" 3,578 "
+Selected	Robi	35-39 yrs	3G Device	Dhaka South	42394	18895	" 33,457 "	" 33,214 "
+Selected	Robi	35-39 yrs	4G Device	Dhaka South	18207	11352	" 29,759 "	" 29,668 "
+Selected	Robi	35-39 yrs	Basic	Dhaka South	59005	5853	" 8,348 "	" 8,223 "
+Selected	Robi	35-39 yrs	Others	Dhaka South	5968	1506	" 2,149 "	" 2,123 "
+Selected	Robi	40-44 yrs	2G Device	Dhaka South	21896	1975	" 2,463 "	" 2,408 "
+Selected	Robi	40-44 yrs	3G Device	Dhaka South	30085	13401	" 23,132 "	" 22,955 "
+Selected	Robi	40-44 yrs	4G Device	Dhaka South	12729	7855	" 20,356 "	" 20,290 "
+Selected	Robi	40-44 yrs	Basic	Dhaka South	41511	4111	" 5,399 "	" 5,308 "
+Selected	Robi	40-44 yrs	Others	Dhaka South	4067	1018	" 1,417 "	" 1,398 "
+Selected	Robi	45-59 yrs	2G Device	Dhaka South	40843	3678	" 4,417 "	" 4,314 "
+Selected	Robi	45-59 yrs	3G Device	Dhaka South	49931	22223	" 37,211 "	" 36,913 "
+Selected	Robi	45-59 yrs	4G Device	Dhaka South	20358	12477	" 31,339 "	" 31,230 "
+Selected	Robi	45-59 yrs	Basic	Dhaka South	76580	7094	" 10,126 "	" 9,966 "
+Selected	Robi	45-59 yrs	Others	Dhaka South	6972	1652	" 2,331 "	" 2,300 "
+Selected	Robi	60+ yrs	2G Device	Dhaka South	11122	734	 961 	 940 
+Selected	Robi	60+ yrs	3G Device	Dhaka South	10952	4650	" 7,716 "	" 7,656 "
+Selected	Robi	60+ yrs	4G Device	Dhaka South	4584	2874	" 7,566 "	" 7,544 "
+Selected	Robi	60+ yrs	Basic	Dhaka South	20363	1356	" 1,736 "	" 1,707 "
+Selected	Robi	60+ yrs	Others	Dhaka South	1658	317	 436 	 431 
+Selected	Robi	OTHERS	2G Device	Dhaka South	7	0	 -   	
+Selected	Robi	OTHERS	3G Device	Dhaka South	8	0	 -   	
+Selected	Robi	OTHERS	4G Device	Dhaka South	1	0	 -   	
+Selected	Robi	OTHERS	Basic	Dhaka South	18	0	 -   	
+Selected	Robi	OTHERS	Others	Dhaka South	27	0	 -   	
+Selected	Robi	<=24 yrs	2G Device	Khulna	3040	1117	" 1,564 "	" 1,551 "
+Selected	Robi	<=24 yrs	3G Device	Khulna	7337	5200	" 8,892 "	" 8,852 "
+Selected	Robi	<=24 yrs	4G Device	Khulna	3506	2834	" 6,735 "	" 6,721 "
+Selected	Robi	<=24 yrs	Basic	Khulna	5054	1714	" 2,538 "	" 2,518 "
+Selected	Robi	<=24 yrs	Others	Khulna	1365	627	 709 	 702 
+Selected	Robi	25-29 yrs	2G Device	Khulna	4096	941	" 1,352 "	" 1,339 "
+Selected	Robi	25-29 yrs	3G Device	Khulna	8370	5025	" 9,169 "	" 9,120 "
+Selected	Robi	25-29 yrs	4G Device	Khulna	3515	2618	" 7,383 "	" 7,368 "
+Selected	Robi	25-29 yrs	Basic	Khulna	7315	1507	" 2,130 "	" 2,108 "
+Selected	Robi	25-29 yrs	Others	Khulna	1793	612	 865 	 857 
+Selected	Robi	30-34 yrs	2G Device	Khulna	4900	755	 954 	 940 
+Selected	Robi	30-34 yrs	3G Device	Khulna	7809	4163	" 7,884 "	" 7,840 "
+Selected	Robi	30-34 yrs	4G Device	Khulna	3015	2100	" 6,228 "	" 6,216 "
+Selected	Robi	30-34 yrs	Basic	Khulna	8782	1284	" 1,890 "	" 1,869 "
+Selected	Robi	30-34 yrs	Others	Khulna	2049	475	 757 	 749 
+Selected	Robi	35-39 yrs	2G Device	Khulna	4812	651	 939 	 925 
+Selected	Robi	35-39 yrs	3G Device	Khulna	6951	3592	" 6,481 "	" 6,442 "
+Selected	Robi	35-39 yrs	4G Device	Khulna	2514	1727	" 4,699 "	" 4,688 "
+Selected	Robi	35-39 yrs	Basic	Khulna	8330	1129	" 2,016 "	" 1,994 "
+Selected	Robi	35-39 yrs	Others	Khulna	1925	437	 579 	 573 
+Selected	Robi	40-44 yrs	2G Device	Khulna	3554	508	 750 	 739 
+Selected	Robi	40-44 yrs	3G Device	Khulna	5306	2657	" 4,827 "	" 4,797 "
+Selected	Robi	40-44 yrs	4G Device	Khulna	1978	1320	" 3,818 "	" 3,809 "
+Selected	Robi	40-44 yrs	Basic	Khulna	6125	898	" 1,385 "	" 1,368 "
+Selected	Robi	40-44 yrs	Others	Khulna	1438	327	 544 	 538 
+Selected	Robi	45-59 yrs	2G Device	Khulna	6448	880	" 1,164 "	" 1,144 "
+Selected	Robi	45-59 yrs	3G Device	Khulna	8680	4486	" 8,461 "	" 8,408 "
+Selected	Robi	45-59 yrs	4G Device	Khulna	3289	2200	" 6,626 "	" 6,610 "
+Selected	Robi	45-59 yrs	Basic	Khulna	11235	1616	" 2,404 "	" 2,374 "
+Selected	Robi	45-59 yrs	Others	Khulna	2711	592	 902 	 890 
+Selected	Robi	60+ yrs	2G Device	Khulna	1754	162	 215 	 211 
+Selected	Robi	60+ yrs	3G Device	Khulna	1862	890	" 1,799 "	" 1,788 "
+Selected	Robi	60+ yrs	4G Device	Khulna	605	427	" 1,184 "	" 1,181 "
+Selected	Robi	60+ yrs	Basic	Khulna	2687	299	 561 	 556 
+Selected	Robi	60+ yrs	Others	Khulna	631	123	 115 	 113 
+Selected	Robi	OTHERS	2G Device	Khulna	1	0	 -   	
+Selected	Robi	OTHERS	3G Device	Khulna	2	0	 -   	
+Selected	Robi	OTHERS	4G Device	Khulna	0	0	 -   	
+Selected	Robi	OTHERS	Basic	Khulna	3	0	 -   	
+Selected	Robi	OTHERS	Others	Khulna	9	0	 -   	
+Selected	Robi	<=24 yrs	2G Device	Kushtia	622	191	 261 	 258 
+Selected	Robi	<=24 yrs	3G Device	Kushtia	1449	917	" 1,672 "	" 1,662 "
+Selected	Robi	<=24 yrs	4G Device	Kushtia	738	524	" 1,270 "	" 1,267 "
+Selected	Robi	<=24 yrs	Basic	Kushtia	1094	292	 405 	 401 
+Selected	Robi	<=24 yrs	Others	Kushtia	197	68	 65 	 64 
+Selected	Robi	25-29 yrs	2G Device	Kushtia	1009	178	 225 	 222 
+Selected	Robi	25-29 yrs	3G Device	Kushtia	1689	934	" 1,868 "	" 1,858 "
+Selected	Robi	25-29 yrs	4G Device	Kushtia	757	547	" 1,426 "	" 1,423 "
+Selected	Robi	25-29 yrs	Basic	Kushtia	1821	315	 479 	 474 
+Selected	Robi	25-29 yrs	Others	Kushtia	244	74	 70 	 69 
+Selected	Robi	30-34 yrs	2G Device	Kushtia	1060	128	 155 	 152 
+Selected	Robi	30-34 yrs	3G Device	Kushtia	1719	851	" 1,522 "	" 1,513 "
+Selected	Robi	30-34 yrs	4G Device	Kushtia	658	399	" 1,180 "	" 1,177 "
+Selected	Robi	30-34 yrs	Basic	Kushtia	2096	275	 503 	 498 
+Selected	Robi	30-34 yrs	Others	Kushtia	278	54	 56 	 54 
+Selected	Robi	35-39 yrs	2G Device	Kushtia	1099	149	 233 	 229 
+Selected	Robi	35-39 yrs	3G Device	Kushtia	1507	724	" 1,322 "	" 1,314 "
+Selected	Robi	35-39 yrs	4G Device	Kushtia	627	408	" 1,145 "	" 1,142 "
+Selected	Robi	35-39 yrs	Basic	Kushtia	1896	230	 365 	 360 
+Selected	Robi	35-39 yrs	Others	Kushtia	293	52	 103 	 102 
+Selected	Robi	40-44 yrs	2G Device	Kushtia	849	93	 156 	 153 
+Selected	Robi	40-44 yrs	3G Device	Kushtia	1248	599	" 1,117 "	" 1,109 "
+Selected	Robi	40-44 yrs	4G Device	Kushtia	441	296	 710 	 708 
+Selected	Robi	40-44 yrs	Basic	Kushtia	1649	215	 370 	 367 
+Selected	Robi	40-44 yrs	Others	Kushtia	231	35	 36 	 35 
+Selected	Robi	45-59 yrs	2G Device	Kushtia	1600	181	 210 	 206 
+Selected	Robi	45-59 yrs	3G Device	Kushtia	1933	972	" 1,968 "	" 1,957 "
+Selected	Robi	45-59 yrs	4G Device	Kushtia	782	508	" 1,592 "	" 1,589 "
+Selected	Robi	45-59 yrs	Basic	Kushtia	2754	330	 570 	 564 
+Selected	Robi	45-59 yrs	Others	Kushtia	411	75	 78 	 76 
+Selected	Robi	60+ yrs	2G Device	Kushtia	416	40	 49 	 49 
+Selected	Robi	60+ yrs	3G Device	Kushtia	467	225	 483 	 481 
+Selected	Robi	60+ yrs	4G Device	Kushtia	179	116	 338 	 337 
+Selected	Robi	60+ yrs	Basic	Kushtia	748	83	 119 	 117 
+Selected	Robi	60+ yrs	Others	Kushtia	120	21	 26 	 25 
+Selected	Robi	OTHERS	2G Device	Kushtia	1	0	 -   	
+Selected	Robi	OTHERS	3G Device	Kushtia	1	0	 -   	
+Selected	Robi	OTHERS	4G Device	Kushtia	0	0	 -   	
+Selected	Robi	OTHERS	Basic	Kushtia	1	0	 -   	
+Selected	Robi	OTHERS	Others	Kushtia	1	0	 -   	
+Selected	Robi	<=24 yrs	2G Device	Mymensingh	1129	325	 441 	 434 
+Selected	Robi	<=24 yrs	3G Device	Mymensingh	2565	1608	" 2,853 "	" 2,833 "
+Selected	Robi	<=24 yrs	4G Device	Mymensingh	1337	966	" 2,820 "	" 2,812 "
+Selected	Robi	<=24 yrs	Basic	Mymensingh	2083	524	 737 	 727 
+Selected	Robi	<=24 yrs	Others	Mymensingh	376	160	 270 	 268 
+Selected	Robi	25-29 yrs	2G Device	Mymensingh	1948	354	 666 	 658 
+Selected	Robi	25-29 yrs	3G Device	Mymensingh	3662	2106	" 4,856 "	" 4,833 "
+Selected	Robi	25-29 yrs	4G Device	Mymensingh	1741	1279	" 3,898 "	" 3,890 "
+Selected	Robi	25-29 yrs	Basic	Mymensingh	3637	639	" 1,137 "	" 1,125 "
+Selected	Robi	25-29 yrs	Others	Mymensingh	584	194	 304 	 301 
+Selected	Robi	30-34 yrs	2G Device	Mymensingh	2390	337	 436 	 428 
+Selected	Robi	30-34 yrs	3G Device	Mymensingh	3763	1871	" 3,877 "	" 3,854 "
+Selected	Robi	30-34 yrs	4G Device	Mymensingh	1595	1084	" 3,192 "	" 3,184 "
+Selected	Robi	30-34 yrs	Basic	Mymensingh	4553	606	" 1,128 "	" 1,118 "
+Selected	Robi	30-34 yrs	Others	Mymensingh	623	154	 227 	 224 
+Selected	Robi	35-39 yrs	2G Device	Mymensingh	2370	313	 489 	 479 
+Selected	Robi	35-39 yrs	3G Device	Mymensingh	3625	1905	" 4,255 "	" 4,234 "
+Selected	Robi	35-39 yrs	4G Device	Mymensingh	1519	1040	" 3,556 "	" 3,550 "
+Selected	Robi	35-39 yrs	Basic	Mymensingh	4600	578	 858 	 846 
+Selected	Robi	35-39 yrs	Others	Mymensingh	633	140	 246 	 243 
+Selected	Robi	40-44 yrs	2G Device	Mymensingh	1874	277	 354 	 346 
+Selected	Robi	40-44 yrs	3G Device	Mymensingh	2938	1605	" 3,514 "	" 3,495 "
+Selected	Robi	40-44 yrs	4G Device	Mymensingh	1299	895	" 2,619 "	" 2,612 "
+Selected	Robi	40-44 yrs	Basic	Mymensingh	3263	461	 648 	 639 
+Selected	Robi	40-44 yrs	Others	Mymensingh	536	129	 188 	 186 
+Selected	Robi	45-59 yrs	2G Device	Mymensingh	3662	525	 671 	 658 
+Selected	Robi	45-59 yrs	3G Device	Mymensingh	5011	2660	" 5,819 "	" 5,784 "
+Selected	Robi	45-59 yrs	4G Device	Mymensingh	2150	1514	" 4,844 "	" 4,832 "
+Selected	Robi	45-59 yrs	Basic	Mymensingh	6368	926	" 1,675 "	" 1,655 "
+Selected	Robi	45-59 yrs	Others	Mymensingh	929	232	 439 	 436 
+Selected	Robi	60+ yrs	2G Device	Mymensingh	857	92	 126 	 124 
+Selected	Robi	60+ yrs	3G Device	Mymensingh	987	512	" 1,103 "	" 1,097 "
+Selected	Robi	60+ yrs	4G Device	Mymensingh	431	294	 787 	 785 
+Selected	Robi	60+ yrs	Basic	Mymensingh	1492	168	 269 	 265 
+Selected	Robi	60+ yrs	Others	Mymensingh	243	40	 54 	 53 
+Selected	Robi	OTHERS	2G Device	Mymensingh	3	0	 -   	
+Selected	Robi	OTHERS	3G Device	Mymensingh	2	0	 -   	
+Selected	Robi	OTHERS	4G Device	Mymensingh	0	0	 -   	
+Selected	Robi	OTHERS	Basic	Mymensingh	2	0	 -   	
+Selected	Robi	OTHERS	Others	Mymensingh	2	0	 -   	
+Selected	Robi	<=24 yrs	2G Device	Noakhali	11300	2041	" 2,870 "	" 2,833 "
+Selected	Robi	<=24 yrs	3G Device	Noakhali	22659	14424	" 28,907 "	" 28,800 "
+Selected	Robi	<=24 yrs	4G Device	Noakhali	11259	8829	" 28,824 "	" 28,792 "
+Selected	Robi	<=24 yrs	Basic	Noakhali	23203	3724	" 6,118 "	" 6,065 "
+Selected	Robi	<=24 yrs	Others	Noakhali	2283	871	" 1,214 "	" 1,206 "
+Selected	Robi	25-29 yrs	2G Device	Noakhali	37777	4624	" 6,762 "	" 6,669 "
+Selected	Robi	25-29 yrs	3G Device	Noakhali	66605	39912	" 80,955 "	" 80,669 "
+Selected	Robi	25-29 yrs	4G Device	Noakhali	30678	23553	" 75,332 "	" 75,246 "
+Selected	Robi	25-29 yrs	Basic	Noakhali	80334	9416	" 15,239 "	" 15,097 "
+Selected	Robi	25-29 yrs	Others	Noakhali	6414	1989	" 3,202 "	" 3,181 "
+Selected	Robi	30-34 yrs	2G Device	Noakhali	52348	4815	" 6,537 "	" 6,436 "
+Selected	Robi	30-34 yrs	3G Device	Noakhali	81910	46277	" 88,282 "	" 87,935 "
+Selected	Robi	30-34 yrs	4G Device	Noakhali	36625	27746	" 82,567 "	" 82,457 "
+Selected	Robi	30-34 yrs	Basic	Noakhali	110807	9983	" 15,332 "	" 15,176 "
+Selected	Robi	30-34 yrs	Others	Noakhali	8754	2339	" 3,690 "	" 3,666 "
+Selected	Robi	35-39 yrs	2G Device	Noakhali	51977	4308	" 5,327 "	" 5,221 "
+Selected	Robi	35-39 yrs	3G Device	Noakhali	72286	39779	" 75,257 "	" 74,945 "
+Selected	Robi	35-39 yrs	4G Device	Noakhali	30775	23111	" 66,322 "	" 66,225 "
+Selected	Robi	35-39 yrs	Basic	Noakhali	106290	8678	" 12,726 "	" 12,580 "
+Selected	Robi	35-39 yrs	Others	Noakhali	8680	2147	" 3,474 "	" 3,449 "
+Selected	Robi	40-44 yrs	2G Device	Noakhali	37662	2994	" 3,612 "	" 3,534 "
+Selected	Robi	40-44 yrs	3G Device	Noakhali	47680	26128	" 48,275 "	" 48,063 "
+Selected	Robi	40-44 yrs	4G Device	Noakhali	19793	14782	" 41,323 "	" 41,256 "
+Selected	Robi	40-44 yrs	Basic	Noakhali	75391	5925	" 8,833 "	" 8,729 "
+Selected	Robi	40-44 yrs	Others	Noakhali	5945	1354	" 2,129 "	" 2,112 "
+Selected	Robi	45-59 yrs	2G Device	Noakhali	74410	6001	" 7,265 "	" 7,115 "
+Selected	Robi	45-59 yrs	3G Device	Noakhali	84099	45729	" 81,584 "	" 81,211 "
+Selected	Robi	45-59 yrs	4G Device	Noakhali	33903	25562	" 69,520 "	" 69,407 "
+Selected	Robi	45-59 yrs	Basic	Noakhali	150569	11206	" 15,787 "	" 15,584 "
+Selected	Robi	45-59 yrs	Others	Noakhali	11188	2382	" 3,694 "	" 3,664 "
+Selected	Robi	60+ yrs	2G Device	Noakhali	28085	1560	" 1,779 "	" 1,739 "
+Selected	Robi	60+ yrs	3G Device	Noakhali	26331	14000	" 24,777 "	" 24,669 "
+Selected	Robi	60+ yrs	4G Device	Noakhali	11633	8859	" 24,265 "	" 24,228 "
+Selected	Robi	60+ yrs	Basic	Noakhali	58472	2987	" 4,196 "	" 4,141 "
+Selected	Robi	60+ yrs	Others	Noakhali	4105	758	" 1,210 "	" 1,202 "
+Selected	Robi	OTHERS	2G Device	Noakhali	9	0	 -   	
+Selected	Robi	OTHERS	3G Device	Noakhali	7	0	 -   	
+Selected	Robi	OTHERS	4G Device	Noakhali	6	1	 1 	 1 
+Selected	Robi	OTHERS	Basic	Noakhali	19	0	 -   	
+Selected	Robi	OTHERS	Others	Noakhali	24	0	 -   	
+Selected	Robi	<=24 yrs	2G Device	Rajshahi	3104	923	" 1,385 "	" 1,369 "
+Selected	Robi	<=24 yrs	3G Device	Rajshahi	7267	4841	" 9,304 "	" 9,264 "
+Selected	Robi	<=24 yrs	4G Device	Rajshahi	3185	2530	" 6,396 "	" 6,383 "
+Selected	Robi	<=24 yrs	Basic	Rajshahi	4871	1414	" 2,212 "	" 2,193 "
+Selected	Robi	<=24 yrs	Others	Rajshahi	1326	564	 661 	 651 
+Selected	Robi	25-29 yrs	2G Device	Rajshahi	4503	775	" 1,183 "	" 1,169 "
+Selected	Robi	25-29 yrs	3G Device	Rajshahi	7990	4540	" 9,241 "	" 9,195 "
+Selected	Robi	25-29 yrs	4G Device	Rajshahi	2996	2212	" 6,538 "	" 6,527 "
+Selected	Robi	25-29 yrs	Basic	Rajshahi	7666	1228	" 1,859 "	" 1,840 "
+Selected	Robi	25-29 yrs	Others	Rajshahi	1509	505	 610 	 602 
+Selected	Robi	30-34 yrs	2G Device	Rajshahi	5169	543	 868 	 856 
+Selected	Robi	30-34 yrs	3G Device	Rajshahi	6817	3142	" 6,465 "	" 6,429 "
+Selected	Robi	30-34 yrs	4G Device	Rajshahi	2270	1504	" 4,216 "	" 4,206 "
+Selected	Robi	30-34 yrs	Basic	Rajshahi	8900	883	" 1,313 "	" 1,293 "
+Selected	Robi	30-34 yrs	Others	Rajshahi	1667	342	 383 	 376 
+Selected	Robi	35-39 yrs	2G Device	Rajshahi	5120	501	 608 	 595 
+Selected	Robi	35-39 yrs	3G Device	Rajshahi	6321	2832	" 5,513 "	" 5,479 "
+Selected	Robi	35-39 yrs	4G Device	Rajshahi	2030	1322	" 3,609 "	" 3,600 "
+Selected	Robi	35-39 yrs	Basic	Rajshahi	8720	870	" 1,192 "	" 1,172 "
+Selected	Robi	35-39 yrs	Others	Rajshahi	1526	285	 358 	 352 
+Selected	Robi	40-44 yrs	2G Device	Rajshahi	3696	430	 615 	 603 
+Selected	Robi	40-44 yrs	3G Device	Rajshahi	4714	2245	" 4,300 "	" 4,275 "
+Selected	Robi	40-44 yrs	4G Device	Rajshahi	1655	1080	" 3,210 "	" 3,203 "
+Selected	Robi	40-44 yrs	Basic	Rajshahi	6007	660	 981 	 965 
+Selected	Robi	40-44 yrs	Others	Rajshahi	1048	208	 259 	 254 
+Selected	Robi	45-59 yrs	2G Device	Rajshahi	7022	767	" 1,094 "	" 1,071 "
+Selected	Robi	45-59 yrs	3G Device	Rajshahi	8329	4101	" 9,050 "	" 9,000 "
+Selected	Robi	45-59 yrs	4G Device	Rajshahi	2961	2003	" 6,704 "	" 6,690 "
+Selected	Robi	45-59 yrs	Basic	Rajshahi	11646	1282	" 2,034 "	" 2,004 "
+Selected	Robi	45-59 yrs	Others	Rajshahi	1987	371	 542 	 534 
+Selected	Robi	60+ yrs	2G Device	Rajshahi	1733	146	 210 	 206 
+Selected	Robi	60+ yrs	3G Device	Rajshahi	1563	678	" 1,423 "	" 1,415 "
+Selected	Robi	60+ yrs	4G Device	Rajshahi	548	362	 928 	 925 
+Selected	Robi	60+ yrs	Basic	Rajshahi	2805	210	 338 	 334 
+Selected	Robi	60+ yrs	Others	Rajshahi	578	83	 122 	 121 
+Selected	Robi	OTHERS	2G Device	Rajshahi	0	0	 -   	
+Selected	Robi	OTHERS	3G Device	Rajshahi	1	0	 -   	
+Selected	Robi	OTHERS	4G Device	Rajshahi	1	0	 -   	
+Selected	Robi	OTHERS	Basic	Rajshahi	3	1	 1 	 1 
+Selected	Robi	OTHERS	Others	Rajshahi	3	0	 -   	
+Selected	Robi	<=24 yrs	2G Device	Rangpur	1279	480	 676 	 669 
+Selected	Robi	<=24 yrs	3G Device	Rangpur	3145	2320	" 4,669 "	" 4,651 "
+Selected	Robi	<=24 yrs	4G Device	Rangpur	1242	1070	" 2,720 "	" 2,714 "
+Selected	Robi	<=24 yrs	Basic	Rangpur	2160	736	" 1,370 "	" 1,357 "
+Selected	Robi	<=24 yrs	Others	Rangpur	594	308	 424 	 420 
+Selected	Robi	25-29 yrs	2G Device	Rangpur	1897	436	 647 	 639 
+Selected	Robi	25-29 yrs	3G Device	Rangpur	3541	2245	" 4,858 "	" 4,840 "
+Selected	Robi	25-29 yrs	4G Device	Rangpur	1173	916	" 3,157 "	" 3,152 "
+Selected	Robi	25-29 yrs	Basic	Rangpur	3120	671	" 1,054 "	" 1,041 "
+Selected	Robi	25-29 yrs	Others	Rangpur	649	222	 359 	 356 
+Selected	Robi	30-34 yrs	2G Device	Rangpur	2140	293	 487 	 479 
+Selected	Robi	30-34 yrs	3G Device	Rangpur	3010	1524	" 3,370 "	" 3,351 "
+Selected	Robi	30-34 yrs	4G Device	Rangpur	972	712	" 2,640 "	" 2,636 "
+Selected	Robi	30-34 yrs	Basic	Rangpur	3606	486	 742 	 732 
+Selected	Robi	30-34 yrs	Others	Rangpur	710	175	 395 	 391 
+Selected	Robi	35-39 yrs	2G Device	Rangpur	2161	251	 369 	 361 
+Selected	Robi	35-39 yrs	3G Device	Rangpur	2512	1213	" 2,768 "	" 2,754 "
+Selected	Robi	35-39 yrs	4G Device	Rangpur	844	617	" 2,150 "	" 2,148 "
+Selected	Robi	35-39 yrs	Basic	Rangpur	3686	418	 778 	 767 
+Selected	Robi	35-39 yrs	Others	Rangpur	711	139	 240 	 238 
+Selected	Robi	40-44 yrs	2G Device	Rangpur	1426	159	 234 	 228 
+Selected	Robi	40-44 yrs	3G Device	Rangpur	1790	901	" 2,096 "	" 2,085 "
+Selected	Robi	40-44 yrs	4G Device	Rangpur	559	395	" 1,455 "	" 1,452 "
+Selected	Robi	40-44 yrs	Basic	Rangpur	2284	313	 409 	 402 
+Selected	Robi	40-44 yrs	Others	Rangpur	408	91	 142 	 140 
+Selected	Robi	45-59 yrs	2G Device	Rangpur	2710	390	 600 	 589 
+Selected	Robi	45-59 yrs	3G Device	Rangpur	3118	1572	" 3,827 "	" 3,807 "
+Selected	Robi	45-59 yrs	4G Device	Rangpur	986	723	" 2,474 "	" 2,471 "
+Selected	Robi	45-59 yrs	Basic	Rangpur	4382	606	 876 	 863 
+Selected	Robi	45-59 yrs	Others	Rangpur	933	205	 295 	 291 
+Selected	Robi	60+ yrs	2G Device	Rangpur	635	71	 85 	 83 
+Selected	Robi	60+ yrs	3G Device	Rangpur	683	362	 881 	 877 
+Selected	Robi	60+ yrs	4G Device	Rangpur	211	147	 501 	 500 
+Selected	Robi	60+ yrs	Basic	Rangpur	1121	129	 240 	 237 
+Selected	Robi	60+ yrs	Others	Rangpur	196	39	 49 	 49 
+Selected	Robi	OTHERS	2G Device	Rangpur	0	0	 -   	
+Selected	Robi	OTHERS	3G Device	Rangpur	1	0	 -   	
+Selected	Robi	OTHERS	4G Device	Rangpur	0	0	 -   	
+Selected	Robi	OTHERS	Basic	Rangpur	0	0	 -   	
+Selected	Robi	OTHERS	Others	Rangpur	3	0	 -   	
+Selected	Robi	<=24 yrs	2G Device	Sylhet	643	268	 611 	 608 
+Selected	Robi	<=24 yrs	3G Device	Sylhet	3014	2428	" 6,610 "	" 6,600 "
+Selected	Robi	<=24 yrs	4G Device	Sylhet	1608	1379	" 5,095 "	" 5,091 "
+Selected	Robi	<=24 yrs	Basic	Sylhet	1306	564	" 1,448 "	" 1,444 "
+Selected	Robi	<=24 yrs	Others	Sylhet	543	297	 705 	 703 
+Selected	Robi	25-29 yrs	2G Device	Sylhet	1275	348	 937 	 933 
+Selected	Robi	25-29 yrs	3G Device	Sylhet	4213	3073	" 9,272 "	" 9,256 "
+Selected	Robi	25-29 yrs	4G Device	Sylhet	2079	1735	" 7,944 "	" 7,940 "
+Selected	Robi	25-29 yrs	Basic	Sylhet	2641	788	" 1,927 "	" 1,921 "
+Selected	Robi	25-29 yrs	Others	Sylhet	912	422	 929 	 926 
+Selected	Robi	30-34 yrs	2G Device	Sylhet	1407	268	 602 	 598 
+Selected	Robi	30-34 yrs	3G Device	Sylhet	3544	2376	" 7,577 "	" 7,565 "
+Selected	Robi	30-34 yrs	4G Device	Sylhet	1480	1154	" 5,305 "	" 5,300 "
+Selected	Robi	30-34 yrs	Basic	Sylhet	2805	535	" 1,344 "	" 1,339 "
+Selected	Robi	30-34 yrs	Others	Sylhet	871	325	 640 	 638 
+Selected	Robi	35-39 yrs	2G Device	Sylhet	1215	187	 435 	 431 
+Selected	Robi	35-39 yrs	3G Device	Sylhet	2671	1725	" 5,082 "	" 5,072 "
+Selected	Robi	35-39 yrs	4G Device	Sylhet	1108	870	" 3,879 "	" 3,875 "
+Selected	Robi	35-39 yrs	Basic	Sylhet	2255	399	 827 	 822 
+Selected	Robi	35-39 yrs	Others	Sylhet	715	238	 448 	 445 
+Selected	Robi	40-44 yrs	2G Device	Sylhet	829	138	 357 	 354 
+Selected	Robi	40-44 yrs	3G Device	Sylhet	1971	1150	" 3,465 "	" 3,458 "
+Selected	Robi	40-44 yrs	4G Device	Sylhet	717	523	" 2,306 "	" 2,303 "
+Selected	Robi	40-44 yrs	Basic	Sylhet	1530	275	 703 	 700 
+Selected	Robi	40-44 yrs	Others	Sylhet	447	152	 350 	 349 
+Selected	Robi	45-59 yrs	2G Device	Sylhet	1587	245	 688 	 684 
+Selected	Robi	45-59 yrs	3G Device	Sylhet	3059	1904	" 6,140 "	" 6,127 "
+Selected	Robi	45-59 yrs	4G Device	Sylhet	1297	962	" 4,578 "	" 4,573 "
+Selected	Robi	45-59 yrs	Basic	Sylhet	2765	447	" 1,078 "	" 1,072 "
+Selected	Robi	45-59 yrs	Others	Sylhet	773	238	 573 	 570 
+Selected	Robi	60+ yrs	2G Device	Sylhet	394	51	 90 	 89 
+Selected	Robi	60+ yrs	3G Device	Sylhet	656	360	" 1,199 "	" 1,197 "
+Selected	Robi	60+ yrs	4G Device	Sylhet	272	183	 968 	 967 
+Selected	Robi	60+ yrs	Basic	Sylhet	666	82	 218 	 217 
+Selected	Robi	60+ yrs	Others	Sylhet	229	60	 174 	 173 
+Selected	Robi	OTHERS	2G Device	Sylhet	0	0	 -   	
+Selected	Robi	OTHERS	3G Device	Sylhet	1	0	 -   	
+Selected	Robi	OTHERS	4G Device	Sylhet	1	0	 -   	
+Selected	Robi	OTHERS	Basic	Sylhet	1	0	 -   	
+Selected	Robi	OTHERS	Others	Sylhet	2	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Barisal	9329	2076	" 3,277 "	" 3,243 "
+Not Seelected	Robi	<=24 yrs	3G Device	Barisal	17414	10468	" 21,662 "	" 21,565 "
+Not Seelected	Robi	<=24 yrs	4G Device	Barisal	6713	5091	" 15,019 "	" 14,995 "
+Not Seelected	Robi	<=24 yrs	Basic	Barisal	20877	4180	" 6,769 "	" 6,699 "
+Not Seelected	Robi	<=24 yrs	Others	Barisal	3131	1128	" 1,593 "	" 1,577 "
+Not Seelected	Robi	25-29 yrs	2G Device	Barisal	21317	2459	" 3,979 "	" 3,924 "
+Not Seelected	Robi	25-29 yrs	3G Device	Barisal	28389	13530	" 27,524 "	" 27,370 "
+Not Seelected	Robi	25-29 yrs	4G Device	Barisal	9618	6419	" 19,908 "	" 19,867 "
+Not Seelected	Robi	25-29 yrs	Basic	Barisal	48723	5336	" 8,472 "	" 8,353 "
+Not Seelected	Robi	25-29 yrs	Others	Barisal	5827	1298	" 2,020 "	" 1,997 "
+Not Seelected	Robi	30-34 yrs	2G Device	Barisal	28031	2352	" 3,547 "	" 3,489 "
+Not Seelected	Robi	30-34 yrs	3G Device	Barisal	31727	13773	" 27,584 "	" 27,416 "
+Not Seelected	Robi	30-34 yrs	4G Device	Barisal	10172	6540	" 19,433 "	" 19,389 "
+Not Seelected	Robi	30-34 yrs	Basic	Barisal	63211	5481	" 8,720 "	" 8,594 "
+Not Seelected	Robi	30-34 yrs	Others	Barisal	7502	1338	" 1,679 "	" 1,655 "
+Not Seelected	Robi	35-39 yrs	2G Device	Barisal	26089	1947	" 2,819 "	" 2,768 "
+Not Seelected	Robi	35-39 yrs	3G Device	Barisal	26057	11230	" 21,410 "	" 21,272 "
+Not Seelected	Robi	35-39 yrs	4G Device	Barisal	7867	5111	" 14,909 "	" 14,876 "
+Not Seelected	Robi	35-39 yrs	Basic	Barisal	57958	4464	" 6,970 "	" 6,863 "
+Not Seelected	Robi	35-39 yrs	Others	Barisal	7175	1142	" 1,662 "	" 1,642 "
+Not Seelected	Robi	40-44 yrs	2G Device	Barisal	17820	1402	" 2,069 "	" 2,030 "
+Not Seelected	Robi	40-44 yrs	3G Device	Barisal	17193	7493	" 14,433 "	" 14,338 "
+Not Seelected	Robi	40-44 yrs	4G Device	Barisal	4889	3177	" 9,154 "	" 9,132 "
+Not Seelected	Robi	40-44 yrs	Basic	Barisal	38710	3153	" 4,450 "	" 4,371 "
+Not Seelected	Robi	40-44 yrs	Others	Barisal	4968	737	" 1,087 "	" 1,072 "
+Not Seelected	Robi	45-59 yrs	2G Device	Barisal	32044	2780	" 4,063 "	" 3,987 "
+Not Seelected	Robi	45-59 yrs	3G Device	Barisal	30340	13590	" 26,568 "	" 26,404 "
+Not Seelected	Robi	45-59 yrs	4G Device	Barisal	8519	5587	" 15,633 "	" 15,594 "
+Not Seelected	Robi	45-59 yrs	Basic	Barisal	70818	6035	" 8,715 "	" 8,569 "
+Not Seelected	Robi	45-59 yrs	Others	Barisal	9085	1401	" 1,983 "	" 1,956 "
+Not Seelected	Robi	60+ yrs	2G Device	Barisal	9850	662	 916 	 899 
+Not Seelected	Robi	60+ yrs	3G Device	Barisal	8143	3469	" 6,285 "	" 6,242 "
+Not Seelected	Robi	60+ yrs	4G Device	Barisal	2448	1656	" 4,379 "	" 4,370 "
+Not Seelected	Robi	60+ yrs	Basic	Barisal	21745	1592	" 2,520 "	" 2,483 "
+Not Seelected	Robi	60+ yrs	Others	Barisal	2723	378	 491 	 485 
+Not Seelected	Robi	OTHERS	2G Device	Barisal	7	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Barisal	3	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Barisal	4	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Barisal	13	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Barisal	28	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Brahmanbaria 	1191	238	 506 	 503 
+Not Seelected	Robi	<=24 yrs	3G Device	Brahmanbaria 	2557	1596	" 4,337 "	" 4,326 "
+Not Seelected	Robi	<=24 yrs	4G Device	Brahmanbaria 	1432	1087	" 4,335 "	" 4,331 "
+Not Seelected	Robi	<=24 yrs	Basic	Brahmanbaria 	2691	441	 771 	 766 
+Not Seelected	Robi	<=24 yrs	Others	Brahmanbaria 	401	186	 222 	 221 
+Not Seelected	Robi	25-29 yrs	2G Device	Brahmanbaria 	4399	502	" 1,119 "	" 1,110 "
+Not Seelected	Robi	25-29 yrs	3G Device	Brahmanbaria 	8033	4537	" 11,498 "	" 11,465 "
+Not Seelected	Robi	25-29 yrs	4G Device	Brahmanbaria 	3589	2635	" 8,737 "	" 8,727 "
+Not Seelected	Robi	25-29 yrs	Basic	Brahmanbaria 	9858	1093	" 2,005 "	" 1,991 "
+Not Seelected	Robi	25-29 yrs	Others	Brahmanbaria 	1021	400	 526 	 523 
+Not Seelected	Robi	30-34 yrs	2G Device	Brahmanbaria 	6884	551	 880 	 871 
+Not Seelected	Robi	30-34 yrs	3G Device	Brahmanbaria 	10413	5444	" 13,000 "	" 12,959 "
+Not Seelected	Robi	30-34 yrs	4G Device	Brahmanbaria 	4658	3270	" 10,588 "	" 10,575 "
+Not Seelected	Robi	30-34 yrs	Basic	Brahmanbaria 	15538	1293	" 2,202 "	" 2,184 "
+Not Seelected	Robi	30-34 yrs	Others	Brahmanbaria 	1367	422	 518 	 512 
+Not Seelected	Robi	35-39 yrs	2G Device	Brahmanbaria 	6439	468	 716 	 706 
+Not Seelected	Robi	35-39 yrs	3G Device	Brahmanbaria 	8525	4290	" 9,232 "	" 9,194 "
+Not Seelected	Robi	35-39 yrs	4G Device	Brahmanbaria 	3512	2485	" 7,445 "	" 7,435 "
+Not Seelected	Robi	35-39 yrs	Basic	Brahmanbaria 	14186	985	" 1,682 "	" 1,667 "
+Not Seelected	Robi	35-39 yrs	Others	Brahmanbaria 	1115	318	 324 	 320 
+Not Seelected	Robi	40-44 yrs	2G Device	Brahmanbaria 	4368	320	 382 	 375 
+Not Seelected	Robi	40-44 yrs	3G Device	Brahmanbaria 	5311	2672	" 5,860 "	" 5,838 "
+Not Seelected	Robi	40-44 yrs	4G Device	Brahmanbaria 	2050	1442	" 4,347 "	" 4,339 "
+Not Seelected	Robi	40-44 yrs	Basic	Brahmanbaria 	10107	720	" 1,054 "	" 1,044 "
+Not Seelected	Robi	40-44 yrs	Others	Brahmanbaria 	925	250	 299 	 295 
+Not Seelected	Robi	45-59 yrs	2G Device	Brahmanbaria 	9056	699	" 1,062 "	" 1,047 "
+Not Seelected	Robi	45-59 yrs	3G Device	Brahmanbaria 	10349	5304	" 11,460 "	" 11,419 "
+Not Seelected	Robi	45-59 yrs	4G Device	Brahmanbaria 	4052	2917	" 8,992 "	" 8,980 "
+Not Seelected	Robi	45-59 yrs	Basic	Brahmanbaria 	20115	1419	" 2,533 "	" 2,511 "
+Not Seelected	Robi	45-59 yrs	Others	Brahmanbaria 	1452	459	 746 	 742 
+Not Seelected	Robi	60+ yrs	2G Device	Brahmanbaria 	3180	164	 231 	 227 
+Not Seelected	Robi	60+ yrs	3G Device	Brahmanbaria 	3111	1630	" 3,450 "	" 3,441 "
+Not Seelected	Robi	60+ yrs	4G Device	Brahmanbaria 	1366	988	" 3,092 "	" 3,088 "
+Not Seelected	Robi	60+ yrs	Basic	Brahmanbaria 	6991	346	 556 	 550 
+Not Seelected	Robi	60+ yrs	Others	Brahmanbaria 	462	150	 215 	 214 
+Not Seelected	Robi	OTHERS	2G Device	Brahmanbaria 	1	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Brahmanbaria 	1	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Brahmanbaria 	0	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Brahmanbaria 	4	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Brahmanbaria 	5	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Chittagong Metro	669	164	 246 	 243 
+Not Seelected	Robi	<=24 yrs	3G Device	Chittagong Metro	1459	967	" 2,110 "	" 2,104 "
+Not Seelected	Robi	<=24 yrs	4G Device	Chittagong Metro	839	635	" 2,182 "	" 2,179 "
+Not Seelected	Robi	<=24 yrs	Basic	Chittagong Metro	1353	251	 383 	 379 
+Not Seelected	Robi	<=24 yrs	Others	Chittagong Metro	306	184	 403 	 402 
+Not Seelected	Robi	25-29 yrs	2G Device	Chittagong Metro	2147	389	 584 	 576 
+Not Seelected	Robi	25-29 yrs	3G Device	Chittagong Metro	4347	2651	" 5,971 "	" 5,949 "
+Not Seelected	Robi	25-29 yrs	4G Device	Chittagong Metro	2313	1737	" 6,569 "	" 6,561 "
+Not Seelected	Robi	25-29 yrs	Basic	Chittagong Metro	4523	750	" 1,134 "	" 1,124 "
+Not Seelected	Robi	25-29 yrs	Others	Chittagong Metro	734	437	" 1,456 "	" 1,454 "
+Not Seelected	Robi	30-34 yrs	2G Device	Chittagong Metro	2805	390	 617 	 609 
+Not Seelected	Robi	30-34 yrs	3G Device	Chittagong Metro	5236	2954	" 6,642 "	" 6,618 "
+Not Seelected	Robi	30-34 yrs	4G Device	Chittagong Metro	2602	1877	" 7,582 "	" 7,573 "
+Not Seelected	Robi	30-34 yrs	Basic	Chittagong Metro	6042	751	" 1,332 "	" 1,318 "
+Not Seelected	Robi	30-34 yrs	Others	Chittagong Metro	829	441	" 1,341 "	" 1,338 "
+Not Seelected	Robi	35-39 yrs	2G Device	Chittagong Metro	2478	311	 424 	 416 
+Not Seelected	Robi	35-39 yrs	3G Device	Chittagong Metro	4190	2342	" 5,180 "	" 5,159 "
+Not Seelected	Robi	35-39 yrs	4G Device	Chittagong Metro	2016	1446	" 5,116 "	" 5,108 "
+Not Seelected	Robi	35-39 yrs	Basic	Chittagong Metro	4763	526	 772 	 762 
+Not Seelected	Robi	35-39 yrs	Others	Chittagong Metro	595	262	 803 	 800 
+Not Seelected	Robi	40-44 yrs	2G Device	Chittagong Metro	1860	240	 326 	 320 
+Not Seelected	Robi	40-44 yrs	3G Device	Chittagong Metro	3048	1630	" 3,274 "	" 3,259 "
+Not Seelected	Robi	40-44 yrs	4G Device	Chittagong Metro	1385	982	" 3,561 "	" 3,556 "
+Not Seelected	Robi	40-44 yrs	Basic	Chittagong Metro	3473	409	 530 	 523 
+Not Seelected	Robi	40-44 yrs	Others	Chittagong Metro	446	192	 448 	 446 
+Not Seelected	Robi	45-59 yrs	2G Device	Chittagong Metro	3506	413	 539 	 528 
+Not Seelected	Robi	45-59 yrs	3G Device	Chittagong Metro	4955	2629	" 5,279 "	" 5,256 "
+Not Seelected	Robi	45-59 yrs	4G Device	Chittagong Metro	2231	1534	" 4,912 "	" 4,902 "
+Not Seelected	Robi	45-59 yrs	Basic	Chittagong Metro	6104	706	" 1,045 "	" 1,031 "
+Not Seelected	Robi	45-59 yrs	Others	Chittagong Metro	717	323	 844 	 841 
+Not Seelected	Robi	60+ yrs	2G Device	Chittagong Metro	1037	95	 153 	 149 
+Not Seelected	Robi	60+ yrs	3G Device	Chittagong Metro	1010	489	 921 	 916 
+Not Seelected	Robi	60+ yrs	4G Device	Chittagong Metro	478	321	 990 	 988 
+Not Seelected	Robi	60+ yrs	Basic	Chittagong Metro	1738	151	 278 	 276 
+Not Seelected	Robi	60+ yrs	Others	Chittagong Metro	177	64	 168 	 167 
+Not Seelected	Robi	OTHERS	2G Device	Chittagong Metro	0	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Chittagong Metro	1	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Chittagong Metro	0	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Chittagong Metro	0	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Chittagong Metro	1	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Chittagong North	6687	1159	" 1,798 "	" 1,770 "
+Not Seelected	Robi	<=24 yrs	3G Device	Chittagong North	9833	6120	" 13,892 "	" 13,841 "
+Not Seelected	Robi	<=24 yrs	4G Device	Chittagong North	3892	3163	" 11,379 "	" 11,368 "
+Not Seelected	Robi	<=24 yrs	Basic	Chittagong North	16490	2728	" 4,279 "	" 4,217 "
+Not Seelected	Robi	<=24 yrs	Others	Chittagong North	1748	575	" 1,091 "	" 1,083 "
+Not Seelected	Robi	25-29 yrs	2G Device	Chittagong North	21723	2386	" 3,458 "	" 3,394 "
+Not Seelected	Robi	25-29 yrs	3G Device	Chittagong North	27677	15736	" 33,835 "	" 33,707 "
+Not Seelected	Robi	25-29 yrs	4G Device	Chittagong North	9829	7716	" 26,210 "	" 26,178 "
+Not Seelected	Robi	25-29 yrs	Basic	Chittagong North	51376	5582	" 8,157 "	" 8,011 "
+Not Seelected	Robi	25-29 yrs	Others	Chittagong North	5018	1214	" 2,323 "	" 2,305 "
+Not Seelected	Robi	30-34 yrs	2G Device	Chittagong North	29840	2308	" 3,360 "	" 3,294 "
+Not Seelected	Robi	30-34 yrs	3G Device	Chittagong North	33828	17572	" 36,496 "	" 36,349 "
+Not Seelected	Robi	30-34 yrs	4G Device	Chittagong North	11843	9088	" 28,562 "	" 28,523 "
+Not Seelected	Robi	30-34 yrs	Basic	Chittagong North	69210	5583	" 8,151 "	" 7,992 "
+Not Seelected	Robi	30-34 yrs	Others	Chittagong North	6785	1353	" 2,514 "	" 2,495 "
+Not Seelected	Robi	35-39 yrs	2G Device	Chittagong North	28477	2005	" 2,561 "	" 2,497 "
+Not Seelected	Robi	35-39 yrs	3G Device	Chittagong North	27442	13881	" 26,632 "	" 26,517 "
+Not Seelected	Robi	35-39 yrs	4G Device	Chittagong North	8837	6759	" 19,547 "	" 19,520 "
+Not Seelected	Robi	35-39 yrs	Basic	Chittagong North	64177	4577	" 6,266 "	" 6,129 "
+Not Seelected	Robi	35-39 yrs	Others	Chittagong North	6447	1043	" 1,708 "	" 1,689 "
+Not Seelected	Robi	40-44 yrs	2G Device	Chittagong North	21420	1586	" 1,918 "	" 1,862 "
+Not Seelected	Robi	40-44 yrs	3G Device	Chittagong North	19208	9674	" 17,986 "	" 17,897 "
+Not Seelected	Robi	40-44 yrs	4G Device	Chittagong North	5953	4541	" 13,340 "	" 13,319 "
+Not Seelected	Robi	40-44 yrs	Basic	Chittagong North	47842	3689	" 4,625 "	" 4,512 "
+Not Seelected	Robi	40-44 yrs	Others	Chittagong North	4708	756	" 1,250 "	" 1,237 "
+Not Seelected	Robi	45-59 yrs	2G Device	Chittagong North	41011	3042	" 3,707 "	" 3,600 "
+Not Seelected	Robi	45-59 yrs	3G Device	Chittagong North	34478	17223	" 32,210 "	" 32,059 "
+Not Seelected	Robi	45-59 yrs	4G Device	Chittagong North	10391	7919	" 22,578 "	" 22,544 "
+Not Seelected	Robi	45-59 yrs	Basic	Chittagong North	93870	6887	" 8,704 "	" 8,494 "
+Not Seelected	Robi	45-59 yrs	Others	Chittagong North	8911	1463	" 2,567 "	" 2,543 "
+Not Seelected	Robi	60+ yrs	2G Device	Chittagong North	13410	787	" 1,017 "	 991 
+Not Seelected	Robi	60+ yrs	3G Device	Chittagong North	10306	5106	" 9,038 "	" 8,995 "
+Not Seelected	Robi	60+ yrs	4G Device	Chittagong North	3551	2749	" 7,062 "	" 7,050 "
+Not Seelected	Robi	60+ yrs	Basic	Chittagong North	31567	1770	" 2,017 "	" 1,969 "
+Not Seelected	Robi	60+ yrs	Others	Chittagong North	2844	360	 570 	 564 
+Not Seelected	Robi	OTHERS	2G Device	Chittagong North	7	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Chittagong North	4	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Chittagong North	0	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Chittagong North	19	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Chittagong North	12	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Chittagong South	9936	1288	" 1,834 "	" 1,806 "
+Not Seelected	Robi	<=24 yrs	3G Device	Chittagong South	13822	8335	" 18,198 "	" 18,138 "
+Not Seelected	Robi	<=24 yrs	4G Device	Chittagong South	5860	4497	" 15,663 "	" 15,644 "
+Not Seelected	Robi	<=24 yrs	Basic	Chittagong South	26458	2920	" 4,527 "	" 4,472 "
+Not Seelected	Robi	<=24 yrs	Others	Chittagong South	2323	723	" 1,471 "	" 1,463 "
+Not Seelected	Robi	25-29 yrs	2G Device	Chittagong South	35075	3435	" 5,135 "	" 5,053 "
+Not Seelected	Robi	25-29 yrs	3G Device	Chittagong South	43921	24601	" 52,938 "	" 52,742 "
+Not Seelected	Robi	25-29 yrs	4G Device	Chittagong South	17517	13232	" 44,715 "	" 44,661 "
+Not Seelected	Robi	25-29 yrs	Basic	Chittagong South	93559	8124	" 12,549 "	" 12,393 "
+Not Seelected	Robi	25-29 yrs	Others	Chittagong South	6957	1944	" 4,099 "	" 4,079 "
+Not Seelected	Robi	30-34 yrs	2G Device	Chittagong South	54777	3994	" 5,701 "	" 5,605 "
+Not Seelected	Robi	30-34 yrs	3G Device	Chittagong South	58920	30470	" 64,699 "	" 64,454 "
+Not Seelected	Robi	30-34 yrs	4G Device	Chittagong South	22153	16171	" 51,660 "	" 51,585 "
+Not Seelected	Robi	30-34 yrs	Basic	Chittagong South	143103	9467	" 13,975 "	" 13,789 "
+Not Seelected	Robi	30-34 yrs	Others	Chittagong South	10203	2283	" 4,505 "	" 4,480 "
+Not Seelected	Robi	35-39 yrs	2G Device	Chittagong South	52909	3297	" 4,212 "	" 4,120 "
+Not Seelected	Robi	35-39 yrs	3G Device	Chittagong South	48811	24034	" 48,267 "	" 48,061 "
+Not Seelected	Robi	35-39 yrs	4G Device	Chittagong South	16919	12190	" 36,516 "	" 36,456 "
+Not Seelected	Robi	35-39 yrs	Basic	Chittagong South	134640	7733	" 10,911 "	" 10,747 "
+Not Seelected	Robi	35-39 yrs	Others	Chittagong South	9371	1763	" 3,279 "	" 3,257 "
+Not Seelected	Robi	40-44 yrs	2G Device	Chittagong South	35055	2226	" 2,884 "	" 2,817 "
+Not Seelected	Robi	40-44 yrs	3G Device	Chittagong South	29825	14554	" 29,041 "	" 28,915 "
+Not Seelected	Robi	40-44 yrs	4G Device	Chittagong South	9790	7051	" 20,706 "	" 20,670 "
+Not Seelected	Robi	40-44 yrs	Basic	Chittagong South	89249	4916	" 7,375 "	" 7,266 "
+Not Seelected	Robi	40-44 yrs	Others	Chittagong South	6453	1116	" 1,942 "	" 1,930 "
+Not Seelected	Robi	45-59 yrs	2G Device	Chittagong South	65404	4361	" 5,380 "	" 5,249 "
+Not Seelected	Robi	45-59 yrs	3G Device	Chittagong South	54496	27014	" 51,684 "	" 51,451 "
+Not Seelected	Robi	45-59 yrs	4G Device	Chittagong South	18024	13044	" 38,204 "	" 38,136 "
+Not Seelected	Robi	45-59 yrs	Basic	Chittagong South	170237	9633	" 13,557 "	" 13,339 "
+Not Seelected	Robi	45-59 yrs	Others	Chittagong South	11573	2199	" 4,106 "	" 4,078 "
+Not Seelected	Robi	60+ yrs	2G Device	Chittagong South	20258	1186	" 1,319 "	" 1,285 "
+Not Seelected	Robi	60+ yrs	3G Device	Chittagong South	16614	8292	" 15,347 "	" 15,281 "
+Not Seelected	Robi	60+ yrs	4G Device	Chittagong South	6166	4510	" 12,133 "	" 12,110 "
+Not Seelected	Robi	60+ yrs	Basic	Chittagong South	55929	2781	" 3,545 "	" 3,489 "
+Not Seelected	Robi	60+ yrs	Others	Chittagong South	3676	627	" 1,221 "	" 1,213 "
+Not Seelected	Robi	OTHERS	2G Device	Chittagong South	7	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Chittagong South	1	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Chittagong South	3	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Chittagong South	23	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Chittagong South	15	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Comilla	7391	1103	" 1,697 "	" 1,679 "
+Not Seelected	Robi	<=24 yrs	3G Device	Comilla	13386	8264	" 16,970 "	" 16,915 "
+Not Seelected	Robi	<=24 yrs	4G Device	Comilla	6520	5102	" 16,055 "	" 16,038 "
+Not Seelected	Robi	<=24 yrs	Basic	Comilla	16260	2348	" 3,651 "	" 3,620 "
+Not Seelected	Robi	<=24 yrs	Others	Comilla	1548	599	" 1,009 "	" 1,004 "
+Not Seelected	Robi	25-29 yrs	2G Device	Comilla	29559	3217	" 4,277 "	" 4,223 "
+Not Seelected	Robi	25-29 yrs	3G Device	Comilla	47317	27839	" 52,571 "	" 52,386 "
+Not Seelected	Robi	25-29 yrs	4G Device	Comilla	21476	16357	" 45,847 "	" 45,791 "
+Not Seelected	Robi	25-29 yrs	Basic	Comilla	65780	7195	" 10,975 "	" 10,878 "
+Not Seelected	Robi	25-29 yrs	Others	Comilla	5298	1739	" 2,796 "	" 2,778 "
+Not Seelected	Robi	30-34 yrs	2G Device	Comilla	48407	3821	" 4,992 "	" 4,916 "
+Not Seelected	Robi	30-34 yrs	3G Device	Comilla	68856	39137	" 69,511 "	" 69,251 "
+Not Seelected	Robi	30-34 yrs	4G Device	Comilla	31431	24070	" 61,894 "	" 61,810 "
+Not Seelected	Robi	30-34 yrs	Basic	Comilla	105807	9015	" 13,193 "	" 13,064 "
+Not Seelected	Robi	30-34 yrs	Others	Comilla	8562	2591	" 3,935 "	" 3,910 "
+Not Seelected	Robi	35-39 yrs	2G Device	Comilla	45948	3199	" 4,058 "	" 3,986 "
+Not Seelected	Robi	35-39 yrs	3G Device	Comilla	56644	31164	" 54,956 "	" 54,734 "
+Not Seelected	Robi	35-39 yrs	4G Device	Comilla	24792	18911	" 46,840 "	" 46,772 "
+Not Seelected	Robi	35-39 yrs	Basic	Comilla	98844	7517	" 10,542 "	" 10,429 "
+Not Seelected	Robi	35-39 yrs	Others	Comilla	7768	2117	" 3,402 "	" 3,384 "
+Not Seelected	Robi	40-44 yrs	2G Device	Comilla	30907	2265	" 2,732 "	" 2,682 "
+Not Seelected	Robi	40-44 yrs	3G Device	Comilla	34974	19260	" 34,202 "	" 34,066 "
+Not Seelected	Robi	40-44 yrs	4G Device	Comilla	14637	11087	" 28,086 "	" 28,045 "
+Not Seelected	Robi	40-44 yrs	Basic	Comilla	67727	5159	" 7,261 "	" 7,181 "
+Not Seelected	Robi	40-44 yrs	Others	Comilla	5198	1236	" 2,036 "	" 2,025 "
+Not Seelected	Robi	45-59 yrs	2G Device	Comilla	64108	4465	" 5,564 "	" 5,460 "
+Not Seelected	Robi	45-59 yrs	3G Device	Comilla	66993	36323	" 62,763 "	" 62,500 "
+Not Seelected	Robi	45-59 yrs	4G Device	Comilla	27882	21499	" 54,030 "	" 53,954 "
+Not Seelected	Robi	45-59 yrs	Basic	Comilla	144404	10316	" 14,709 "	" 14,550 "
+Not Seelected	Robi	45-59 yrs	Others	Comilla	10629	2427	" 3,608 "	" 3,580 "
+Not Seelected	Robi	60+ yrs	2G Device	Comilla	24554	1291	" 1,627 "	" 1,598 "
+Not Seelected	Robi	60+ yrs	3G Device	Comilla	22621	12100	" 20,044 "	" 19,960 "
+Not Seelected	Robi	60+ yrs	4G Device	Comilla	10106	7789	" 18,526 "	" 18,499 "
+Not Seelected	Robi	60+ yrs	Basic	Comilla	55941	2960	" 3,817 "	" 3,773 "
+Not Seelected	Robi	60+ yrs	Others	Comilla	3779	835	" 1,254 "	" 1,247 "
+Not Seelected	Robi	OTHERS	2G Device	Comilla	10	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Comilla	6	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Comilla	0	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Comilla	23	0	 0 	
+Not Seelected	Robi	OTHERS	Others	Comilla	13	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Dhaka Metro	769	111	 126 	 123 
+Not Seelected	Robi	<=24 yrs	3G Device	Dhaka Metro	1613	716	" 1,318 "	" 1,307 "
+Not Seelected	Robi	<=24 yrs	4G Device	Dhaka Metro	1038	603	" 1,494 "	" 1,488 "
+Not Seelected	Robi	<=24 yrs	Basic	Dhaka Metro	1540	242	 378 	 373 
+Not Seelected	Robi	<=24 yrs	Others	Dhaka Metro	207	53	 38 	 37 
+Not Seelected	Robi	25-29 yrs	2G Device	Dhaka Metro	2037	243	 270 	 264 
+Not Seelected	Robi	25-29 yrs	3G Device	Dhaka Metro	3897	1646	" 3,139 "	" 3,114 "
+Not Seelected	Robi	25-29 yrs	4G Device	Dhaka Metro	2821	1643	" 5,614 "	" 5,598 "
+Not Seelected	Robi	25-29 yrs	Basic	Dhaka Metro	4142	438	 670 	 660 
+Not Seelected	Robi	25-29 yrs	Others	Dhaka Metro	524	140	 175 	 173 
+Not Seelected	Robi	30-34 yrs	2G Device	Dhaka Metro	2596	271	 345 	 338 
+Not Seelected	Robi	30-34 yrs	3G Device	Dhaka Metro	4446	1760	" 3,384 "	" 3,358 "
+Not Seelected	Robi	30-34 yrs	4G Device	Dhaka Metro	3085	1848	" 6,317 "	" 6,304 "
+Not Seelected	Robi	30-34 yrs	Basic	Dhaka Metro	5087	441	 586 	 575 
+Not Seelected	Robi	30-34 yrs	Others	Dhaka Metro	605	118	 233 	 230 
+Not Seelected	Robi	35-39 yrs	2G Device	Dhaka Metro	2324	184	 260 	 254 
+Not Seelected	Robi	35-39 yrs	3G Device	Dhaka Metro	3803	1508	" 3,075 "	" 3,055 "
+Not Seelected	Robi	35-39 yrs	4G Device	Dhaka Metro	2765	1617	" 6,253 "	" 6,241 "
+Not Seelected	Robi	35-39 yrs	Basic	Dhaka Metro	4462	395	 629 	 620 
+Not Seelected	Robi	35-39 yrs	Others	Dhaka Metro	504	96	 98 	 97 
+Not Seelected	Robi	40-44 yrs	2G Device	Dhaka Metro	1773	123	 171 	 167 
+Not Seelected	Robi	40-44 yrs	3G Device	Dhaka Metro	3352	1012	" 2,063 "	" 2,049 "
+Not Seelected	Robi	40-44 yrs	4G Device	Dhaka Metro	2155	1307	" 4,703 "	" 4,694 "
+Not Seelected	Robi	40-44 yrs	Basic	Dhaka Metro	3140	277	 340 	 334 
+Not Seelected	Robi	40-44 yrs	Others	Dhaka Metro	469	74	 94 	 93 
+Not Seelected	Robi	45-59 yrs	2G Device	Dhaka Metro	3197	221	 332 	 326 
+Not Seelected	Robi	45-59 yrs	3G Device	Dhaka Metro	4320	1456	" 2,412 "	" 2,387 "
+Not Seelected	Robi	45-59 yrs	4G Device	Dhaka Metro	2655	1355	" 3,678 "	" 3,662 "
+Not Seelected	Robi	45-59 yrs	Basic	Dhaka Metro	5500	408	 453 	 442 
+Not Seelected	Robi	45-59 yrs	Others	Dhaka Metro	557	90	 122 	 119 
+Not Seelected	Robi	60+ yrs	2G Device	Dhaka Metro	710	33	 31 	 30 
+Not Seelected	Robi	60+ yrs	3G Device	Dhaka Metro	918	267	 433 	 429 
+Not Seelected	Robi	60+ yrs	4G Device	Dhaka Metro	467	246	 552 	 549 
+Not Seelected	Robi	60+ yrs	Basic	Dhaka Metro	1152	63	 62 	 60 
+Not Seelected	Robi	60+ yrs	Others	Dhaka Metro	119	18	 7 	 7 
+Not Seelected	Robi	OTHERS	2G Device	Dhaka Metro	1	0	 0 	
+Not Seelected	Robi	OTHERS	3G Device	Dhaka Metro	0	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Dhaka Metro	0	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Dhaka Metro	1	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Dhaka Metro	8	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Dhaka North	9964	1796	" 2,262 "	" 2,219 "
+Not Seelected	Robi	<=24 yrs	3G Device	Dhaka North	18430	9294	" 15,596 "	" 15,470 "
+Not Seelected	Robi	<=24 yrs	4G Device	Dhaka North	8274	5347	" 13,780 "	" 13,735 "
+Not Seelected	Robi	<=24 yrs	Basic	Dhaka North	20709	3414	" 4,466 "	" 4,392 "
+Not Seelected	Robi	<=24 yrs	Others	Dhaka North	2593	846	 784 	 771 
+Not Seelected	Robi	25-29 yrs	2G Device	Dhaka North	28749	3375	" 4,536 "	" 4,447 "
+Not Seelected	Robi	25-29 yrs	3G Device	Dhaka North	44260	20049	" 35,248 "	" 34,972 "
+Not Seelected	Robi	25-29 yrs	4G Device	Dhaka North	17373	10691	" 27,950 "	" 27,860 "
+Not Seelected	Robi	25-29 yrs	Basic	Dhaka North	59396	6587	" 8,878 "	" 8,714 "
+Not Seelected	Robi	25-29 yrs	Others	Dhaka North	5406	1446	" 1,527 "	" 1,502 "
+Not Seelected	Robi	30-34 yrs	2G Device	Dhaka North	40407	3430	" 4,545 "	" 4,444 "
+Not Seelected	Robi	30-34 yrs	3G Device	Dhaka North	54380	22084	" 37,374 "	" 37,050 "
+Not Seelected	Robi	30-34 yrs	4G Device	Dhaka North	20234	11877	" 29,134 "	" 29,032 "
+Not Seelected	Robi	30-34 yrs	Basic	Dhaka North	83543	7520	" 10,108 "	" 9,931 "
+Not Seelected	Robi	30-34 yrs	Others	Dhaka North	7232	1569	" 1,630 "	" 1,598 "
+Not Seelected	Robi	35-39 yrs	2G Device	Dhaka North	34523	2736	" 3,322 "	" 3,241 "
+Not Seelected	Robi	35-39 yrs	3G Device	Dhaka North	41444	16567	" 27,193 "	" 26,949 "
+Not Seelected	Robi	35-39 yrs	4G Device	Dhaka North	15512	9055	" 22,753 "	" 22,677 "
+Not Seelected	Robi	35-39 yrs	Basic	Dhaka North	68926	5591	" 7,184 "	" 7,039 "
+Not Seelected	Robi	35-39 yrs	Others	Dhaka North	5648	1107	" 1,163 "	" 1,139 "
+Not Seelected	Robi	40-44 yrs	2G Device	Dhaka North	22218	1841	" 2,387 "	" 2,332 "
+Not Seelected	Robi	40-44 yrs	3G Device	Dhaka North	25861	10594	" 16,753 "	" 16,597 "
+Not Seelected	Robi	40-44 yrs	4G Device	Dhaka North	9626	5714	" 14,295 "	" 14,244 "
+Not Seelected	Robi	40-44 yrs	Basic	Dhaka North	44752	3672	" 4,656 "	" 4,563 "
+Not Seelected	Robi	40-44 yrs	Others	Dhaka North	3465	705	 830 	 816 
+Not Seelected	Robi	45-59 yrs	2G Device	Dhaka North	37670	3174	" 3,559 "	" 3,463 "
+Not Seelected	Robi	45-59 yrs	3G Device	Dhaka North	40922	17161	" 28,240 "	" 27,980 "
+Not Seelected	Robi	45-59 yrs	4G Device	Dhaka North	14937	8868	" 20,836 "	" 20,752 "
+Not Seelected	Robi	45-59 yrs	Basic	Dhaka North	76110	6219	" 8,255 "	" 8,093 "
+Not Seelected	Robi	45-59 yrs	Others	Dhaka North	5370	1147	" 1,260 "	" 1,238 "
+Not Seelected	Robi	60+ yrs	2G Device	Dhaka North	9781	649	 757 	 738 
+Not Seelected	Robi	60+ yrs	3G Device	Dhaka North	9332	3724	" 5,889 "	" 5,833 "
+Not Seelected	Robi	60+ yrs	4G Device	Dhaka North	3581	2149	" 4,898 "	" 4,879 "
+Not Seelected	Robi	60+ yrs	Basic	Dhaka North	19434	1310	" 1,531 "	" 1,499 "
+Not Seelected	Robi	60+ yrs	Others	Dhaka North	1343	253	 274 	 269 
+Not Seelected	Robi	OTHERS	2G Device	Dhaka North	13	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Dhaka North	10	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Dhaka North	3	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Dhaka North	21	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Dhaka North	32	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Dhaka South	7934	1404	" 2,013 "	" 1,987 "
+Not Seelected	Robi	<=24 yrs	3G Device	Dhaka South	15543	8788	" 16,107 "	" 16,022 "
+Not Seelected	Robi	<=24 yrs	4G Device	Dhaka South	8041	5664	" 16,262 "	" 16,226 "
+Not Seelected	Robi	<=24 yrs	Basic	Dhaka South	16892	2775	" 4,148 "	" 4,097 "
+Not Seelected	Robi	<=24 yrs	Others	Dhaka South	2009	773	 988 	 979 
+Not Seelected	Robi	25-29 yrs	2G Device	Dhaka South	26974	3290	" 4,476 "	" 4,404 "
+Not Seelected	Robi	25-29 yrs	3G Device	Dhaka South	45313	23119	" 42,409 "	" 42,163 "
+Not Seelected	Robi	25-29 yrs	4G Device	Dhaka South	21788	15157	" 40,565 "	" 40,476 "
+Not Seelected	Robi	25-29 yrs	Basic	Dhaka South	58238	7225	" 10,822 "	" 10,685 "
+Not Seelected	Robi	25-29 yrs	Others	Dhaka South	5330	1660	" 2,253 "	" 2,228 "
+Not Seelected	Robi	30-34 yrs	2G Device	Dhaka South	41320	3944	" 5,320 "	" 5,233 "
+Not Seelected	Robi	30-34 yrs	3G Device	Dhaka South	60979	29435	" 52,624 "	" 52,310 "
+Not Seelected	Robi	30-34 yrs	4G Device	Dhaka South	28731	19669	" 49,950 "	" 49,833 "
+Not Seelected	Robi	30-34 yrs	Basic	Dhaka South	88305	8672	" 12,974 "	" 12,813 "
+Not Seelected	Robi	30-34 yrs	Others	Dhaka South	7372	2009	" 2,789 "	" 2,755 "
+Not Seelected	Robi	35-39 yrs	2G Device	Dhaka South	38025	3162	" 4,135 "	" 4,056 "
+Not Seelected	Robi	35-39 yrs	3G Device	Dhaka South	50109	23676	" 41,439 "	" 41,177 "
+Not Seelected	Robi	35-39 yrs	4G Device	Dhaka South	22390	15301	" 38,128 "	" 38,033 "
+Not Seelected	Robi	35-39 yrs	Basic	Dhaka South	77722	6912	" 9,531 "	" 9,392 "
+Not Seelected	Robi	35-39 yrs	Others	Dhaka South	6402	1712	" 2,046 "	" 2,018 "
+Not Seelected	Robi	40-44 yrs	2G Device	Dhaka South	26134	2276	" 2,886 "	" 2,829 "
+Not Seelected	Robi	40-44 yrs	3G Device	Dhaka South	33448	15986	" 26,004 "	" 25,827 "
+Not Seelected	Robi	40-44 yrs	4G Device	Dhaka South	14723	10014	" 24,769 "	" 24,702 "
+Not Seelected	Robi	40-44 yrs	Basic	Dhaka South	53775	4939	" 6,693 "	" 6,590 "
+Not Seelected	Robi	40-44 yrs	Others	Dhaka South	4136	1097	" 1,308 "	" 1,289 "
+Not Seelected	Robi	45-59 yrs	2G Device	Dhaka South	48718	4029	" 4,926 "	" 4,821 "
+Not Seelected	Robi	45-59 yrs	3G Device	Dhaka South	56381	27371	" 44,544 "	" 44,242 "
+Not Seelected	Robi	45-59 yrs	4G Device	Dhaka South	24591	17037	" 41,825 "	" 41,717 "
+Not Seelected	Robi	45-59 yrs	Basic	Dhaka South	101168	8738	" 11,989 "	" 11,812 "
+Not Seelected	Robi	45-59 yrs	Others	Dhaka South	7520	1940	" 2,471 "	" 2,442 "
+Not Seelected	Robi	60+ yrs	2G Device	Dhaka South	15308	973	" 1,089 "	" 1,064 "
+Not Seelected	Robi	60+ yrs	3G Device	Dhaka South	15107	7217	" 11,792 "	" 11,719 "
+Not Seelected	Robi	60+ yrs	4G Device	Dhaka South	7009	4995	" 11,570 "	" 11,543 "
+Not Seelected	Robi	60+ yrs	Basic	Dhaka South	31242	1976	" 2,613 "	" 2,574 "
+Not Seelected	Robi	60+ yrs	Others	Dhaka South	2194	517	 683 	 677 
+Not Seelected	Robi	OTHERS	2G Device	Dhaka South	11	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Dhaka South	12	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Dhaka South	3	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Dhaka South	21	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Dhaka South	34	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Khulna	12955	3031	" 3,806 "	" 3,757 "
+Not Seelected	Robi	<=24 yrs	3G Device	Khulna	22222	13884	" 21,800 "	" 21,685 "
+Not Seelected	Robi	<=24 yrs	4G Device	Khulna	8370	6328	" 13,164 "	" 13,128 "
+Not Seelected	Robi	<=24 yrs	Basic	Khulna	24197	5477	" 7,169 "	" 7,091 "
+Not Seelected	Robi	<=24 yrs	Others	Khulna	3915	1425	" 1,529 "	" 1,507 "
+Not Seelected	Robi	25-29 yrs	2G Device	Khulna	24076	3088	" 4,017 "	" 3,954 "
+Not Seelected	Robi	25-29 yrs	3G Device	Khulna	30784	15280	" 25,666 "	" 25,496 "
+Not Seelected	Robi	25-29 yrs	4G Device	Khulna	10539	7065	" 15,705 "	" 15,656 "
+Not Seelected	Robi	25-29 yrs	Basic	Khulna	45780	5737	" 7,481 "	" 7,372 "
+Not Seelected	Robi	25-29 yrs	Others	Khulna	6378	1557	" 1,777 "	" 1,753 "
+Not Seelected	Robi	30-34 yrs	2G Device	Khulna	32603	2784	" 3,506 "	" 3,439 "
+Not Seelected	Robi	30-34 yrs	3G Device	Khulna	33512	14590	" 24,126 "	" 23,951 "
+Not Seelected	Robi	30-34 yrs	4G Device	Khulna	10282	6496	" 14,874 "	" 14,829 "
+Not Seelected	Robi	30-34 yrs	Basic	Khulna	62167	5543	" 7,329 "	" 7,214 "
+Not Seelected	Robi	30-34 yrs	Others	Khulna	8530	1546	" 2,085 "	" 2,056 "
+Not Seelected	Robi	35-39 yrs	2G Device	Khulna	31362	2399	" 2,870 "	" 2,811 "
+Not Seelected	Robi	35-39 yrs	3G Device	Khulna	28044	11945	" 18,953 "	" 18,807 "
+Not Seelected	Robi	35-39 yrs	4G Device	Khulna	8478	5320	" 12,253 "	" 12,216 "
+Not Seelected	Robi	35-39 yrs	Basic	Khulna	58575	4803	" 6,121 "	" 6,014 "
+Not Seelected	Robi	35-39 yrs	Others	Khulna	8243	1313	" 1,730 "	" 1,706 "
+Not Seelected	Robi	40-44 yrs	2G Device	Khulna	20921	1707	" 2,220 "	" 2,174 "
+Not Seelected	Robi	40-44 yrs	3G Device	Khulna	18522	8143	" 13,057 "	" 12,960 "
+Not Seelected	Robi	40-44 yrs	4G Device	Khulna	5481	3565	" 7,992 "	" 7,967 "
+Not Seelected	Robi	40-44 yrs	Basic	Khulna	38190	3409	" 4,488 "	" 4,410 "
+Not Seelected	Robi	40-44 yrs	Others	Khulna	5757	939	" 1,246 "	" 1,227 "
+Not Seelected	Robi	45-59 yrs	2G Device	Khulna	39084	3343	" 3,686 "	" 3,591 "
+Not Seelected	Robi	45-59 yrs	3G Device	Khulna	33117	14691	" 22,388 "	" 22,202 "
+Not Seelected	Robi	45-59 yrs	4G Device	Khulna	9479	6156	" 13,473 "	" 13,423 "
+Not Seelected	Robi	45-59 yrs	Basic	Khulna	72189	6570	" 8,260 "	" 8,111 "
+Not Seelected	Robi	45-59 yrs	Others	Khulna	10680	1692	" 1,897 "	" 1,864 "
+Not Seelected	Robi	60+ yrs	2G Device	Khulna	9664	793	 906 	 886 
+Not Seelected	Robi	60+ yrs	3G Device	Khulna	7815	3370	" 4,954 "	" 4,910 "
+Not Seelected	Robi	60+ yrs	4G Device	Khulna	2215	1427	" 2,830 "	" 2,819 "
+Not Seelected	Robi	60+ yrs	Basic	Khulna	18723	1585	" 1,872 "	" 1,839 "
+Not Seelected	Robi	60+ yrs	Others	Khulna	2699	418	 426 	 419 
+Not Seelected	Robi	OTHERS	2G Device	Khulna	6	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Khulna	11	1	 11 	 11 
+Not Seelected	Robi	OTHERS	4G Device	Khulna	3	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Khulna	14	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Khulna	23	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Kushtia	13852	3030	" 3,676 "	" 3,625 "
+Not Seelected	Robi	<=24 yrs	3G Device	Kushtia	24630	14508	" 23,748 "	" 23,611 "
+Not Seelected	Robi	<=24 yrs	4G Device	Kushtia	9161	6657	" 15,040 "	" 15,000 "
+Not Seelected	Robi	<=24 yrs	Basic	Kushtia	27244	5499	" 7,283 "	" 7,198 "
+Not Seelected	Robi	<=24 yrs	Others	Kushtia	4247	1466	" 1,472 "	" 1,450 "
+Not Seelected	Robi	25-29 yrs	2G Device	Kushtia	26561	3189	" 4,042 "	" 3,974 "
+Not Seelected	Robi	25-29 yrs	3G Device	Kushtia	36035	16880	" 28,627 "	" 28,433 "
+Not Seelected	Robi	25-29 yrs	4G Device	Kushtia	11873	7603	" 17,886 "	" 17,835 "
+Not Seelected	Robi	25-29 yrs	Basic	Kushtia	53298	6196	" 8,175 "	" 8,056 "
+Not Seelected	Robi	25-29 yrs	Others	Kushtia	6717	1639	" 1,853 "	" 1,826 "
+Not Seelected	Robi	30-34 yrs	2G Device	Kushtia	36596	2935	" 3,652 "	" 3,583 "
+Not Seelected	Robi	30-34 yrs	3G Device	Kushtia	40196	16756	" 28,411 "	" 28,209 "
+Not Seelected	Robi	30-34 yrs	4G Device	Kushtia	12779	7834	" 17,717 "	" 17,663 "
+Not Seelected	Robi	30-34 yrs	Basic	Kushtia	73659	6361	" 8,225 "	" 8,097 "
+Not Seelected	Robi	30-34 yrs	Others	Kushtia	8883	1793	" 1,810 "	" 1,780 "
+Not Seelected	Robi	35-39 yrs	2G Device	Kushtia	36806	2583	" 3,043 "	" 2,974 "
+Not Seelected	Robi	35-39 yrs	3G Device	Kushtia	35006	14195	" 23,215 "	" 23,042 "
+Not Seelected	Robi	35-39 yrs	4G Device	Kushtia	10433	6352	" 14,498 "	" 14,452 "
+Not Seelected	Robi	35-39 yrs	Basic	Kushtia	73150	5679	" 7,464 "	" 7,338 "
+Not Seelected	Robi	35-39 yrs	Others	Kushtia	8638	1451	" 1,464 "	" 1,435 "
+Not Seelected	Robi	40-44 yrs	2G Device	Kushtia	24438	1971	" 2,668 "	" 2,618 "
+Not Seelected	Robi	40-44 yrs	3G Device	Kushtia	23035	9637	" 15,968 "	" 15,844 "
+Not Seelected	Robi	40-44 yrs	4G Device	Kushtia	6280	3847	" 9,029 "	" 8,999 "
+Not Seelected	Robi	40-44 yrs	Basic	Kushtia	48831	4025	" 5,164 "	" 5,072 "
+Not Seelected	Robi	40-44 yrs	Others	Kushtia	6161	1005	" 1,076 "	" 1,059 "
+Not Seelected	Robi	45-59 yrs	2G Device	Kushtia	43932	3520	" 3,990 "	" 3,888 "
+Not Seelected	Robi	45-59 yrs	3G Device	Kushtia	40150	17208	" 28,328 "	" 28,105 "
+Not Seelected	Robi	45-59 yrs	4G Device	Kushtia	11020	6901	" 16,106 "	" 16,054 "
+Not Seelected	Robi	45-59 yrs	Basic	Kushtia	86239	7493	" 9,455 "	" 9,290 "
+Not Seelected	Robi	45-59 yrs	Others	Kushtia	10933	1795	" 1,929 "	" 1,895 "
+Not Seelected	Robi	60+ yrs	2G Device	Kushtia	11192	889	" 1,096 "	" 1,074 "
+Not Seelected	Robi	60+ yrs	3G Device	Kushtia	9539	4075	" 6,179 "	" 6,132 "
+Not Seelected	Robi	60+ yrs	4G Device	Kushtia	2726	1719	" 3,563 "	" 3,550 "
+Not Seelected	Robi	60+ yrs	Basic	Kushtia	22412	1788	" 2,237 "	" 2,198 "
+Not Seelected	Robi	60+ yrs	Others	Kushtia	3053	557	 605 	 596 
+Not Seelected	Robi	OTHERS	2G Device	Kushtia	6	1	 3 	 3 
+Not Seelected	Robi	OTHERS	3G Device	Kushtia	6	0	 0 	
+Not Seelected	Robi	OTHERS	4G Device	Kushtia	3	0	 0 	
+Not Seelected	Robi	OTHERS	Basic	Kushtia	32	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Kushtia	41	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Mymensingh	12553	2011	" 2,943 "	" 2,887 "
+Not Seelected	Robi	<=24 yrs	3G Device	Mymensingh	17716	9380	" 16,491 "	" 16,369 "
+Not Seelected	Robi	<=24 yrs	4G Device	Mymensingh	6373	4495	" 12,018 "	" 11,987 "
+Not Seelected	Robi	<=24 yrs	Basic	Mymensingh	25417	4033	" 5,407 "	" 5,317 "
+Not Seelected	Robi	<=24 yrs	Others	Mymensingh	3206	1064	" 1,073 "	" 1,057 "
+Not Seelected	Robi	25-29 yrs	2G Device	Mymensingh	31299	3019	" 3,998 "	" 3,904 "
+Not Seelected	Robi	25-29 yrs	3G Device	Mymensingh	35330	15782	" 29,386 "	" 29,169 "
+Not Seelected	Robi	25-29 yrs	4G Device	Mymensingh	11507	7521	" 20,504 "	" 20,447 "
+Not Seelected	Robi	25-29 yrs	Basic	Mymensingh	65078	6296	" 8,734 "	" 8,566 "
+Not Seelected	Robi	25-29 yrs	Others	Mymensingh	6794	1705	" 2,200 "	" 2,174 "
+Not Seelected	Robi	30-34 yrs	2G Device	Mymensingh	41228	3094	" 4,040 "	" 3,945 "
+Not Seelected	Robi	30-34 yrs	3G Device	Mymensingh	40977	17213	" 30,416 "	" 30,169 "
+Not Seelected	Robi	30-34 yrs	4G Device	Mymensingh	13264	8456	" 21,380 "	" 21,318 "
+Not Seelected	Robi	30-34 yrs	Basic	Mymensingh	84983	6447	" 8,822 "	" 8,650 "
+Not Seelected	Robi	30-34 yrs	Others	Mymensingh	9060	1627	" 2,073 "	" 2,044 "
+Not Seelected	Robi	35-39 yrs	2G Device	Mymensingh	38450	2680	" 3,340 "	" 3,246 "
+Not Seelected	Robi	35-39 yrs	3G Device	Mymensingh	34510	14512	" 25,364 "	" 25,164 "
+Not Seelected	Robi	35-39 yrs	4G Device	Mymensingh	10914	6961	" 17,742 "	" 17,693 "
+Not Seelected	Robi	35-39 yrs	Basic	Mymensingh	76450	5682	" 7,648 "	" 7,493 "
+Not Seelected	Robi	35-39 yrs	Others	Mymensingh	7932	1357	" 1,653 "	" 1,628 "
+Not Seelected	Robi	40-44 yrs	2G Device	Mymensingh	25662	1941	" 2,318 "	" 2,250 "
+Not Seelected	Robi	40-44 yrs	3G Device	Mymensingh	22185	9694	" 17,076 "	" 16,950 "
+Not Seelected	Robi	40-44 yrs	4G Device	Mymensingh	6618	4293	" 10,202 "	" 10,170 "
+Not Seelected	Robi	40-44 yrs	Basic	Mymensingh	50603	3873	" 5,074 "	" 4,960 "
+Not Seelected	Robi	40-44 yrs	Others	Mymensingh	5694	1055	" 1,293 "	" 1,276 "
+Not Seelected	Robi	45-59 yrs	2G Device	Mymensingh	48607	3947	" 4,708 "	" 4,565 "
+Not Seelected	Robi	45-59 yrs	3G Device	Mymensingh	39991	17541	" 29,702 "	" 29,454 "
+Not Seelected	Robi	45-59 yrs	4G Device	Mymensingh	11784	7727	" 18,864 "	" 18,807 "
+Not Seelected	Robi	45-59 yrs	Basic	Mymensingh	98633	8074	" 10,240 "	" 10,013 "
+Not Seelected	Robi	45-59 yrs	Others	Mymensingh	11292	1845	" 2,447 "	" 2,410 "
+Not Seelected	Robi	60+ yrs	2G Device	Mymensingh	14247	1093	" 1,200 "	" 1,162 "
+Not Seelected	Robi	60+ yrs	3G Device	Mymensingh	11391	4835	" 7,377 "	" 7,308 "
+Not Seelected	Robi	60+ yrs	4G Device	Mymensingh	3415	2238	" 5,130 "	" 5,113 "
+Not Seelected	Robi	60+ yrs	Basic	Mymensingh	29913	2196	" 2,771 "	" 2,712 "
+Not Seelected	Robi	60+ yrs	Others	Mymensingh	3592	568	 591 	 581 
+Not Seelected	Robi	OTHERS	2G Device	Mymensingh	17	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Mymensingh	10	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Mymensingh	4	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Mymensingh	32	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Mymensingh	33	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Noakhali	9700	1336	" 2,038 "	" 2,014 "
+Not Seelected	Robi	<=24 yrs	3G Device	Noakhali	14816	9061	" 18,876 "	" 18,812 "
+Not Seelected	Robi	<=24 yrs	4G Device	Noakhali	6328	4914	" 15,409 "	" 15,391 "
+Not Seelected	Robi	<=24 yrs	Basic	Noakhali	22652	2932	" 4,592 "	" 4,545 "
+Not Seelected	Robi	<=24 yrs	Others	Noakhali	1567	495	 710 	 705 
+Not Seelected	Robi	25-29 yrs	2G Device	Noakhali	36166	3374	" 4,920 "	" 4,847 "
+Not Seelected	Robi	25-29 yrs	3G Device	Noakhali	48524	27109	" 53,491 "	" 53,283 "
+Not Seelected	Robi	25-29 yrs	4G Device	Noakhali	18323	13960	" 41,884 "	" 41,832 "
+Not Seelected	Robi	25-29 yrs	Basic	Noakhali	86197	8243	" 12,534 "	" 12,396 "
+Not Seelected	Robi	25-29 yrs	Others	Noakhali	4977	1189	" 1,614 "	" 1,600 "
+Not Seelected	Robi	30-34 yrs	2G Device	Noakhali	51410	3664	" 4,875 "	" 4,791 "
+Not Seelected	Robi	30-34 yrs	3G Device	Noakhali	61212	32748	" 60,300 "	" 60,044 "
+Not Seelected	Robi	30-34 yrs	4G Device	Noakhali	23278	17325	" 47,773 "	" 47,705 "
+Not Seelected	Robi	30-34 yrs	Basic	Noakhali	119153	8854	" 12,646 "	" 12,489 "
+Not Seelected	Robi	30-34 yrs	Others	Noakhali	7395	1528	" 2,161 "	" 2,144 "
+Not Seelected	Robi	35-39 yrs	2G Device	Noakhali	50370	2960	" 3,984 "	" 3,904 "
+Not Seelected	Robi	35-39 yrs	3G Device	Noakhali	51832	26868	" 49,114 "	" 48,900 "
+Not Seelected	Robi	35-39 yrs	4G Device	Noakhali	18657	13888	" 36,467 "	" 36,412 "
+Not Seelected	Robi	35-39 yrs	Basic	Noakhali	114601	7429	" 10,865 "	" 10,727 "
+Not Seelected	Robi	35-39 yrs	Others	Noakhali	7075	1202	" 1,644 "	" 1,628 "
+Not Seelected	Robi	40-44 yrs	2G Device	Noakhali	34249	2121	" 2,676 "	" 2,619 "
+Not Seelected	Robi	40-44 yrs	3G Device	Noakhali	32826	16851	" 29,975 "	" 29,837 "
+Not Seelected	Robi	40-44 yrs	4G Device	Noakhali	11427	8509	" 21,782 "	" 21,748 "
+Not Seelected	Robi	40-44 yrs	Basic	Noakhali	77946	4879	" 6,230 "	" 6,134 "
+Not Seelected	Robi	40-44 yrs	Others	Noakhali	4909	805	" 1,181 "	" 1,169 "
+Not Seelected	Robi	45-59 yrs	2G Device	Noakhali	66804	4192	" 4,677 "	" 4,565 "
+Not Seelected	Robi	45-59 yrs	3G Device	Noakhali	59738	31148	" 54,750 "	" 54,509 "
+Not Seelected	Robi	45-59 yrs	4G Device	Noakhali	20699	15487	" 39,663 "	" 39,602 "
+Not Seelected	Robi	45-59 yrs	Basic	Noakhali	155466	9609	" 12,990 "	" 12,803 "
+Not Seelected	Robi	45-59 yrs	Others	Noakhali	9322	1491	" 1,908 "	" 1,887 "
+Not Seelected	Robi	60+ yrs	2G Device	Noakhali	25317	1192	" 1,571 "	" 1,538 "
+Not Seelected	Robi	60+ yrs	3G Device	Noakhali	20718	10540	" 17,947 "	" 17,866 "
+Not Seelected	Robi	60+ yrs	4G Device	Noakhali	7776	5851	" 14,638 "	" 14,615 "
+Not Seelected	Robi	60+ yrs	Basic	Noakhali	60525	2951	" 3,807 "	" 3,750 "
+Not Seelected	Robi	60+ yrs	Others	Noakhali	3612	534	 702 	 696 
+Not Seelected	Robi	OTHERS	2G Device	Noakhali	6	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Noakhali	4	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Noakhali	1	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Noakhali	16	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Noakhali	24	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Rajshahi	11657	2206	" 2,558 "	" 2,507 "
+Not Seelected	Robi	<=24 yrs	3G Device	Rajshahi	18529	10333	" 17,138 "	" 17,021 "
+Not Seelected	Robi	<=24 yrs	4G Device	Rajshahi	6576	4653	" 10,512 "	" 10,478 "
+Not Seelected	Robi	<=24 yrs	Basic	Rajshahi	20400	3765	" 4,856 "	" 4,783 "
+Not Seelected	Robi	<=24 yrs	Others	Rajshahi	4230	1514	" 1,510 "	" 1,484 "
+Not Seelected	Robi	25-29 yrs	2G Device	Rajshahi	22455	2288	" 2,743 "	" 2,679 "
+Not Seelected	Robi	25-29 yrs	3G Device	Rajshahi	26555	11644	" 19,809 "	" 19,650 "
+Not Seelected	Robi	25-29 yrs	4G Device	Rajshahi	8152	5187	" 12,353 "	" 12,312 "
+Not Seelected	Robi	25-29 yrs	Basic	Rajshahi	40165	4056	" 5,157 "	" 5,057 "
+Not Seelected	Robi	25-29 yrs	Others	Rajshahi	6150	1455	" 1,359 "	" 1,327 "
+Not Seelected	Robi	30-34 yrs	2G Device	Rajshahi	32006	2091	" 2,620 "	" 2,556 "
+Not Seelected	Robi	30-34 yrs	3G Device	Rajshahi	29588	11132	" 18,601 "	" 18,439 "
+Not Seelected	Robi	30-34 yrs	4G Device	Rajshahi	8306	4887	" 11,654 "	" 11,612 "
+Not Seelected	Robi	30-34 yrs	Basic	Rajshahi	55796	3912	" 5,026 "	" 4,924 "
+Not Seelected	Robi	30-34 yrs	Others	Rajshahi	7481	1342	" 1,249 "	" 1,218 "
+Not Seelected	Robi	35-39 yrs	2G Device	Rajshahi	31592	1857	" 2,199 "	" 2,132 "
+Not Seelected	Robi	35-39 yrs	3G Device	Rajshahi	25760	9706	" 15,045 "	" 14,903 "
+Not Seelected	Robi	35-39 yrs	4G Device	Rajshahi	6982	4237	" 10,292 "	" 10,257 "
+Not Seelected	Robi	35-39 yrs	Basic	Rajshahi	54620	3521	" 4,156 "	" 4,060 "
+Not Seelected	Robi	35-39 yrs	Others	Rajshahi	7276	1190	" 1,206 "	" 1,179 "
+Not Seelected	Robi	40-44 yrs	2G Device	Rajshahi	19695	1271	" 1,444 "	" 1,395 "
+Not Seelected	Robi	40-44 yrs	3G Device	Rajshahi	15781	6423	" 10,587 "	" 10,498 "
+Not Seelected	Robi	40-44 yrs	4G Device	Rajshahi	4142	2594	" 6,149 "	" 6,128 "
+Not Seelected	Robi	40-44 yrs	Basic	Rajshahi	33560	2425	" 3,021 "	" 2,953 "
+Not Seelected	Robi	40-44 yrs	Others	Rajshahi	4734	776	 789 	 768 
+Not Seelected	Robi	45-59 yrs	2G Device	Rajshahi	35647	2639	" 2,997 "	" 2,905 "
+Not Seelected	Robi	45-59 yrs	3G Device	Rajshahi	27876	11385	" 18,455 "	" 18,283 "
+Not Seelected	Robi	45-59 yrs	4G Device	Rajshahi	7205	4529	" 11,354 "	" 11,313 "
+Not Seelected	Robi	45-59 yrs	Basic	Rajshahi	62322	4758	" 5,871 "	" 5,742 "
+Not Seelected	Robi	45-59 yrs	Others	Rajshahi	8497	1331	" 1,297 "	" 1,262 "
+Not Seelected	Robi	60+ yrs	2G Device	Rajshahi	8236	526	 556 	 537 
+Not Seelected	Robi	60+ yrs	3G Device	Rajshahi	6123	2351	" 3,755 "	" 3,718 "
+Not Seelected	Robi	60+ yrs	4G Device	Rajshahi	1501	917	" 2,122 "	" 2,115 "
+Not Seelected	Robi	60+ yrs	Basic	Rajshahi	15237	1025	" 1,180 "	" 1,155 "
+Not Seelected	Robi	60+ yrs	Others	Rajshahi	2166	339	 309 	 301 
+Not Seelected	Robi	OTHERS	2G Device	Rajshahi	9	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Rajshahi	7	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Rajshahi	1	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Rajshahi	12	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Rajshahi	16	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Rangpur	12166	2115	" 2,470 "	" 2,401 "
+Not Seelected	Robi	<=24 yrs	3G Device	Rangpur	15468	8483	" 13,814 "	" 13,699 "
+Not Seelected	Robi	<=24 yrs	4G Device	Rangpur	4247	3070	" 8,679 "	" 8,655 "
+Not Seelected	Robi	<=24 yrs	Basic	Rangpur	19677	3716	" 4,522 "	" 4,429 "
+Not Seelected	Robi	<=24 yrs	Others	Rangpur	2545	749	 829 	 814 
+Not Seelected	Robi	25-29 yrs	2G Device	Rangpur	25182	2271	" 2,592 "	" 2,498 "
+Not Seelected	Robi	25-29 yrs	3G Device	Rangpur	23497	9666	" 16,143 "	" 15,976 "
+Not Seelected	Robi	25-29 yrs	4G Device	Rangpur	5261	3406	" 10,026 "	" 9,997 "
+Not Seelected	Robi	25-29 yrs	Basic	Rangpur	41966	4063	" 5,021 "	" 4,887 "
+Not Seelected	Robi	25-29 yrs	Others	Rangpur	4513	821	" 1,019 "	" 1,000 "
+Not Seelected	Robi	30-34 yrs	2G Device	Rangpur	32839	2008	" 2,557 "	" 2,470 "
+Not Seelected	Robi	30-34 yrs	3G Device	Rangpur	24818	8838	" 16,546 "	" 16,384 "
+Not Seelected	Robi	30-34 yrs	4G Device	Rangpur	5441	3299	" 9,351 "	" 9,322 "
+Not Seelected	Robi	30-34 yrs	Basic	Rangpur	54649	3678	" 4,877 "	" 4,750 "
+Not Seelected	Robi	30-34 yrs	Others	Rangpur	6063	731	 860 	 841 
+Not Seelected	Robi	35-39 yrs	2G Device	Rangpur	31786	1639	" 1,851 "	" 1,772 "
+Not Seelected	Robi	35-39 yrs	3G Device	Rangpur	20724	6802	" 11,582 "	" 11,462 "
+Not Seelected	Robi	35-39 yrs	4G Device	Rangpur	3985	2364	" 6,540 "	" 6,518 "
+Not Seelected	Robi	35-39 yrs	Basic	Rangpur	52123	3090	" 3,857 "	" 3,746 "
+Not Seelected	Robi	35-39 yrs	Others	Rangpur	6214	707	 993 	 974 
+Not Seelected	Robi	40-44 yrs	2G Device	Rangpur	19065	1203	" 1,414 "	" 1,356 "
+Not Seelected	Robi	40-44 yrs	3G Device	Rangpur	12941	4802	" 8,284 "	" 8,206 "
+Not Seelected	Robi	40-44 yrs	4G Device	Rangpur	2584	1564	" 4,941 "	" 4,929 "
+Not Seelected	Robi	40-44 yrs	Basic	Rangpur	31103	2147	" 2,537 "	" 2,458 "
+Not Seelected	Robi	40-44 yrs	Others	Rangpur	3815	434	 607 	 596 
+Not Seelected	Robi	45-59 yrs	2G Device	Rangpur	34340	2330	" 2,500 "	" 2,384 "
+Not Seelected	Robi	45-59 yrs	3G Device	Rangpur	22588	8402	" 14,877 "	" 14,722 "
+Not Seelected	Robi	45-59 yrs	4G Device	Rangpur	4361	2658	" 7,584 "	" 7,559 "
+Not Seelected	Robi	45-59 yrs	Basic	Rangpur	56809	4317	" 4,957 "	" 4,797 "
+Not Seelected	Robi	45-59 yrs	Others	Rangpur	7013	791	 947 	 924 
+Not Seelected	Robi	60+ yrs	2G Device	Rangpur	8830	580	 579 	 552 
+Not Seelected	Robi	60+ yrs	3G Device	Rangpur	5400	1942	" 3,312 "	" 3,277 "
+Not Seelected	Robi	60+ yrs	4G Device	Rangpur	973	544	" 1,330 "	" 1,325 "
+Not Seelected	Robi	60+ yrs	Basic	Rangpur	14991	1039	" 1,122 "	" 1,084 "
+Not Seelected	Robi	60+ yrs	Others	Rangpur	1845	182	 212 	 207 
+Not Seelected	Robi	OTHERS	2G Device	Rangpur	7	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Rangpur	4	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Rangpur	2	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Rangpur	20	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Rangpur	17	0	 -   	
+Not Seelected	Robi	<=24 yrs	2G Device	Sylhet	3969	1226	" 2,606 "	" 2,592 "
+Not Seelected	Robi	<=24 yrs	3G Device	Sylhet	13560	10558	" 29,512 "	" 29,466 "
+Not Seelected	Robi	<=24 yrs	4G Device	Sylhet	6161	5334	" 20,797 "	" 20,783 "
+Not Seelected	Robi	<=24 yrs	Basic	Sylhet	7893	2326	" 5,241 "	" 5,218 "
+Not Seelected	Robi	<=24 yrs	Others	Sylhet	2006	1082	" 1,884 "	" 1,875 "
+Not Seelected	Robi	25-29 yrs	2G Device	Sylhet	9432	1798	" 3,685 "	" 3,658 "
+Not Seelected	Robi	25-29 yrs	3G Device	Sylhet	23712	16704	" 47,682 "	" 47,590 "
+Not Seelected	Robi	25-29 yrs	4G Device	Sylhet	10124	8361	" 35,009 "	" 34,981 "
+Not Seelected	Robi	25-29 yrs	Basic	Sylhet	19071	3475	" 7,333 "	" 7,292 "
+Not Seelected	Robi	25-29 yrs	Others	Sylhet	4004	1721	" 3,614 "	" 3,601 "
+Not Seelected	Robi	30-34 yrs	2G Device	Sylhet	9953	1389	" 2,611 "	" 2,587 "
+Not Seelected	Robi	30-34 yrs	3G Device	Sylhet	19598	12964	" 36,092 "	" 36,018 "
+Not Seelected	Robi	30-34 yrs	4G Device	Sylhet	8208	6656	" 27,458 "	" 27,436 "
+Not Seelected	Robi	30-34 yrs	Basic	Sylhet	20903	2754	" 5,744 "	" 5,706 "
+Not Seelected	Robi	30-34 yrs	Others	Sylhet	4135	1388	" 2,956 "	" 2,945 "
+Not Seelected	Robi	35-39 yrs	2G Device	Sylhet	8921	1036	" 1,954 "	" 1,935 "
+Not Seelected	Robi	35-39 yrs	3G Device	Sylhet	14616	9266	" 24,792 "	" 24,734 "
+Not Seelected	Robi	35-39 yrs	4G Device	Sylhet	6023	4804	" 18,394 "	" 18,376 "
+Not Seelected	Robi	35-39 yrs	Basic	Sylhet	17401	1952	" 3,987 "	" 3,959 "
+Not Seelected	Robi	35-39 yrs	Others	Sylhet	3380	1076	" 2,106 "	" 2,097 "
+Not Seelected	Robi	40-44 yrs	2G Device	Sylhet	5759	632	" 1,119 "	" 1,106 "
+Not Seelected	Robi	40-44 yrs	3G Device	Sylhet	9495	5954	" 15,137 "	" 15,100 "
+Not Seelected	Robi	40-44 yrs	4G Device	Sylhet	3762	2974	" 10,970 "	" 10,959 "
+Not Seelected	Robi	40-44 yrs	Basic	Sylhet	11518	1343	" 2,697 "	" 2,678 "
+Not Seelected	Robi	40-44 yrs	Others	Sylhet	2365	667	" 1,213 "	" 1,207 "
+Not Seelected	Robi	45-59 yrs	2G Device	Sylhet	12021	1332	" 2,397 "	" 2,369 "
+Not Seelected	Robi	45-59 yrs	3G Device	Sylhet	16995	10749	" 27,415 "	" 27,346 "
+Not Seelected	Robi	45-59 yrs	4G Device	Sylhet	6435	5106	" 19,228 "	" 19,207 "
+Not Seelected	Robi	45-59 yrs	Basic	Sylhet	23633	2503	" 4,980 "	" 4,941 "
+Not Seelected	Robi	45-59 yrs	Others	Sylhet	5010	1311	" 2,637 "	" 2,624 "
+Not Seelected	Robi	60+ yrs	2G Device	Sylhet	3251	339	 700 	 694 
+Not Seelected	Robi	60+ yrs	3G Device	Sylhet	4633	2960	" 6,933 "	" 6,915 "
+Not Seelected	Robi	60+ yrs	4G Device	Sylhet	1803	1437	" 5,098 "	" 5,093 "
+Not Seelected	Robi	60+ yrs	Basic	Sylhet	6513	644	" 1,087 "	" 1,077 "
+Not Seelected	Robi	60+ yrs	Others	Sylhet	1428	351	 549 	 546 
+Not Seelected	Robi	OTHERS	2G Device	Sylhet	5	0	 -   	
+Not Seelected	Robi	OTHERS	3G Device	Sylhet	5	0	 -   	
+Not Seelected	Robi	OTHERS	4G Device	Sylhet	1	0	 -   	
+Not Seelected	Robi	OTHERS	Basic	Sylhet	15	0	 -   	
+Not Seelected	Robi	OTHERS	Others	Sylhet	8	0	 -   	
+Selected	AT	<=24 yrs	2G Device	Barisal	140	36	 70 	 70 
+Selected	AT	<=24 yrs	3G Device	Barisal	420	245	 687 	 686 
+Selected	AT	<=24 yrs	4G Device	Barisal	185	118	 423 	 423 
+Selected	AT	<=24 yrs	Basic	Barisal	227	57	 121 	 120 
+Selected	AT	<=24 yrs	Others	Barisal	47	26	 43 	 43 
+Selected	AT	25-29 yrs	2G Device	Barisal	217	39	 72 	 71 
+Selected	AT	25-29 yrs	3G Device	Barisal	388	165	 334 	 333 
+Selected	AT	25-29 yrs	4G Device	Barisal	190	111	 386 	 386 
+Selected	AT	25-29 yrs	Basic	Barisal	310	37	 87 	 86 
+Selected	AT	25-29 yrs	Others	Barisal	29	7	 14 	 14 
+Selected	AT	30-34 yrs	2G Device	Barisal	175	12	 15 	 15 
+Selected	AT	30-34 yrs	3G Device	Barisal	333	112	 262 	 261 
+Selected	AT	30-34 yrs	4G Device	Barisal	122	61	 276 	 276 
+Selected	AT	30-34 yrs	Basic	Barisal	307	28	 71 	 71 
+Selected	AT	30-34 yrs	Others	Barisal	25	6	 14 	 14 
+Selected	AT	35-39 yrs	2G Device	Barisal	171	17	 15 	 15 
+Selected	AT	35-39 yrs	3G Device	Barisal	241	86	 255 	 254 
+Selected	AT	35-39 yrs	4G Device	Barisal	105	48	 159 	 159 
+Selected	AT	35-39 yrs	Basic	Barisal	266	27	 42 	 41 
+Selected	AT	35-39 yrs	Others	Barisal	22	7	 7 	 7 
+Selected	AT	40-44 yrs	2G Device	Barisal	139	13	 28 	 27 
+Selected	AT	40-44 yrs	3G Device	Barisal	211	76	 163 	 162 
+Selected	AT	40-44 yrs	4G Device	Barisal	109	45	 144 	 143 
+Selected	AT	40-44 yrs	Basic	Barisal	276	25	 37 	 36 
+Selected	AT	40-44 yrs	Others	Barisal	18	5	 8 	 8 
+Selected	AT	45-59 yrs	2G Device	Barisal	297	31	 46 	 46 
+Selected	AT	45-59 yrs	3G Device	Barisal	426	143	 348 	 346 
+Selected	AT	45-59 yrs	4G Device	Barisal	183	81	 291 	 291 
+Selected	AT	45-59 yrs	Basic	Barisal	405	47	 113 	 113 
+Selected	AT	45-59 yrs	Others	Barisal	33	12	 13 	 13 
+Selected	AT	60+ yrs	2G Device	Barisal	111	7	 51 	 51 
+Selected	AT	60+ yrs	3G Device	Barisal	95	29	 93 	 92 
+Selected	AT	60+ yrs	4G Device	Barisal	35	24	 108 	 108 
+Selected	AT	60+ yrs	Basic	Barisal	138	5	 8 	 8 
+Selected	AT	60+ yrs	Others	Barisal	9	1	 1 	 1 
+Selected	AT	OTHERS	2G Device	Barisal				
+Selected	AT	OTHERS	3G Device	Barisal				
+Selected	AT	OTHERS	4G Device	Barisal				
+Selected	AT	OTHERS	Basic	Barisal				
+Selected	AT	OTHERS	Others	Barisal				
+Selected	AT	<=24 yrs	2G Device	Brahmanbaria 	316	71	 155 	 155 
+Selected	AT	<=24 yrs	3G Device	Brahmanbaria 	816	449	" 1,085 "	" 1,083 "
+Selected	AT	<=24 yrs	4G Device	Brahmanbaria 	502	349	" 1,095 "	" 1,094 "
+Selected	AT	<=24 yrs	Basic	Brahmanbaria 	640	141	 216 	 215 
+Selected	AT	<=24 yrs	Others	Brahmanbaria 	115	56	 65 	 64 
+Selected	AT	25-29 yrs	2G Device	Brahmanbaria 	640	79	 154 	 152 
+Selected	AT	25-29 yrs	3G Device	Brahmanbaria 	1413	675	" 1,573 "	" 1,569 "
+Selected	AT	25-29 yrs	4G Device	Brahmanbaria 	794	478	" 1,612 "	" 1,610 "
+Selected	AT	25-29 yrs	Basic	Brahmanbaria 	1335	172	 273 	 271 
+Selected	AT	25-29 yrs	Others	Brahmanbaria 	159	65	 80 	 79 
+Selected	AT	30-34 yrs	2G Device	Brahmanbaria 	720	80	 127 	 126 
+Selected	AT	30-34 yrs	3G Device	Brahmanbaria 	1507	631	" 1,479 "	" 1,474 "
+Selected	AT	30-34 yrs	4G Device	Brahmanbaria 	726	424	" 1,327 "	" 1,325 "
+Selected	AT	30-34 yrs	Basic	Brahmanbaria 	1522	124	 226 	 224 
+Selected	AT	30-34 yrs	Others	Brahmanbaria 	166	45	 56 	 55 
+Selected	AT	35-39 yrs	2G Device	Brahmanbaria 	585	52	 87 	 86 
+Selected	AT	35-39 yrs	3G Device	Brahmanbaria 	1110	474	" 1,061 "	" 1,057 "
+Selected	AT	35-39 yrs	4G Device	Brahmanbaria 	541	323	" 1,197 "	" 1,196 "
+Selected	AT	35-39 yrs	Basic	Brahmanbaria 	1266	105	 171 	 170 
+Selected	AT	35-39 yrs	Others	Brahmanbaria 	103	36	 52 	 51 
+Selected	AT	40-44 yrs	2G Device	Brahmanbaria 	488	45	 74 	 74 
+Selected	AT	40-44 yrs	3G Device	Brahmanbaria 	825	313	 779 	 776 
+Selected	AT	40-44 yrs	4G Device	Brahmanbaria 	376	222	 770 	 768 
+Selected	AT	40-44 yrs	Basic	Brahmanbaria 	919	75	 139 	 139 
+Selected	AT	40-44 yrs	Others	Brahmanbaria 	73	25	 37 	 37 
+Selected	AT	45-59 yrs	2G Device	Brahmanbaria 	1006	107	 183 	 181 
+Selected	AT	45-59 yrs	3G Device	Brahmanbaria 	1501	597	" 1,393 "	" 1,388 "
+Selected	AT	45-59 yrs	4G Device	Brahmanbaria 	684	363	" 1,341 "	" 1,340 "
+Selected	AT	45-59 yrs	Basic	Brahmanbaria 	1690	138	 281 	 278 
+Selected	AT	45-59 yrs	Others	Brahmanbaria 	179	65	 105 	 104 
+Selected	AT	60+ yrs	2G Device	Brahmanbaria 	264	15	 20 	 20 
+Selected	AT	60+ yrs	3G Device	Brahmanbaria 	332	135	 365 	 364 
+Selected	AT	60+ yrs	4G Device	Brahmanbaria 	157	95	 259 	 258 
+Selected	AT	60+ yrs	Basic	Brahmanbaria 	479	29	 45 	 44 
+Selected	AT	60+ yrs	Others	Brahmanbaria 	55	15	 22 	 22 
+Selected	AT	OTHERS	2G Device	Brahmanbaria 	2	0	 -   	
+Selected	AT	OTHERS	3G Device	Brahmanbaria 	1	0	 0 	
+Selected	AT	OTHERS	4G Device	Brahmanbaria 				
+Selected	AT	OTHERS	Basic	Brahmanbaria 	1	0	 -   	
+Selected	AT	OTHERS	Others	Brahmanbaria 	3	0	 -   	
+Selected	AT	<=24 yrs	2G Device	Chittagong Metro	4462	927	" 1,436 "	" 1,421 "
+Selected	AT	<=24 yrs	3G Device	Chittagong Metro	9304	4938	" 10,972 "	" 10,941 "
+Selected	AT	<=24 yrs	4G Device	Chittagong Metro	5775	3676	" 11,914 "	" 11,895 "
+Selected	AT	<=24 yrs	Basic	Chittagong Metro	8782	1597	" 2,826 "	" 2,806 "
+Selected	AT	<=24 yrs	Others	Chittagong Metro	2284	783	" 1,648 "	" 1,640 "
+Selected	AT	25-29 yrs	2G Device	Chittagong Metro	11863	1526	" 2,211 "	" 2,183 "
+Selected	AT	25-29 yrs	3G Device	Chittagong Metro	21199	9619	" 21,640 "	" 21,564 "
+Selected	AT	25-29 yrs	4G Device	Chittagong Metro	11804	6913	" 24,030 "	" 23,993 "
+Selected	AT	25-29 yrs	Basic	Chittagong Metro	23724	2850	" 4,603 "	" 4,560 "
+Selected	AT	25-29 yrs	Others	Chittagong Metro	4621	1295	" 3,015 "	" 3,001 "
+Selected	AT	30-34 yrs	2G Device	Chittagong Metro	14182	1392	" 1,991 "	" 1,966 "
+Selected	AT	30-34 yrs	3G Device	Chittagong Metro	22512	9121	" 20,438 "	" 20,360 "
+Selected	AT	30-34 yrs	4G Device	Chittagong Metro	10377	5879	" 19,891 "	" 19,861 "
+Selected	AT	30-34 yrs	Basic	Chittagong Metro	29310	2631	" 4,406 "	" 4,361 "
+Selected	AT	30-34 yrs	Others	Chittagong Metro	5967	1246	" 2,511 "	" 2,500 "
+Selected	AT	35-39 yrs	2G Device	Chittagong Metro	12034	995	" 1,388 "	" 1,365 "
+Selected	AT	35-39 yrs	3G Device	Chittagong Metro	16974	6641	" 15,135 "	" 15,075 "
+Selected	AT	35-39 yrs	4G Device	Chittagong Metro	7086	3768	" 12,732 "	" 12,708 "
+Selected	AT	35-39 yrs	Basic	Chittagong Metro	23377	1818	" 2,950 "	" 2,918 "
+Selected	AT	35-39 yrs	Others	Chittagong Metro	4663	795	" 1,925 "	" 1,916 "
+Selected	AT	40-44 yrs	2G Device	Chittagong Metro	8659	715	" 1,039 "	" 1,022 "
+Selected	AT	40-44 yrs	3G Device	Chittagong Metro	11982	4580	" 10,042 "	" 9,999 "
+Selected	AT	40-44 yrs	4G Device	Chittagong Metro	5322	2888	" 10,139 "	" 10,121 "
+Selected	AT	40-44 yrs	Basic	Chittagong Metro	15698	1241	" 1,919 "	" 1,896 "
+Selected	AT	40-44 yrs	Others	Chittagong Metro	3194	547	" 1,163 "	" 1,158 "
+Selected	AT	45-59 yrs	2G Device	Chittagong Metro	15217	1374	" 1,874 "	" 1,844 "
+Selected	AT	45-59 yrs	3G Device	Chittagong Metro	19260	7379	" 15,935 "	" 15,862 "
+Selected	AT	45-59 yrs	4G Device	Chittagong Metro	8303	4498	" 15,491 "	" 15,463 "
+Selected	AT	45-59 yrs	Basic	Chittagong Metro	26607	2085	" 3,173 "	" 3,135 "
+Selected	AT	45-59 yrs	Others	Chittagong Metro	5793	847	" 1,652 "	" 1,643 "
+Selected	AT	60+ yrs	2G Device	Chittagong Metro	3710	232	 278 	 273 
+Selected	AT	60+ yrs	3G Device	Chittagong Metro	3723	1251	" 2,802 "	" 2,787 "
+Selected	AT	60+ yrs	4G Device	Chittagong Metro	1648	876	" 2,683 "	" 2,677 "
+Selected	AT	60+ yrs	Basic	Chittagong Metro	5857	399	 765 	 760 
+Selected	AT	60+ yrs	Others	Chittagong Metro	1917	162	 317 	 314 
+Selected	AT	OTHERS	2G Device	Chittagong Metro	18	0	 0 	
+Selected	AT	OTHERS	3G Device	Chittagong Metro	12	0	 0 	
+Selected	AT	OTHERS	4G Device	Chittagong Metro	8	1	 0 	 0 
+Selected	AT	OTHERS	Basic	Chittagong Metro	33	0	 0 	
+Selected	AT	OTHERS	Others	Chittagong Metro	31	0	 0 	
+Selected	AT	<=24 yrs	2G Device	Chittagong North	1764	508	 879 	 874 
+Selected	AT	<=24 yrs	3G Device	Chittagong North	4157	2650	" 6,114 "	" 6,101 "
+Selected	AT	<=24 yrs	4G Device	Chittagong North	2546	1853	" 6,007 "	" 6,002 "
+Selected	AT	<=24 yrs	Basic	Chittagong North	3290	857	" 1,503 "	" 1,496 "
+Selected	AT	<=24 yrs	Others	Chittagong North	866	433	 692 	 688 
+Selected	AT	25-29 yrs	2G Device	Chittagong North	3384	585	" 1,039 "	" 1,031 "
+Selected	AT	25-29 yrs	3G Device	Chittagong North	6660	3610	" 7,844 "	" 7,823 "
+Selected	AT	25-29 yrs	4G Device	Chittagong North	3435	2285	" 7,928 "	" 7,920 "
+Selected	AT	25-29 yrs	Basic	Chittagong North	6694	1081	" 1,943 "	" 1,931 "
+Selected	AT	25-29 yrs	Others	Chittagong North	1183	471	" 1,012 "	" 1,009 "
+Selected	AT	30-34 yrs	2G Device	Chittagong North	3859	472	 723 	 717 
+Selected	AT	30-34 yrs	3G Device	Chittagong North	6632	3221	" 6,923 "	" 6,903 "
+Selected	AT	30-34 yrs	4G Device	Chittagong North	3252	2110	" 7,448 "	" 7,440 "
+Selected	AT	30-34 yrs	Basic	Chittagong North	7832	858	" 1,477 "	" 1,465 "
+Selected	AT	30-34 yrs	Others	Chittagong North	1352	364	 735 	 732 
+Selected	AT	35-39 yrs	2G Device	Chittagong North	3261	332	 472 	 465 
+Selected	AT	35-39 yrs	3G Device	Chittagong North	5152	2408	" 5,631 "	" 5,614 "
+Selected	AT	35-39 yrs	4G Device	Chittagong North	2283	1445	" 4,575 "	" 4,568 "
+Selected	AT	35-39 yrs	Basic	Chittagong North	6365	616	" 1,022 "	" 1,013 "
+Selected	AT	35-39 yrs	Others	Chittagong North	1074	258	 367 	 364 
+Selected	AT	40-44 yrs	2G Device	Chittagong North	2161	234	 315 	 310 
+Selected	AT	40-44 yrs	3G Device	Chittagong North	3235	1435	" 3,114 "	" 3,101 "
+Selected	AT	40-44 yrs	4G Device	Chittagong North	1494	970	" 3,161 "	" 3,157 "
+Selected	AT	40-44 yrs	Basic	Chittagong North	4064	446	 729 	 722 
+Selected	AT	40-44 yrs	Others	Chittagong North	681	156	 259 	 257 
+Selected	AT	45-59 yrs	2G Device	Chittagong North	4115	459	 671 	 662 
+Selected	AT	45-59 yrs	3G Device	Chittagong North	5589	2554	" 5,609 "	" 5,591 "
+Selected	AT	45-59 yrs	4G Device	Chittagong North	2569	1611	" 5,469 "	" 5,461 "
+Selected	AT	45-59 yrs	Basic	Chittagong North	7430	782	" 1,251 "	" 1,239 "
+Selected	AT	45-59 yrs	Others	Chittagong North	1336	309	 664 	 661 
+Selected	AT	60+ yrs	2G Device	Chittagong North	1042	96	 124 	 122 
+Selected	AT	60+ yrs	3G Device	Chittagong North	1272	600	" 1,251 "	" 1,247 "
+Selected	AT	60+ yrs	4G Device	Chittagong North	594	370	" 1,237 "	" 1,236 "
+Selected	AT	60+ yrs	Basic	Chittagong North	1753	153	 256 	 253 
+Selected	AT	60+ yrs	Others	Chittagong North	419	71	 150 	 149 
+Selected	AT	OTHERS	2G Device	Chittagong North	2	0	 -   	
+Selected	AT	OTHERS	3G Device	Chittagong North	0	0	 -   	
+Selected	AT	OTHERS	4G Device	Chittagong North				
+Selected	AT	OTHERS	Basic	Chittagong North	6	0	 -   	
+Selected	AT	OTHERS	Others	Chittagong North	4	0	 -   	
+Selected	AT	<=24 yrs	2G Device	Chittagong South	1424	317	 576 	 573 
+Selected	AT	<=24 yrs	3G Device	Chittagong South	2888	1755	" 4,116 "	" 4,107 "
+Selected	AT	<=24 yrs	4G Device	Chittagong South	1477	1056	" 3,705 "	" 3,702 "
+Selected	AT	<=24 yrs	Basic	Chittagong South	3252	670	" 1,145 "	" 1,138 "
+Selected	AT	<=24 yrs	Others	Chittagong South	535	238	 418 	 417 
+Selected	AT	25-29 yrs	2G Device	Chittagong South	2485	419	 707 	 702 
+Selected	AT	25-29 yrs	3G Device	Chittagong South	4750	2557	" 5,970 "	" 5,957 "
+Selected	AT	25-29 yrs	4G Device	Chittagong South	2542	1646	" 5,738 "	" 5,732 "
+Selected	AT	25-29 yrs	Basic	Chittagong South	6067	866	" 1,597 "	" 1,587 "
+Selected	AT	25-29 yrs	Others	Chittagong South	883	322	 585 	 582 
+Selected	AT	30-34 yrs	2G Device	Chittagong South	3017	369	 558 	 554 
+Selected	AT	30-34 yrs	3G Device	Chittagong South	4955	2490	" 5,854 "	" 5,840 "
+Selected	AT	30-34 yrs	4G Device	Chittagong South	2531	1610	" 5,629 "	" 5,622 "
+Selected	AT	30-34 yrs	Basic	Chittagong South	7164	784	" 1,429 "	" 1,419 "
+Selected	AT	30-34 yrs	Others	Chittagong South	1127	276	 538 	 535 
+Selected	AT	35-39 yrs	2G Device	Chittagong South	2501	249	 404 	 400 
+Selected	AT	35-39 yrs	3G Device	Chittagong South	3656	1688	" 3,989 "	" 3,977 "
+Selected	AT	35-39 yrs	4G Device	Chittagong South	1764	1093	" 3,825 "	" 3,820 "
+Selected	AT	35-39 yrs	Basic	Chittagong South	5669	573	 987 	 980 
+Selected	AT	35-39 yrs	Others	Chittagong South	947	214	 414 	 412 
+Selected	AT	40-44 yrs	2G Device	Chittagong South	1651	151	 234 	 230 
+Selected	AT	40-44 yrs	3G Device	Chittagong South	2305	1028	" 2,528 "	" 2,520 "
+Selected	AT	40-44 yrs	4G Device	Chittagong South	1042	656	" 2,310 "	" 2,307 "
+Selected	AT	40-44 yrs	Basic	Chittagong South	3542	358	 645 	 640 
+Selected	AT	40-44 yrs	Others	Chittagong South	516	95	 125 	 123 
+Selected	AT	45-59 yrs	2G Device	Chittagong South	2841	307	 437 	 432 
+Selected	AT	45-59 yrs	3G Device	Chittagong South	3734	1718	" 4,047 "	" 4,034 "
+Selected	AT	45-59 yrs	4G Device	Chittagong South	1588	971	" 3,116 "	" 3,112 "
+Selected	AT	45-59 yrs	Basic	Chittagong South	5848	582	 944 	 935 
+Selected	AT	45-59 yrs	Others	Chittagong South	1073	187	 252 	 250 
+Selected	AT	60+ yrs	2G Device	Chittagong South	719	90	 118 	 117 
+Selected	AT	60+ yrs	3G Device	Chittagong South	860	390	 774 	 772 
+Selected	AT	60+ yrs	4G Device	Chittagong South	410	242	 860 	 858 
+Selected	AT	60+ yrs	Basic	Chittagong South	1445	140	 229 	 228 
+Selected	AT	60+ yrs	Others	Chittagong South	374	61	 83 	 82 
+Selected	AT	OTHERS	2G Device	Chittagong South	1	0	 0 	
+Selected	AT	OTHERS	3G Device	Chittagong South	2	0	 -   	
+Selected	AT	OTHERS	4G Device	Chittagong South	0	0	 -   	
+Selected	AT	OTHERS	Basic	Chittagong South	7	0	 -   	
+Selected	AT	OTHERS	Others	Chittagong South	16	0	 -   	
+Selected	AT	<=24 yrs	2G Device	Comilla	3568	978	" 1,637 "	" 1,628 "
+Selected	AT	<=24 yrs	3G Device	Comilla	8762	5419	" 11,769 "	" 11,742 "
+Selected	AT	<=24 yrs	4G Device	Comilla	4970	3640	" 11,262 "	" 11,249 "
+Selected	AT	<=24 yrs	Basic	Comilla	6919	1724	" 3,210 "	" 3,195 "
+Selected	AT	<=24 yrs	Others	Comilla	1108	408	 585 	 580 
+Selected	AT	25-29 yrs	2G Device	Comilla	7436	1181	" 1,881 "	" 1,866 "
+Selected	AT	25-29 yrs	3G Device	Comilla	15240	8111	" 17,994 "	" 17,947 "
+Selected	AT	25-29 yrs	4G Device	Comilla	7758	4959	" 16,345 "	" 16,326 "
+Selected	AT	25-29 yrs	Basic	Comilla	15364	2369	" 4,123 "	" 4,099 "
+Selected	AT	25-29 yrs	Others	Comilla	1895	602	 847 	 841 
+Selected	AT	30-34 yrs	2G Device	Comilla	8532	1029	" 1,583 "	" 1,568 "
+Selected	AT	30-34 yrs	3G Device	Comilla	15402	7358	" 16,300 "	" 16,248 "
+Selected	AT	30-34 yrs	4G Device	Comilla	7392	4680	" 14,996 "	" 14,977 "
+Selected	AT	30-34 yrs	Basic	Comilla	18176	2080	" 3,676 "	" 3,651 "
+Selected	AT	30-34 yrs	Others	Comilla	2267	547	 680 	 673 
+Selected	AT	35-39 yrs	2G Device	Comilla	7478	834	" 1,390 "	" 1,378 "
+Selected	AT	35-39 yrs	3G Device	Comilla	12471	5933	" 12,896 "	" 12,854 "
+Selected	AT	35-39 yrs	4G Device	Comilla	5774	3647	" 11,283 "	" 11,267 "
+Selected	AT	35-39 yrs	Basic	Comilla	15146	1629	" 2,798 "	" 2,777 "
+Selected	AT	35-39 yrs	Others	Comilla	1797	396	 477 	 471 
+Selected	AT	40-44 yrs	2G Device	Comilla	5146	593	 892 	 883 
+Selected	AT	40-44 yrs	3G Device	Comilla	8070	3812	" 8,216 "	" 8,186 "
+Selected	AT	40-44 yrs	4G Device	Comilla	3724	2352	" 7,198 "	" 7,187 "
+Selected	AT	40-44 yrs	Basic	Comilla	10429	1172	" 1,922 "	" 1,906 "
+Selected	AT	40-44 yrs	Others	Comilla	1138	253	 358 	 355 
+Selected	AT	45-59 yrs	2G Device	Comilla	9399	1075	" 1,631 "	" 1,612 "
+Selected	AT	45-59 yrs	3G Device	Comilla	13661	6516	" 13,697 "	" 13,646 "
+Selected	AT	45-59 yrs	4G Device	Comilla	6056	3722	" 11,602 "	" 11,582 "
+Selected	AT	45-59 yrs	Basic	Comilla	17539	2004	" 3,310 "	" 3,282 "
+Selected	AT	45-59 yrs	Others	Comilla	2152	490	 678 	 671 
+Selected	AT	60+ yrs	2G Device	Comilla	2424	233	 328 	 325 
+Selected	AT	60+ yrs	3G Device	Comilla	3186	1529	" 2,973 "	" 2,962 "
+Selected	AT	60+ yrs	4G Device	Comilla	1524	981	" 2,841 "	" 2,836 "
+Selected	AT	60+ yrs	Basic	Comilla	4804	464	 802 	 796 
+Selected	AT	60+ yrs	Others	Comilla	703	139	 187 	 184 
+Selected	AT	OTHERS	2G Device	Comilla	11	0	 -   	
+Selected	AT	OTHERS	3G Device	Comilla	10	0	 -   	
+Selected	AT	OTHERS	4G Device	Comilla	0	0	 -   	
+Selected	AT	OTHERS	Basic	Comilla	13	0	 0 	
+Selected	AT	OTHERS	Others	Comilla	33	0	 0 	
+Selected	AT	<=24 yrs	2G Device	Dhaka Metro	12900	1601	" 1,983 "	" 1,946 "
+Selected	AT	<=24 yrs	3G Device	Dhaka Metro	26956	8730	" 13,594 "	" 13,464 "
+Selected	AT	<=24 yrs	4G Device	Dhaka Metro	22590	9912	" 18,411 "	" 18,299 "
+Selected	AT	<=24 yrs	Basic	Dhaka Metro	23779	2761	" 4,098 "	" 4,042 "
+Selected	AT	<=24 yrs	Others	Dhaka Metro	4739	812	" 1,001 "	 985 
+Selected	AT	25-29 yrs	2G Device	Dhaka Metro	27791	2355	" 3,116 "	" 3,061 "
+Selected	AT	25-29 yrs	3G Device	Dhaka Metro	54738	15510	" 25,035 "	" 24,793 "
+Selected	AT	25-29 yrs	4G Device	Dhaka Metro	40050	16389	" 34,007 "	" 33,823 "
+Selected	AT	25-29 yrs	Basic	Dhaka Metro	52392	4322	" 6,440 "	" 6,350 "
+Selected	AT	25-29 yrs	Others	Dhaka Metro	8655	1225	" 1,665 "	" 1,642 "
+Selected	AT	30-34 yrs	2G Device	Dhaka Metro	29962	1948	" 2,733 "	" 2,685 "
+Selected	AT	30-34 yrs	3G Device	Dhaka Metro	50755	13170	" 23,230 "	" 23,024 "
+Selected	AT	30-34 yrs	4G Device	Dhaka Metro	30879	11900	" 26,640 "	" 26,511 "
+Selected	AT	30-34 yrs	Basic	Dhaka Metro	56834	3808	" 5,672 "	" 5,587 "
+Selected	AT	30-34 yrs	Others	Dhaka Metro	10024	1049	" 1,519 "	" 1,498 "
+Selected	AT	35-39 yrs	2G Device	Dhaka Metro	25483	1522	" 1,978 "	" 1,942 "
+Selected	AT	35-39 yrs	3G Device	Dhaka Metro	39032	9897	" 17,694 "	" 17,529 "
+Selected	AT	35-39 yrs	4G Device	Dhaka Metro	21732	7998	" 18,694 "	" 18,596 "
+Selected	AT	35-39 yrs	Basic	Dhaka Metro	47051	2842	" 4,109 "	" 4,043 "
+Selected	AT	35-39 yrs	Others	Dhaka Metro	8401	715	 970 	 954 
+Selected	AT	40-44 yrs	2G Device	Dhaka Metro	18557	1077	" 1,426 "	" 1,397 "
+Selected	AT	40-44 yrs	3G Device	Dhaka Metro	28342	6928	" 12,098 "	" 11,974 "
+Selected	AT	40-44 yrs	4G Device	Dhaka Metro	16273	6031	" 13,365 "	" 13,287 "
+Selected	AT	40-44 yrs	Basic	Dhaka Metro	32623	2043	" 2,936 "	" 2,885 "
+Selected	AT	40-44 yrs	Others	Dhaka Metro	5298	479	 689 	 678 
+Selected	AT	45-59 yrs	2G Device	Dhaka Metro	35359	1949	" 2,419 "	" 2,361 "
+Selected	AT	45-59 yrs	3G Device	Dhaka Metro	50393	12149	" 19,248 "	" 19,017 "
+Selected	AT	45-59 yrs	4G Device	Dhaka Metro	32877	12567	" 24,754 "	" 24,576 "
+Selected	AT	45-59 yrs	Basic	Dhaka Metro	57377	3492	" 4,862 "	" 4,773 "
+Selected	AT	45-59 yrs	Others	Dhaka Metro	10018	808	" 1,055 "	" 1,037 "
+Selected	AT	60+ yrs	2G Device	Dhaka Metro	8404	347	 357 	 348 
+Selected	AT	60+ yrs	3G Device	Dhaka Metro	9971	2095	" 3,235 "	" 3,192 "
+Selected	AT	60+ yrs	4G Device	Dhaka Metro	6384	2298	" 4,451 "	" 4,417 "
+Selected	AT	60+ yrs	Basic	Dhaka Metro	12716	617	 828 	 812 
+Selected	AT	60+ yrs	Others	Dhaka Metro	3256	127	 136 	 133 
+Selected	AT	OTHERS	2G Device	Dhaka Metro	22	0	 0 	
+Selected	AT	OTHERS	3G Device	Dhaka Metro	13	0	 0 	
+Selected	AT	OTHERS	4G Device	Dhaka Metro	13	3	 3 	 3 
+Selected	AT	OTHERS	Basic	Dhaka Metro	51	1	 9 	 9 
+Selected	AT	OTHERS	Others	Dhaka Metro	46	0	 -   	
+Selected	AT	<=24 yrs	2G Device	Dhaka North	13907	2070	" 3,008 "	" 2,966 "
+Selected	AT	<=24 yrs	3G Device	Dhaka North	28194	11008	" 19,427 "	" 19,299 "
+Selected	AT	<=24 yrs	4G Device	Dhaka North	18452	8823	" 19,349 "	" 19,261 "
+Selected	AT	<=24 yrs	Basic	Dhaka North	26697	3658	" 5,363 "	" 5,298 "
+Selected	AT	<=24 yrs	Others	Dhaka North	4130	1036	" 1,289 "	" 1,270 "
+Selected	AT	25-29 yrs	2G Device	Dhaka North	30251	2938	" 4,282 "	" 4,219 "
+Selected	AT	25-29 yrs	3G Device	Dhaka North	55610	18047	" 32,073 "	" 31,839 "
+Selected	AT	25-29 yrs	4G Device	Dhaka North	31867	13835	" 32,436 "	" 32,302 "
+Selected	AT	25-29 yrs	Basic	Dhaka North	60762	5759	" 8,635 "	" 8,526 "
+Selected	AT	25-29 yrs	Others	Dhaka North	6790	1367	" 1,698 "	" 1,676 "
+Selected	AT	30-34 yrs	2G Device	Dhaka North	35402	2653	" 3,893 "	" 3,833 "
+Selected	AT	30-34 yrs	3G Device	Dhaka North	55759	16453	" 30,429 "	" 30,211 "
+Selected	AT	30-34 yrs	4G Device	Dhaka North	26444	10815	" 27,510 "	" 27,404 "
+Selected	AT	30-34 yrs	Basic	Dhaka North	72137	5577	" 8,334 "	" 8,222 "
+Selected	AT	30-34 yrs	Others	Dhaka North	7656	1223	" 1,558 "	" 1,537 "
+Selected	AT	35-39 yrs	2G Device	Dhaka North	29659	2017	" 2,766 "	" 2,717 "
+Selected	AT	35-39 yrs	3G Device	Dhaka North	42713	12088	" 22,150 "	" 21,982 "
+Selected	AT	35-39 yrs	4G Device	Dhaka North	19473	7870	" 19,485 "	" 19,404 "
+Selected	AT	35-39 yrs	Basic	Dhaka North	57372	3970	" 6,150 "	" 6,063 "
+Selected	AT	35-39 yrs	Others	Dhaka North	5988	823	" 1,079 "	" 1,062 "
+Selected	AT	40-44 yrs	2G Device	Dhaka North	19485	1386	" 1,833 "	" 1,796 "
+Selected	AT	40-44 yrs	3G Device	Dhaka North	28016	7708	" 14,004 "	" 13,887 "
+Selected	AT	40-44 yrs	4G Device	Dhaka North	14046	5672	" 13,851 "	" 13,788 "
+Selected	AT	40-44 yrs	Basic	Dhaka North	35839	2542	" 3,877 "	" 3,817 "
+Selected	AT	40-44 yrs	Others	Dhaka North	3934	547	 732 	 721 
+Selected	AT	45-59 yrs	2G Device	Dhaka North	33273	2276	" 2,863 "	" 2,801 "
+Selected	AT	45-59 yrs	3G Device	Dhaka North	45337	12387	" 21,961 "	" 21,760 "
+Selected	AT	45-59 yrs	4G Device	Dhaka North	24336	9915	" 22,385 "	" 22,258 "
+Selected	AT	45-59 yrs	Basic	Dhaka North	58558	4024	" 5,628 "	" 5,530 "
+Selected	AT	45-59 yrs	Others	Dhaka North	6470	774	 941 	 927 
+Selected	AT	60+ yrs	2G Device	Dhaka North	7453	361	 461 	 451 
+Selected	AT	60+ yrs	3G Device	Dhaka North	8438	2072	" 3,651 "	" 3,616 "
+Selected	AT	60+ yrs	4G Device	Dhaka North	4327	1640	" 3,681 "	" 3,660 "
+Selected	AT	60+ yrs	Basic	Dhaka North	12473	721	" 1,004 "	 987 
+Selected	AT	60+ yrs	Others	Dhaka North	1779	142	 166 	 163 
+Selected	AT	OTHERS	2G Device	Dhaka North	16	0	 0 	
+Selected	AT	OTHERS	3G Device	Dhaka North	16	2	 1 	 1 
+Selected	AT	OTHERS	4G Device	Dhaka North	6	0	 -   	
+Selected	AT	OTHERS	Basic	Dhaka North	20	0	 0 	
+Selected	AT	OTHERS	Others	Dhaka North	27	0	 -   	
+Selected	AT	<=24 yrs	2G Device	Dhaka South	6750	1049	" 1,613 "	" 1,592 "
+Selected	AT	<=24 yrs	3G Device	Dhaka South	13783	5859	" 10,763 "	" 10,700 "
+Selected	AT	<=24 yrs	4G Device	Dhaka South	8125	4261	" 9,871 "	" 9,837 "
+Selected	AT	<=24 yrs	Basic	Dhaka South	13289	2142	" 3,429 "	" 3,399 "
+Selected	AT	<=24 yrs	Others	Dhaka South	2591	663	 871 	 860 
+Selected	AT	25-29 yrs	2G Device	Dhaka South	18120	2064	" 2,830 "	" 2,787 "
+Selected	AT	25-29 yrs	3G Device	Dhaka South	32706	11881	" 21,505 "	" 21,367 "
+Selected	AT	25-29 yrs	4G Device	Dhaka South	17104	8083	" 20,541 "	" 20,468 "
+Selected	AT	25-29 yrs	Basic	Dhaka South	35808	4092	" 6,544 "	" 6,477 "
+Selected	AT	25-29 yrs	Others	Dhaka South	4751	1048	" 1,470 "	" 1,454 "
+Selected	AT	30-34 yrs	2G Device	Dhaka South	23026	1925	" 2,778 "	" 2,739 "
+Selected	AT	30-34 yrs	3G Device	Dhaka South	35727	11760	" 21,938 "	" 21,796 "
+Selected	AT	30-34 yrs	4G Device	Dhaka South	16109	7035	" 18,951 "	" 18,885 "
+Selected	AT	30-34 yrs	Basic	Dhaka South	46517	4059	" 6,785 "	" 6,711 "
+Selected	AT	30-34 yrs	Others	Dhaka South	6195	1103	" 1,602 "	" 1,585 "
+Selected	AT	35-39 yrs	2G Device	Dhaka South	19971	1570	" 2,152 "	" 2,120 "
+Selected	AT	35-39 yrs	3G Device	Dhaka South	28370	8853	" 16,278 "	" 16,162 "
+Selected	AT	35-39 yrs	4G Device	Dhaka South	12141	5221	" 13,971 "	" 13,918 "
+Selected	AT	35-39 yrs	Basic	Dhaka South	39313	3036	" 4,863 "	" 4,803 "
+Selected	AT	35-39 yrs	Others	Dhaka South	5039	818	" 1,277 "	" 1,262 "
+Selected	AT	40-44 yrs	2G Device	Dhaka South	14566	1147	" 1,471 "	" 1,445 "
+Selected	AT	40-44 yrs	3G Device	Dhaka South	19834	6195	" 11,543 "	" 11,461 "
+Selected	AT	40-44 yrs	4G Device	Dhaka South	8615	3741	" 9,374 "	" 9,337 "
+Selected	AT	40-44 yrs	Basic	Dhaka South	27147	2257	" 3,366 "	" 3,319 "
+Selected	AT	40-44 yrs	Others	Dhaka South	3410	550	 725 	 716 
+Selected	AT	45-59 yrs	2G Device	Dhaka South	25978	1982	" 2,387 "	" 2,339 "
+Selected	AT	45-59 yrs	3G Device	Dhaka South	33140	10182	" 17,460 "	" 17,315 "
+Selected	AT	45-59 yrs	4G Device	Dhaka South	14819	6412	" 15,517 "	" 15,445 "
+Selected	AT	45-59 yrs	Basic	Dhaka South	46725	3790	" 5,562 "	" 5,488 "
+Selected	AT	45-59 yrs	Others	Dhaka South	5690	812	" 1,212 "	" 1,197 "
+Selected	AT	60+ yrs	2G Device	Dhaka South	6205	361	 528 	 519 
+Selected	AT	60+ yrs	3G Device	Dhaka South	6272	1718	" 2,980 "	" 2,954 "
+Selected	AT	60+ yrs	4G Device	Dhaka South	2663	1111	" 2,639 "	" 2,627 "
+Selected	AT	60+ yrs	Basic	Dhaka South	10809	628	" 1,065 "	" 1,051 "
+Selected	AT	60+ yrs	Others	Dhaka South	1659	152	 232 	 229 
+Selected	AT	OTHERS	2G Device	Dhaka South	9	0	 0 	
+Selected	AT	OTHERS	3G Device	Dhaka South	6	0	 0 	
+Selected	AT	OTHERS	4G Device	Dhaka South	2	0	 -   	
+Selected	AT	OTHERS	Basic	Dhaka South	17	0	 0 	
+Selected	AT	OTHERS	Others	Dhaka South	37	0	 -   	
+Selected	AT	<=24 yrs	2G Device	Khulna	2611	746	" 1,491 "	" 1,485 "
+Selected	AT	<=24 yrs	3G Device	Khulna	6136	3610	" 8,824 "	" 8,807 "
+Selected	AT	<=24 yrs	4G Device	Khulna	3149	2147	" 6,561 "	" 6,553 "
+Selected	AT	<=24 yrs	Basic	Khulna	4411	1148	" 2,398 "	" 2,388 "
+Selected	AT	<=24 yrs	Others	Khulna	1053	469	 622 	 616 
+Selected	AT	25-29 yrs	2G Device	Khulna	3814	614	" 1,122 "	" 1,115 "
+Selected	AT	25-29 yrs	3G Device	Khulna	6683	3100	" 7,394 "	" 7,373 "
+Selected	AT	25-29 yrs	4G Device	Khulna	3104	1772	" 5,290 "	" 5,283 "
+Selected	AT	25-29 yrs	Basic	Khulna	6302	896	" 1,811 "	" 1,801 "
+Selected	AT	25-29 yrs	Others	Khulna	958	313	 426 	 421 
+Selected	AT	30-34 yrs	2G Device	Khulna	3882	416	 794 	 788 
+Selected	AT	30-34 yrs	3G Device	Khulna	5718	2253	" 5,195 "	" 5,175 "
+Selected	AT	30-34 yrs	4G Device	Khulna	2219	1171	" 3,784 "	" 3,779 "
+Selected	AT	30-34 yrs	Basic	Khulna	6915	702	" 1,459 "	" 1,450 "
+Selected	AT	30-34 yrs	Others	Khulna	978	236	 293 	 289 
+Selected	AT	35-39 yrs	2G Device	Khulna	3581	336	 556 	 550 
+Selected	AT	35-39 yrs	3G Device	Khulna	4812	1825	" 4,022 "	" 4,007 "
+Selected	AT	35-39 yrs	4G Device	Khulna	1694	853	" 2,691 "	" 2,686 "
+Selected	AT	35-39 yrs	Basic	Khulna	6372	545	" 1,010 "	" 1,001 "
+Selected	AT	35-39 yrs	Others	Khulna	915	230	 297 	 294 
+Selected	AT	40-44 yrs	2G Device	Khulna	2613	244	 340 	 336 
+Selected	AT	40-44 yrs	3G Device	Khulna	3494	1267	" 3,008 "	" 2,994 "
+Selected	AT	40-44 yrs	4G Device	Khulna	1309	638	" 1,832 "	" 1,829 "
+Selected	AT	40-44 yrs	Basic	Khulna	4422	397	 851 	 843 
+Selected	AT	40-44 yrs	Others	Khulna	639	124	 157 	 154 
+Selected	AT	45-59 yrs	2G Device	Khulna	5516	451	 784 	 776 
+Selected	AT	45-59 yrs	3G Device	Khulna	6386	2295	" 5,339 "	" 5,315 "
+Selected	AT	45-59 yrs	4G Device	Khulna	2474	1218	" 3,939 "	" 3,933 "
+Selected	AT	45-59 yrs	Basic	Khulna	8949	821	" 1,595 "	" 1,584 "
+Selected	AT	45-59 yrs	Others	Khulna	1159	246	 307 	 303 
+Selected	AT	60+ yrs	2G Device	Khulna	1517	72	 159 	 157 
+Selected	AT	60+ yrs	3G Device	Khulna	1435	467	" 1,076 "	" 1,071 "
+Selected	AT	60+ yrs	4G Device	Khulna	505	245	 700 	 698 
+Selected	AT	60+ yrs	Basic	Khulna	2279	149	 275 	 272 
+Selected	AT	60+ yrs	Others	Khulna	319	61	 59 	 58 
+Selected	AT	OTHERS	2G Device	Khulna	1	0	 -   	
+Selected	AT	OTHERS	3G Device	Khulna	3	0	 0 	
+Selected	AT	OTHERS	4G Device	Khulna	1	0	 -   	
+Selected	AT	OTHERS	Basic	Khulna	10	0	 0 	
+Selected	AT	OTHERS	Others	Khulna	6	0	 -   	
+Selected	AT	<=24 yrs	2G Device	Kushtia	369	104	 213 	 212 
+Selected	AT	<=24 yrs	3G Device	Kushtia	833	465	" 1,278 "	" 1,276 "
+Selected	AT	<=24 yrs	4G Device	Kushtia	427	267	 737 	 735 
+Selected	AT	<=24 yrs	Basic	Kushtia	644	185	 399 	 398 
+Selected	AT	<=24 yrs	Others	Kushtia	107	60	 94 	 94 
+Selected	AT	25-29 yrs	2G Device	Kushtia	475	79	 134 	 134 
+Selected	AT	25-29 yrs	3G Device	Kushtia	841	354	 755 	 752 
+Selected	AT	25-29 yrs	4G Device	Kushtia	375	213	 697 	 696 
+Selected	AT	25-29 yrs	Basic	Kushtia	810	114	 207 	 206 
+Selected	AT	25-29 yrs	Others	Kushtia	123	57	 73 	 73 
+Selected	AT	30-34 yrs	2G Device	Kushtia	470	53	 98 	 97 
+Selected	AT	30-34 yrs	3G Device	Kushtia	710	257	 530 	 528 
+Selected	AT	30-34 yrs	4G Device	Kushtia	263	126	 321 	 320 
+Selected	AT	30-34 yrs	Basic	Kushtia	955	84	 142 	 142 
+Selected	AT	30-34 yrs	Others	Kushtia	96	32	 31 	 31 
+Selected	AT	35-39 yrs	2G Device	Kushtia	389	37	 66 	 65 
+Selected	AT	35-39 yrs	3G Device	Kushtia	519	209	 449 	 447 
+Selected	AT	35-39 yrs	4G Device	Kushtia	246	107	 358 	 357 
+Selected	AT	35-39 yrs	Basic	Kushtia	752	67	 114 	 113 
+Selected	AT	35-39 yrs	Others	Kushtia	73	23	 23 	 23 
+Selected	AT	40-44 yrs	2G Device	Kushtia	326	45	 105 	 104 
+Selected	AT	40-44 yrs	3G Device	Kushtia	460	148	 269 	 268 
+Selected	AT	40-44 yrs	4G Device	Kushtia	195	81	 245 	 244 
+Selected	AT	40-44 yrs	Basic	Kushtia	568	60	 107 	 106 
+Selected	AT	40-44 yrs	Others	Kushtia	56	24	 29 	 29 
+Selected	AT	45-59 yrs	2G Device	Kushtia	641	65	 88 	 87 
+Selected	AT	45-59 yrs	3G Device	Kushtia	736	254	 561 	 559 
+Selected	AT	45-59 yrs	4G Device	Kushtia	367	177	 508 	 507 
+Selected	AT	45-59 yrs	Basic	Kushtia	1028	99	 155 	 154 
+Selected	AT	45-59 yrs	Others	Kushtia	106	35	 39 	 39 
+Selected	AT	60+ yrs	2G Device	Kushtia	178	14	 24 	 24 
+Selected	AT	60+ yrs	3G Device	Kushtia	164	56	 120 	 120 
+Selected	AT	60+ yrs	4G Device	Kushtia	65	37	 113 	 112 
+Selected	AT	60+ yrs	Basic	Kushtia	268	24	 43 	 42 
+Selected	AT	60+ yrs	Others	Kushtia	24	5	 6 	 6 
+Selected	AT	OTHERS	2G Device	Kushtia				
+Selected	AT	OTHERS	3G Device	Kushtia				
+Selected	AT	OTHERS	4G Device	Kushtia				
+Selected	AT	OTHERS	Basic	Kushtia				
+Selected	AT	OTHERS	Others	Kushtia				
+Selected	AT	<=24 yrs	2G Device	Mymensingh	1800	333	 523 	 519 
+Selected	AT	<=24 yrs	3G Device	Mymensingh	3584	1658	" 3,102 "	" 3,087 "
+Selected	AT	<=24 yrs	4G Device	Mymensingh	1879	1039	" 2,868 "	" 2,863 "
+Selected	AT	<=24 yrs	Basic	Mymensingh	3122	590	" 1,013 "	" 1,006 "
+Selected	AT	<=24 yrs	Others	Mymensingh	429	150	 182 	 180 
+Selected	AT	25-29 yrs	2G Device	Mymensingh	2834	351	 531 	 524 
+Selected	AT	25-29 yrs	3G Device	Mymensingh	4971	1858	" 4,008 "	" 3,989 "
+Selected	AT	25-29 yrs	4G Device	Mymensingh	2103	1002	" 2,904 "	" 2,897 "
+Selected	AT	25-29 yrs	Basic	Mymensingh	5214	690	" 1,139 "	" 1,129 "
+Selected	AT	25-29 yrs	Others	Mymensingh	488	137	 130 	 128 
+Selected	AT	30-34 yrs	2G Device	Mymensingh	2710	247	 344 	 339 
+Selected	AT	30-34 yrs	3G Device	Mymensingh	4099	1414	" 2,804 "	" 2,788 "
+Selected	AT	30-34 yrs	4G Device	Mymensingh	1701	759	" 2,242 "	" 2,236 "
+Selected	AT	30-34 yrs	Basic	Mymensingh	5127	480	 865 	 857 
+Selected	AT	30-34 yrs	Others	Mymensingh	532	90	 89 	 88 
+Selected	AT	35-39 yrs	2G Device	Mymensingh	2434	216	 289 	 283 
+Selected	AT	35-39 yrs	3G Device	Mymensingh	3501	1225	" 2,468 "	" 2,455 "
+Selected	AT	35-39 yrs	4G Device	Mymensingh	1454	708	" 2,234 "	" 2,230 "
+Selected	AT	35-39 yrs	Basic	Mymensingh	4592	420	 619 	 611 
+Selected	AT	35-39 yrs	Others	Mymensingh	477	83	 109 	 107 
+Selected	AT	40-44 yrs	2G Device	Mymensingh	1927	174	 232 	 228 
+Selected	AT	40-44 yrs	3G Device	Mymensingh	2580	845	" 1,814 "	" 1,804 "
+Selected	AT	40-44 yrs	4G Device	Mymensingh	1041	472	" 1,465 "	" 1,461 "
+Selected	AT	40-44 yrs	Basic	Mymensingh	3275	352	 589 	 582 
+Selected	AT	40-44 yrs	Others	Mymensingh	284	42	 51 	 50 
+Selected	AT	45-59 yrs	2G Device	Mymensingh	3997	411	 559 	 551 
+Selected	AT	45-59 yrs	3G Device	Mymensingh	5034	1685	" 3,311 "	" 3,291 "
+Selected	AT	45-59 yrs	4G Device	Mymensingh	2138	973	" 2,678 "	" 2,670 "
+Selected	AT	45-59 yrs	Basic	Mymensingh	6793	640	" 1,069 "	" 1,056 "
+Selected	AT	45-59 yrs	Others	Mymensingh	598	101	 116 	 114 
+Selected	AT	60+ yrs	2G Device	Mymensingh	1005	67	 96 	 95 
+Selected	AT	60+ yrs	3G Device	Mymensingh	1098	324	 581 	 576 
+Selected	AT	60+ yrs	4G Device	Mymensingh	448	200	 607 	 605 
+Selected	AT	60+ yrs	Basic	Mymensingh	1628	111	 183 	 180 
+Selected	AT	60+ yrs	Others	Mymensingh	202	30	 30 	 29 
+Selected	AT	OTHERS	2G Device	Mymensingh	2	0	 -   	
+Selected	AT	OTHERS	3G Device	Mymensingh	1	0	 -   	
+Selected	AT	OTHERS	4G Device	Mymensingh				
+Selected	AT	OTHERS	Basic	Mymensingh	1	0	 0 	
+Selected	AT	OTHERS	Others	Mymensingh				
+Selected	AT	<=24 yrs	2G Device	Noakhali	2751	649	" 1,088 "	" 1,080 "
+Selected	AT	<=24 yrs	3G Device	Noakhali	6807	4171	" 9,656 "	" 9,634 "
+Selected	AT	<=24 yrs	4G Device	Noakhali	3841	2672	" 8,346 "	" 8,336 "
+Selected	AT	<=24 yrs	Basic	Noakhali	5553	1309	" 2,449 "	" 2,438 "
+Selected	AT	<=24 yrs	Others	Noakhali	963	365	 587 	 583 
+Selected	AT	25-29 yrs	2G Device	Noakhali	5372	873	" 1,460 "	" 1,449 "
+Selected	AT	25-29 yrs	3G Device	Noakhali	11515	6110	" 13,654 "	" 13,618 "
+Selected	AT	25-29 yrs	4G Device	Noakhali	6134	3996	" 13,022 "	" 13,006 "
+Selected	AT	25-29 yrs	Basic	Noakhali	11378	1730	" 3,126 "	" 3,106 "
+Selected	AT	25-29 yrs	Others	Noakhali	1703	431	 556 	 550 
+Selected	AT	30-34 yrs	2G Device	Noakhali	5531	722	" 1,116 "	" 1,105 "
+Selected	AT	30-34 yrs	3G Device	Noakhali	11199	5743	" 12,822 "	" 12,784 "
+Selected	AT	30-34 yrs	4G Device	Noakhali	5758	3702	" 12,033 "	" 12,017 "
+Selected	AT	30-34 yrs	Basic	Noakhali	11780	1507	" 2,588 "	" 2,569 "
+Selected	AT	30-34 yrs	Others	Noakhali	2105	421	 582 	 576 
+Selected	AT	35-39 yrs	2G Device	Noakhali	5225	616	 866 	 857 
+Selected	AT	35-39 yrs	3G Device	Noakhali	9326	4568	" 9,709 "	" 9,678 "
+Selected	AT	35-39 yrs	4G Device	Noakhali	4425	2790	" 8,766 "	" 8,754 "
+Selected	AT	35-39 yrs	Basic	Noakhali	10653	1159	" 2,058 "	" 2,045 "
+Selected	AT	35-39 yrs	Others	Noakhali	1939	341	 474 	 468 
+Selected	AT	40-44 yrs	2G Device	Noakhali	3470	402	 589 	 582 
+Selected	AT	40-44 yrs	3G Device	Noakhali	5960	2864	" 5,878 "	" 5,856 "
+Selected	AT	40-44 yrs	4G Device	Noakhali	2715	1643	" 5,022 "	" 5,013 "
+Selected	AT	40-44 yrs	Basic	Noakhali	6278	732	" 1,315 "	" 1,305 "
+Selected	AT	40-44 yrs	Others	Noakhali	1154	211	 272 	 268 
+Selected	AT	45-59 yrs	2G Device	Noakhali	6217	796	" 1,084 "	" 1,072 "
+Selected	AT	45-59 yrs	3G Device	Noakhali	9902	4819	" 10,176 "	" 10,142 "
+Selected	AT	45-59 yrs	4G Device	Noakhali	4626	2956	" 9,097 "	" 9,083 "
+Selected	AT	45-59 yrs	Basic	Noakhali	11545	1315	" 2,278 "	" 2,259 "
+Selected	AT	45-59 yrs	Others	Noakhali	2255	389	 533 	 526 
+Selected	AT	60+ yrs	2G Device	Noakhali	1780	195	 259 	 256 
+Selected	AT	60+ yrs	3G Device	Noakhali	2513	1248	" 2,661 "	" 2,653 "
+Selected	AT	60+ yrs	4G Device	Noakhali	1274	825	" 2,286 "	" 2,282 "
+Selected	AT	60+ yrs	Basic	Noakhali	3207	359	 630 	 626 
+Selected	AT	60+ yrs	Others	Noakhali	760	130	 170 	 169 
+Selected	AT	OTHERS	2G Device	Noakhali	6	0	 -   	
+Selected	AT	OTHERS	3G Device	Noakhali	5	0	 0 	
+Selected	AT	OTHERS	4G Device	Noakhali	1	0	 -   	
+Selected	AT	OTHERS	Basic	Noakhali	13	0	 -   	
+Selected	AT	OTHERS	Others	Noakhali	17	0	 -   	
+Selected	AT	<=24 yrs	2G Device	Rajshahi	2250	499	 976 	 969 
+Selected	AT	<=24 yrs	3G Device	Rajshahi	4956	2688	" 6,469 "	" 6,454 "
+Selected	AT	<=24 yrs	4G Device	Rajshahi	2279	1497	" 4,633 "	" 4,628 "
+Selected	AT	<=24 yrs	Basic	Rajshahi	3400	760	" 1,497 "	" 1,489 "
+Selected	AT	<=24 yrs	Others	Rajshahi	945	372	 463 	 459 
+Selected	AT	25-29 yrs	2G Device	Rajshahi	2736	396	 701 	 695 
+Selected	AT	25-29 yrs	3G Device	Rajshahi	4776	2172	" 5,153 "	" 5,138 "
+Selected	AT	25-29 yrs	4G Device	Rajshahi	1986	1143	" 3,872 "	" 3,867 "
+Selected	AT	25-29 yrs	Basic	Rajshahi	4180	647	" 1,302 "	" 1,295 "
+Selected	AT	25-29 yrs	Others	Rajshahi	818	250	 306 	 304 
+Selected	AT	30-34 yrs	2G Device	Rajshahi	2422	236	 350 	 346 
+Selected	AT	30-34 yrs	3G Device	Rajshahi	3309	1126	" 2,506 "	" 2,496 "
+Selected	AT	30-34 yrs	4G Device	Rajshahi	1197	628	" 1,979 "	" 1,976 "
+Selected	AT	30-34 yrs	Basic	Rajshahi	3823	360	 627 	 623 
+Selected	AT	30-34 yrs	Others	Rajshahi	569	112	 180 	 178 
+Selected	AT	35-39 yrs	2G Device	Rajshahi	2139	164	 248 	 246 
+Selected	AT	35-39 yrs	3G Device	Rajshahi	2725	912	" 2,142 "	" 2,134 "
+Selected	AT	35-39 yrs	4G Device	Rajshahi	960	469	" 1,366 "	" 1,364 "
+Selected	AT	35-39 yrs	Basic	Rajshahi	3414	293	 631 	 627 
+Selected	AT	35-39 yrs	Others	Rajshahi	450	85	 155 	 154 
+Selected	AT	40-44 yrs	2G Device	Rajshahi	1643	134	 222 	 219 
+Selected	AT	40-44 yrs	3G Device	Rajshahi	2074	745	" 1,667 "	" 1,661 "
+Selected	AT	40-44 yrs	4G Device	Rajshahi	783	405	" 1,253 "	" 1,251 "
+Selected	AT	40-44 yrs	Basic	Rajshahi	2406	250	 505 	 501 
+Selected	AT	40-44 yrs	Others	Rajshahi	346	61	 76 	 75 
+Selected	AT	45-59 yrs	2G Device	Rajshahi	3450	310	 455 	 450 
+Selected	AT	45-59 yrs	3G Device	Rajshahi	3793	1339	" 3,172 "	" 3,161 "
+Selected	AT	45-59 yrs	4G Device	Rajshahi	1477	744	" 2,465 "	" 2,461 "
+Selected	AT	45-59 yrs	Basic	Rajshahi	4873	449	 824 	 817 
+Selected	AT	45-59 yrs	Others	Rajshahi	652	124	 135 	 134 
+Selected	AT	60+ yrs	2G Device	Rajshahi	889	53	 105 	 104 
+Selected	AT	60+ yrs	3G Device	Rajshahi	831	267	 555 	 552 
+Selected	AT	60+ yrs	4G Device	Rajshahi	274	137	 402 	 402 
+Selected	AT	60+ yrs	Basic	Rajshahi	1222	80	 159 	 157 
+Selected	AT	60+ yrs	Others	Rajshahi	188	31	 46 	 45 
+Selected	AT	OTHERS	2G Device	Rajshahi	2	0	 -   	
+Selected	AT	OTHERS	3G Device	Rajshahi	0	0	 -   	
+Selected	AT	OTHERS	4G Device	Rajshahi				
+Selected	AT	OTHERS	Basic	Rajshahi	2	0	 -   	
+Selected	AT	OTHERS	Others	Rajshahi	5	0	 -   	
+Selected	AT	<=24 yrs	2G Device	Rangpur	467	140	 256 	 254 
+Selected	AT	<=24 yrs	3G Device	Rangpur	1080	679	" 1,868 "	" 1,865 "
+Selected	AT	<=24 yrs	4G Device	Rangpur	429	310	" 1,024 "	" 1,024 "
+Selected	AT	<=24 yrs	Basic	Rangpur	773	241	 517 	 515 
+Selected	AT	<=24 yrs	Others	Rangpur	181	78	 113 	 111 
+Selected	AT	25-29 yrs	2G Device	Rangpur	616	99	 204 	 202 
+Selected	AT	25-29 yrs	3G Device	Rangpur	1046	514	" 1,310 "	" 1,307 "
+Selected	AT	25-29 yrs	4G Device	Rangpur	393	237	 833 	 832 
+Selected	AT	25-29 yrs	Basic	Rangpur	1032	188	 422 	 420 
+Selected	AT	25-29 yrs	Others	Rangpur	103	44	 46 	 46 
+Selected	AT	30-34 yrs	2G Device	Rangpur	637	59	 107 	 106 
+Selected	AT	30-34 yrs	3G Device	Rangpur	836	305	 826 	 823 
+Selected	AT	30-34 yrs	4G Device	Rangpur	265	131	 442 	 441 
+Selected	AT	30-34 yrs	Basic	Rangpur	1011	109	 243 	 241 
+Selected	AT	30-34 yrs	Others	Rangpur	100	35	 46 	 45 
+Selected	AT	35-39 yrs	2G Device	Rangpur	539	47	 97 	 97 
+Selected	AT	35-39 yrs	3G Device	Rangpur	680	244	 677 	 675 
+Selected	AT	35-39 yrs	4G Device	Rangpur	205	101	 360 	 359 
+Selected	AT	35-39 yrs	Basic	Rangpur	873	83	 175 	 174 
+Selected	AT	35-39 yrs	Others	Rangpur	80	23	 33 	 33 
+Selected	AT	40-44 yrs	2G Device	Rangpur	373	29	 51 	 50 
+Selected	AT	40-44 yrs	3G Device	Rangpur	426	147	 393 	 392 
+Selected	AT	40-44 yrs	4G Device	Rangpur	144	79	 297 	 296 
+Selected	AT	40-44 yrs	Basic	Rangpur	568	50	 102 	 102 
+Selected	AT	40-44 yrs	Others	Rangpur	62	17	 16 	 16 
+Selected	AT	45-59 yrs	2G Device	Rangpur	797	91	 176 	 174 
+Selected	AT	45-59 yrs	3G Device	Rangpur	823	293	 737 	 734 
+Selected	AT	45-59 yrs	4G Device	Rangpur	273	141	 655 	 654 
+Selected	AT	45-59 yrs	Basic	Rangpur	1253	117	 247 	 245 
+Selected	AT	45-59 yrs	Others	Rangpur	93	38	 47 	 47 
+Selected	AT	60+ yrs	2G Device	Rangpur	190	16	 28 	 28 
+Selected	AT	60+ yrs	3G Device	Rangpur	171	56	 176 	 176 
+Selected	AT	60+ yrs	4G Device	Rangpur	65	34	 185 	 185 
+Selected	AT	60+ yrs	Basic	Rangpur	298	31	 88 	 87 
+Selected	AT	60+ yrs	Others	Rangpur	32	7	 5 	 5 
+Selected	AT	OTHERS	2G Device	Rangpur	4	0	 -   	
+Selected	AT	OTHERS	3G Device	Rangpur				
+Selected	AT	OTHERS	4G Device	Rangpur				
+Selected	AT	OTHERS	Basic	Rangpur	1	0	 -   	
+Selected	AT	OTHERS	Others	Rangpur	0	0	 -   	
+Selected	AT	<=24 yrs	2G Device	Sylhet	1188	378	 940 	 936 
+Selected	AT	<=24 yrs	3G Device	Sylhet	4248	2850	" 9,401 "	" 9,388 "
+Selected	AT	<=24 yrs	4G Device	Sylhet	2341	1731	" 7,133 "	" 7,127 "
+Selected	AT	<=24 yrs	Basic	Sylhet	2498	751	" 1,896 "	" 1,889 "
+Selected	AT	<=24 yrs	Others	Sylhet	870	415	 737 	 734 
+Selected	AT	25-29 yrs	2G Device	Sylhet	2147	515	" 1,243 "	" 1,239 "
+Selected	AT	25-29 yrs	3G Device	Sylhet	6575	3935	" 12,625 "	" 12,604 "
+Selected	AT	25-29 yrs	4G Device	Sylhet	3331	2318	" 10,936 "	" 10,928 "
+Selected	AT	25-29 yrs	Basic	Sylhet	4533	1000	" 2,760 "	" 2,751 "
+Selected	AT	25-29 yrs	Others	Sylhet	1141	445	 977 	 974 
+Selected	AT	30-34 yrs	2G Device	Sylhet	2039	323	 719 	 715 
+Selected	AT	30-34 yrs	3G Device	Sylhet	5135	2671	" 8,982 "	" 8,968 "
+Selected	AT	30-34 yrs	4G Device	Sylhet	2407	1510	" 7,529 "	" 7,522 "
+Selected	AT	30-34 yrs	Basic	Sylhet	4446	723	" 1,950 "	" 1,943 "
+Selected	AT	30-34 yrs	Others	Sylhet	1099	286	 740 	 738 
+Selected	AT	35-39 yrs	2G Device	Sylhet	1793	243	 509 	 505 
+Selected	AT	35-39 yrs	3G Device	Sylhet	3725	1855	" 6,081 "	" 6,070 "
+Selected	AT	35-39 yrs	4G Device	Sylhet	1779	1013	" 4,992 "	" 4,987 "
+Selected	AT	35-39 yrs	Basic	Sylhet	3478	479	" 1,203 "	" 1,198 "
+Selected	AT	35-39 yrs	Others	Sylhet	836	194	 403 	 400 
+Selected	AT	40-44 yrs	2G Device	Sylhet	1129	155	 374 	 371 
+Selected	AT	40-44 yrs	3G Device	Sylhet	2295	1115	" 3,547 "	" 3,539 "
+Selected	AT	40-44 yrs	4G Device	Sylhet	1174	680	" 3,265 "	" 3,261 "
+Selected	AT	40-44 yrs	Basic	Sylhet	2039	238	 613 	 610 
+Selected	AT	40-44 yrs	Others	Sylhet	552	128	 257 	 256 
+Selected	AT	45-59 yrs	2G Device	Sylhet	2065	282	 760 	 756 
+Selected	AT	45-59 yrs	3G Device	Sylhet	4469	2049	" 6,788 "	" 6,773 "
+Selected	AT	45-59 yrs	4G Device	Sylhet	2327	1304	" 5,983 "	" 5,975 "
+Selected	AT	45-59 yrs	Basic	Sylhet	3794	525	" 1,405 "	" 1,398 "
+Selected	AT	45-59 yrs	Others	Sylhet	1141	199	 388 	 386 
+Selected	AT	60+ yrs	2G Device	Sylhet	601	56	 126 	 125 
+Selected	AT	60+ yrs	3G Device	Sylhet	1083	428	" 1,336 "	" 1,333 "
+Selected	AT	60+ yrs	4G Device	Sylhet	585	273	" 1,304 "	" 1,302 "
+Selected	AT	60+ yrs	Basic	Sylhet	940	105	 261 	 260 
+Selected	AT	60+ yrs	Others	Sylhet	398	40	 153 	 153 
+Selected	AT	OTHERS	2G Device	Sylhet	3	0	 0 	
+Selected	AT	OTHERS	3G Device	Sylhet	1	0	 -   	
+Selected	AT	OTHERS	4G Device	Sylhet	3	0	 -   	
+Selected	AT	OTHERS	Basic	Sylhet	4	0	 -   	
+Selected	AT	OTHERS	Others	Sylhet	4	0	 -   	
+Not Seelected	AT	<=24 yrs	2G Device	Barisal	5236	1002	" 2,017 "	" 2,006 "
+Not Seelected	AT	<=24 yrs	3G Device	Barisal	9309	4731	" 11,788 "	" 11,759 "
+Not Seelected	AT	<=24 yrs	4G Device	Barisal	3895	2414	" 7,878 "	" 7,868 "
+Not Seelected	AT	<=24 yrs	Basic	Barisal	11294	1865	" 3,796 "	" 3,772 "
+Not Seelected	AT	<=24 yrs	Others	Barisal	1484	594	 852 	 846 
+Not Seelected	AT	25-29 yrs	2G Device	Barisal	9560	897	" 1,685 "	" 1,669 "
+Not Seelected	AT	25-29 yrs	3G Device	Barisal	13558	4895	" 11,241 "	" 11,194 "
+Not Seelected	AT	25-29 yrs	4G Device	Barisal	4643	2412	" 7,745 "	" 7,732 "
+Not Seelected	AT	25-29 yrs	Basic	Barisal	20864	1991	" 3,672 "	" 3,640 "
+Not Seelected	AT	25-29 yrs	Others	Barisal	1822	474	 554 	 546 
+Not Seelected	AT	30-34 yrs	2G Device	Barisal	11113	772	" 1,202 "	" 1,187 "
+Not Seelected	AT	30-34 yrs	3G Device	Barisal	13283	4201	" 9,333 "	" 9,285 "
+Not Seelected	AT	30-34 yrs	4G Device	Barisal	4144	2007	" 5,971 "	" 5,960 "
+Not Seelected	AT	30-34 yrs	Basic	Barisal	24169	1713	" 3,300 "	" 3,267 "
+Not Seelected	AT	30-34 yrs	Others	Barisal	2085	470	 625 	 619 
+Not Seelected	AT	35-39 yrs	2G Device	Barisal	9644	609	" 1,062 "	" 1,052 "
+Not Seelected	AT	35-39 yrs	3G Device	Barisal	9980	3147	" 6,922 "	" 6,889 "
+Not Seelected	AT	35-39 yrs	4G Device	Barisal	2979	1432	" 4,537 "	" 4,528 "
+Not Seelected	AT	35-39 yrs	Basic	Barisal	20391	1328	" 2,497 "	" 2,471 "
+Not Seelected	AT	35-39 yrs	Others	Barisal	1904	355	 523 	 517 
+Not Seelected	AT	40-44 yrs	2G Device	Barisal	6931	446	 719 	 709 
+Not Seelected	AT	40-44 yrs	3G Device	Barisal	6639	2159	" 4,884 "	" 4,859 "
+Not Seelected	AT	40-44 yrs	4G Device	Barisal	1982	975	" 3,069 "	" 3,062 "
+Not Seelected	AT	40-44 yrs	Basic	Barisal	14380	1030	" 1,872 "	" 1,852 "
+Not Seelected	AT	40-44 yrs	Others	Barisal	1309	229	 355 	 351 
+Not Seelected	AT	45-59 yrs	2G Device	Barisal	11641	794	" 1,351 "	" 1,333 "
+Not Seelected	AT	45-59 yrs	3G Device	Barisal	11710	3915	" 8,388 "	" 8,348 "
+Not Seelected	AT	45-59 yrs	4G Device	Barisal	3580	1789	" 5,339 "	" 5,327 "
+Not Seelected	AT	45-59 yrs	Basic	Barisal	23883	1729	" 3,193 "	" 3,160 "
+Not Seelected	AT	45-59 yrs	Others	Barisal	2448	443	 602 	 595 
+Not Seelected	AT	60+ yrs	2G Device	Barisal	3115	203	 311 	 307 
+Not Seelected	AT	60+ yrs	3G Device	Barisal	2899	949	" 2,140 "	" 2,129 "
+Not Seelected	AT	60+ yrs	4G Device	Barisal	861	460	" 1,484 "	" 1,481 "
+Not Seelected	AT	60+ yrs	Basic	Barisal	6396	454	 892 	 883 
+Not Seelected	AT	60+ yrs	Others	Barisal	796	147	 188 	 186 
+Not Seelected	AT	OTHERS	2G Device	Barisal	6	0	 -   	
+Not Seelected	AT	OTHERS	3G Device	Barisal	2	0	 -   	
+Not Seelected	AT	OTHERS	4G Device	Barisal	0	0	 -   	
+Not Seelected	AT	OTHERS	Basic	Barisal	8	0	 0 	
+Not Seelected	AT	OTHERS	Others	Barisal	30	0	 -   	
+Not Seelected	AT	<=24 yrs	2G Device	Brahmanbaria 	898	209	 418 	 415 
+Not Seelected	AT	<=24 yrs	3G Device	Brahmanbaria 	2541	1557	" 4,199 "	" 4,193 "
+Not Seelected	AT	<=24 yrs	4G Device	Brahmanbaria 	1438	1033	" 3,787 "	" 3,784 "
+Not Seelected	AT	<=24 yrs	Basic	Brahmanbaria 	1916	398	 835 	 833 
+Not Seelected	AT	<=24 yrs	Others	Brahmanbaria 	364	185	 270 	 268 
+Not Seelected	AT	25-29 yrs	2G Device	Brahmanbaria 	2374	334	 630 	 626 
+Not Seelected	AT	25-29 yrs	3G Device	Brahmanbaria 	5376	2832	" 7,407 "	" 7,392 "
+Not Seelected	AT	25-29 yrs	4G Device	Brahmanbaria 	2686	1801	" 6,804 "	" 6,798 "
+Not Seelected	AT	25-29 yrs	Basic	Brahmanbaria 	5203	727	" 1,517 "	" 1,511 "
+Not Seelected	AT	25-29 yrs	Others	Brahmanbaria 	628	270	 394 	 390 
+Not Seelected	AT	30-34 yrs	2G Device	Brahmanbaria 	2894	294	 602 	 599 
+Not Seelected	AT	30-34 yrs	3G Device	Brahmanbaria 	5661	2902	" 7,489 "	" 7,473 "
+Not Seelected	AT	30-34 yrs	4G Device	Brahmanbaria 	2835	1895	" 6,802 "	" 6,795 "
+Not Seelected	AT	30-34 yrs	Basic	Brahmanbaria 	6009	659	" 1,284 "	" 1,277 "
+Not Seelected	AT	30-34 yrs	Others	Brahmanbaria 	695	290	 390 	 387 
+Not Seelected	AT	35-39 yrs	2G Device	Brahmanbaria 	2290	230	 476 	 472 
+Not Seelected	AT	35-39 yrs	3G Device	Brahmanbaria 	4329	2302	" 5,796 "	" 5,783 "
+Not Seelected	AT	35-39 yrs	4G Device	Brahmanbaria 	2089	1393	" 4,999 "	" 4,994 "
+Not Seelected	AT	35-39 yrs	Basic	Brahmanbaria 	4993	500	 992 	 987 
+Not Seelected	AT	35-39 yrs	Others	Brahmanbaria 	533	217	 338 	 336 
+Not Seelected	AT	40-44 yrs	2G Device	Brahmanbaria 	1615	153	 273 	 270 
+Not Seelected	AT	40-44 yrs	3G Device	Brahmanbaria 	2654	1413	" 3,514 "	" 3,506 "
+Not Seelected	AT	40-44 yrs	4G Device	Brahmanbaria 	1223	853	" 3,176 "	" 3,172 "
+Not Seelected	AT	40-44 yrs	Basic	Brahmanbaria 	3614	307	 617 	 613 
+Not Seelected	AT	40-44 yrs	Others	Brahmanbaria 	329	139	 210 	 208 
+Not Seelected	AT	45-59 yrs	2G Device	Brahmanbaria 	2871	298	 564 	 560 
+Not Seelected	AT	45-59 yrs	3G Device	Brahmanbaria 	4781	2562	" 6,494 "	" 6,480 "
+Not Seelected	AT	45-59 yrs	4G Device	Brahmanbaria 	2225	1516	" 5,365 "	" 5,360 "
+Not Seelected	AT	45-59 yrs	Basic	Brahmanbaria 	5879	643	" 1,368 "	" 1,361 "
+Not Seelected	AT	45-59 yrs	Others	Brahmanbaria 	623	233	 351 	 348 
+Not Seelected	AT	60+ yrs	2G Device	Brahmanbaria 	889	88	 137 	 136 
+Not Seelected	AT	60+ yrs	3G Device	Brahmanbaria 	1548	846	" 2,056 "	" 2,052 "
+Not Seelected	AT	60+ yrs	4G Device	Brahmanbaria 	777	566	" 1,831 "	" 1,829 "
+Not Seelected	AT	60+ yrs	Basic	Brahmanbaria 	1894	192	 374 	 373 
+Not Seelected	AT	60+ yrs	Others	Brahmanbaria 	182	71	 103 	 103 
+Not Seelected	AT	OTHERS	2G Device	Brahmanbaria 	1	0	 0 	
+Not Seelected	AT	OTHERS	3G Device	Brahmanbaria 	3	0	 -   	
+Not Seelected	AT	OTHERS	4G Device	Brahmanbaria 				
+Not Seelected	AT	OTHERS	Basic	Brahmanbaria 	3	0	 -   	
+Not Seelected	AT	OTHERS	Others	Brahmanbaria 	6	0	 -   	
+Not Seelected	AT	<=24 yrs	2G Device	Chittagong Metro	181	41	 74 	 74 
+Not Seelected	AT	<=24 yrs	3G Device	Chittagong Metro	403	221	 574 	 572 
+Not Seelected	AT	<=24 yrs	4G Device	Chittagong Metro	310	209	 820 	 819 
+Not Seelected	AT	<=24 yrs	Basic	Chittagong Metro	310	62	 124 	 123 
+Not Seelected	AT	<=24 yrs	Others	Chittagong Metro	119	63	 139 	 138 
+Not Seelected	AT	25-29 yrs	2G Device	Chittagong Metro	420	58	 75 	 74 
+Not Seelected	AT	25-29 yrs	3G Device	Chittagong Metro	1076	555	" 1,370 "	" 1,366 "
+Not Seelected	AT	25-29 yrs	4G Device	Chittagong Metro	661	386	" 1,357 "	" 1,355 "
+Not Seelected	AT	25-29 yrs	Basic	Chittagong Metro	912	144	 256 	 255 
+Not Seelected	AT	25-29 yrs	Others	Chittagong Metro	193	64	 138 	 137 
+Not Seelected	AT	30-34 yrs	2G Device	Chittagong Metro	535	63	 105 	 104 
+Not Seelected	AT	30-34 yrs	3G Device	Chittagong Metro	1095	480	" 1,094 "	" 1,090 "
+Not Seelected	AT	30-34 yrs	4G Device	Chittagong Metro	629	372	" 1,274 "	" 1,271 "
+Not Seelected	AT	30-34 yrs	Basic	Chittagong Metro	1027	122	 214 	 212 
+Not Seelected	AT	30-34 yrs	Others	Chittagong Metro	259	65	 142 	 141 
+Not Seelected	AT	35-39 yrs	2G Device	Chittagong Metro	425	42	 46 	 46 
+Not Seelected	AT	35-39 yrs	3G Device	Chittagong Metro	780	339	 808 	 805 
+Not Seelected	AT	35-39 yrs	4G Device	Chittagong Metro	413	235	 789 	 788 
+Not Seelected	AT	35-39 yrs	Basic	Chittagong Metro	823	75	 141 	 140 
+Not Seelected	AT	35-39 yrs	Others	Chittagong Metro	200	58	 132 	 131 
+Not Seelected	AT	40-44 yrs	2G Device	Chittagong Metro	325	34	 50 	 50 
+Not Seelected	AT	40-44 yrs	3G Device	Chittagong Metro	506	237	 525 	 523 
+Not Seelected	AT	40-44 yrs	4G Device	Chittagong Metro	290	157	 563 	 562 
+Not Seelected	AT	40-44 yrs	Basic	Chittagong Metro	564	45	 58 	 58 
+Not Seelected	AT	40-44 yrs	Others	Chittagong Metro	114	27	 128 	 128 
+Not Seelected	AT	45-59 yrs	2G Device	Chittagong Metro	578	62	 129 	 128 
+Not Seelected	AT	45-59 yrs	3G Device	Chittagong Metro	851	327	 665 	 662 
+Not Seelected	AT	45-59 yrs	4G Device	Chittagong Metro	448	247	 778 	 776 
+Not Seelected	AT	45-59 yrs	Basic	Chittagong Metro	951	75	 90 	 89 
+Not Seelected	AT	45-59 yrs	Others	Chittagong Metro	288	60	 124 	 123 
+Not Seelected	AT	60+ yrs	2G Device	Chittagong Metro	126	7	 6 	 5 
+Not Seelected	AT	60+ yrs	3G Device	Chittagong Metro	171	50	 129 	 129 
+Not Seelected	AT	60+ yrs	4G Device	Chittagong Metro	100	45	 167 	 167 
+Not Seelected	AT	60+ yrs	Basic	Chittagong Metro	230	21	 36 	 36 
+Not Seelected	AT	60+ yrs	Others	Chittagong Metro	84	8	 17 	 17 
+Not Seelected	AT	OTHERS	2G Device	Chittagong Metro				
+Not Seelected	AT	OTHERS	3G Device	Chittagong Metro				
+Not Seelected	AT	OTHERS	4G Device	Chittagong Metro	1	0	 -   	
+Not Seelected	AT	OTHERS	Basic	Chittagong Metro				
+Not Seelected	AT	OTHERS	Others	Chittagong Metro				
+Not Seelected	AT	<=24 yrs	2G Device	Chittagong North	869	212	 417 	 413 
+Not Seelected	AT	<=24 yrs	3G Device	Chittagong North	1692	1053	" 2,754 "	" 2,748 "
+Not Seelected	AT	<=24 yrs	4G Device	Chittagong North	733	521	" 1,864 "	" 1,862 "
+Not Seelected	AT	<=24 yrs	Basic	Chittagong North	1977	408	 715 	 709 
+Not Seelected	AT	<=24 yrs	Others	Chittagong North	297	133	 222 	 221 
+Not Seelected	AT	25-29 yrs	2G Device	Chittagong North	1586	253	 424 	 420 
+Not Seelected	AT	25-29 yrs	3G Device	Chittagong North	2545	1348	" 3,352 "	" 3,343 "
+Not Seelected	AT	25-29 yrs	4G Device	Chittagong North	1085	731	" 2,490 "	" 2,487 "
+Not Seelected	AT	25-29 yrs	Basic	Chittagong North	3858	561	" 1,009 "	" 1,000 "
+Not Seelected	AT	25-29 yrs	Others	Chittagong North	449	149	 255 	 254 
+Not Seelected	AT	30-34 yrs	2G Device	Chittagong North	1937	204	 416 	 412 
+Not Seelected	AT	30-34 yrs	3G Device	Chittagong North	2758	1363	" 3,111 "	" 3,102 "
+Not Seelected	AT	30-34 yrs	4G Device	Chittagong North	1100	729	" 2,571 "	" 2,568 "
+Not Seelected	AT	30-34 yrs	Basic	Chittagong North	4620	503	 993 	 983 
+Not Seelected	AT	30-34 yrs	Others	Chittagong North	576	136	 232 	 230 
+Not Seelected	AT	35-39 yrs	2G Device	Chittagong North	1567	183	 285 	 282 
+Not Seelected	AT	35-39 yrs	3G Device	Chittagong North	1953	919	" 2,191 "	" 2,183 "
+Not Seelected	AT	35-39 yrs	4G Device	Chittagong North	707	468	" 1,701 "	" 1,698 "
+Not Seelected	AT	35-39 yrs	Basic	Chittagong North	3572	342	 643 	 635 
+Not Seelected	AT	35-39 yrs	Others	Chittagong North	516	91	 148 	 146 
+Not Seelected	AT	40-44 yrs	2G Device	Chittagong North	1054	107	 173 	 171 
+Not Seelected	AT	40-44 yrs	3G Device	Chittagong North	1277	589	" 1,501 "	" 1,496 "
+Not Seelected	AT	40-44 yrs	4G Device	Chittagong North	491	317	" 1,012 "	" 1,010 "
+Not Seelected	AT	40-44 yrs	Basic	Chittagong North	2460	252	 414 	 409 
+Not Seelected	AT	40-44 yrs	Others	Chittagong North	296	51	 76 	 75 
+Not Seelected	AT	45-59 yrs	2G Device	Chittagong North	2048	196	 316 	 312 
+Not Seelected	AT	45-59 yrs	3G Device	Chittagong North	2095	973	" 2,333 "	" 2,326 "
+Not Seelected	AT	45-59 yrs	4G Device	Chittagong North	716	486	" 1,630 "	" 1,629 "
+Not Seelected	AT	45-59 yrs	Basic	Chittagong North	4230	422	 699 	 689 
+Not Seelected	AT	45-59 yrs	Others	Chittagong North	537	103	 167 	 165 
+Not Seelected	AT	60+ yrs	2G Device	Chittagong North	512	38	 57 	 56 
+Not Seelected	AT	60+ yrs	3G Device	Chittagong North	481	245	 548 	 546 
+Not Seelected	AT	60+ yrs	4G Device	Chittagong North	178	122	 382 	 382 
+Not Seelected	AT	60+ yrs	Basic	Chittagong North	1036	112	 189 	 187 
+Not Seelected	AT	60+ yrs	Others	Chittagong North	181	26	 61 	 60 
+Not Seelected	AT	OTHERS	2G Device	Chittagong North	1	0	 -   	
+Not Seelected	AT	OTHERS	3G Device	Chittagong North	3	0	 -   	
+Not Seelected	AT	OTHERS	4G Device	Chittagong North				
+Not Seelected	AT	OTHERS	Basic	Chittagong North	6	0	 -   	
+Not Seelected	AT	OTHERS	Others	Chittagong North	5	0	 -   	
+Not Seelected	AT	<=24 yrs	2G Device	Chittagong South	935	200	 355 	 353 
+Not Seelected	AT	<=24 yrs	3G Device	Chittagong South	1731	1036	" 2,541 "	" 2,536 "
+Not Seelected	AT	<=24 yrs	4G Device	Chittagong South	821	567	" 1,977 "	" 1,975 "
+Not Seelected	AT	<=24 yrs	Basic	Chittagong South	2556	426	 757 	 752 
+Not Seelected	AT	<=24 yrs	Others	Chittagong South	301	111	 175 	 174 
+Not Seelected	AT	25-29 yrs	2G Device	Chittagong South	1948	272	 489 	 486 
+Not Seelected	AT	25-29 yrs	3G Device	Chittagong South	3198	1636	" 3,821 "	" 3,812 "
+Not Seelected	AT	25-29 yrs	4G Device	Chittagong South	1559	1021	" 3,628 "	" 3,624 "
+Not Seelected	AT	25-29 yrs	Basic	Chittagong South	5031	589	 924 	 917 
+Not Seelected	AT	25-29 yrs	Others	Chittagong South	497	178	 302 	 300 
+Not Seelected	AT	30-34 yrs	2G Device	Chittagong South	2550	272	 409 	 405 
+Not Seelected	AT	30-34 yrs	3G Device	Chittagong South	3451	1657	" 3,995 "	" 3,984 "
+Not Seelected	AT	30-34 yrs	4G Device	Chittagong South	1576	988	" 3,043 "	" 3,039 "
+Not Seelected	AT	30-34 yrs	Basic	Chittagong South	6556	630	" 1,058 "	" 1,049 "
+Not Seelected	AT	30-34 yrs	Others	Chittagong South	611	204	 345 	 343 
+Not Seelected	AT	35-39 yrs	2G Device	Chittagong South	2176	207	 342 	 339 
+Not Seelected	AT	35-39 yrs	3G Device	Chittagong South	2601	1143	" 2,529 "	" 2,521 "
+Not Seelected	AT	35-39 yrs	4G Device	Chittagong South	1135	694	" 2,257 "	" 2,254 "
+Not Seelected	AT	35-39 yrs	Basic	Chittagong South	5706	461	 742 	 736 
+Not Seelected	AT	35-39 yrs	Others	Chittagong South	467	132	 213 	 211 
+Not Seelected	AT	40-44 yrs	2G Device	Chittagong South	1390	117	 189 	 187 
+Not Seelected	AT	40-44 yrs	3G Device	Chittagong South	1587	687	" 1,570 "	" 1,565 "
+Not Seelected	AT	40-44 yrs	4G Device	Chittagong South	581	341	" 1,013 "	" 1,012 "
+Not Seelected	AT	40-44 yrs	Basic	Chittagong South	3682	281	 446 	 442 
+Not Seelected	AT	40-44 yrs	Others	Chittagong South	309	83	 136 	 135 
+Not Seelected	AT	45-59 yrs	2G Device	Chittagong South	2367	239	 348 	 345 
+Not Seelected	AT	45-59 yrs	3G Device	Chittagong South	2619	1223	" 2,749 "	" 2,740 "
+Not Seelected	AT	45-59 yrs	4G Device	Chittagong South	1055	647	" 1,901 "	" 1,898 "
+Not Seelected	AT	45-59 yrs	Basic	Chittagong South	5914	511	 876 	 867 
+Not Seelected	AT	45-59 yrs	Others	Chittagong South	599	147	 217 	 215 
+Not Seelected	AT	60+ yrs	2G Device	Chittagong South	617	57	 102 	 101 
+Not Seelected	AT	60+ yrs	3G Device	Chittagong South	690	338	 727 	 725 
+Not Seelected	AT	60+ yrs	4G Device	Chittagong South	284	174	 507 	 507 
+Not Seelected	AT	60+ yrs	Basic	Chittagong South	1444	137	 207 	 206 
+Not Seelected	AT	60+ yrs	Others	Chittagong South	174	47	 49 	 49 
+Not Seelected	AT	OTHERS	2G Device	Chittagong South	1	0	 -   	
+Not Seelected	AT	OTHERS	3G Device	Chittagong South				
+Not Seelected	AT	OTHERS	4G Device	Chittagong South				
+Not Seelected	AT	OTHERS	Basic	Chittagong South	6	0	 -   	
+Not Seelected	AT	OTHERS	Others	Chittagong South	5	0	 -   	
+Not Seelected	AT	<=24 yrs	2G Device	Comilla	2500	548	 993 	 988 
+Not Seelected	AT	<=24 yrs	3G Device	Comilla	5787	3559	" 8,075 "	" 8,058 "
+Not Seelected	AT	<=24 yrs	4G Device	Comilla	3077	2205	" 6,867 "	" 6,859 "
+Not Seelected	AT	<=24 yrs	Basic	Comilla	5331	1278	" 2,262 "	" 2,253 "
+Not Seelected	AT	<=24 yrs	Others	Comilla	660	284	 418 	 415 
+Not Seelected	AT	25-29 yrs	2G Device	Comilla	6166	898	" 1,592 "	" 1,580 "
+Not Seelected	AT	25-29 yrs	3G Device	Comilla	11972	6232	" 12,961 "	" 12,924 "
+Not Seelected	AT	25-29 yrs	4G Device	Comilla	6010	3929	" 12,166 "	" 12,151 "
+Not Seelected	AT	25-29 yrs	Basic	Comilla	13408	1913	" 3,361 "	" 3,342 "
+Not Seelected	AT	25-29 yrs	Others	Comilla	1349	469	 608 	 602 
+Not Seelected	AT	30-34 yrs	2G Device	Comilla	8052	919	" 1,414 "	" 1,401 "
+Not Seelected	AT	30-34 yrs	3G Device	Comilla	13638	6684	" 13,759 "	" 13,717 "
+Not Seelected	AT	30-34 yrs	4G Device	Comilla	6497	4128	" 11,946 "	" 11,930 "
+Not Seelected	AT	30-34 yrs	Basic	Comilla	17370	1961	" 3,409 "	" 3,388 "
+Not Seelected	AT	30-34 yrs	Others	Comilla	1678	536	 676 	 669 
+Not Seelected	AT	35-39 yrs	2G Device	Comilla	6607	701	" 1,038 "	" 1,028 "
+Not Seelected	AT	35-39 yrs	3G Device	Comilla	10690	5124	" 10,599 "	" 10,566 "
+Not Seelected	AT	35-39 yrs	4G Device	Comilla	4914	3139	" 8,877 "	" 8,864 "
+Not Seelected	AT	35-39 yrs	Basic	Comilla	14399	1543	" 2,616 "	" 2,600 "
+Not Seelected	AT	35-39 yrs	Others	Comilla	1389	394	 584 	 579 
+Not Seelected	AT	40-44 yrs	2G Device	Comilla	4258	449	 646 	 639 
+Not Seelected	AT	40-44 yrs	3G Device	Comilla	6406	3158	" 6,549 "	" 6,526 "
+Not Seelected	AT	40-44 yrs	4G Device	Comilla	2905	1918	" 5,716 "	" 5,708 "
+Not Seelected	AT	40-44 yrs	Basic	Comilla	8969	925	" 1,485 "	" 1,475 "
+Not Seelected	AT	40-44 yrs	Others	Comilla	812	235	 295 	 292 
+Not Seelected	AT	45-59 yrs	2G Device	Comilla	8264	902	" 1,333 "	" 1,318 "
+Not Seelected	AT	45-59 yrs	3G Device	Comilla	11713	5791	" 11,592 "	" 11,553 "
+Not Seelected	AT	45-59 yrs	4G Device	Comilla	5146	3391	" 9,292 "	" 9,279 "
+Not Seelected	AT	45-59 yrs	Basic	Comilla	16724	1812	" 3,014 "	" 2,992 "
+Not Seelected	AT	45-59 yrs	Others	Comilla	1612	492	 645 	 639 
+Not Seelected	AT	60+ yrs	2G Device	Comilla	2427	276	 425 	 422 
+Not Seelected	AT	60+ yrs	3G Device	Comilla	3503	1751	" 3,561 "	" 3,550 "
+Not Seelected	AT	60+ yrs	4G Device	Comilla	1681	1147	" 3,239 "	" 3,235 "
+Not Seelected	AT	60+ yrs	Basic	Comilla	5169	515	 831 	 825 
+Not Seelected	AT	60+ yrs	Others	Comilla	545	132	 162 	 160 
+Not Seelected	AT	OTHERS	2G Device	Comilla	1	0	 0 	
+Not Seelected	AT	OTHERS	3G Device	Comilla	1	0	 -   	
+Not Seelected	AT	OTHERS	4G Device	Comilla	2	0	 -   	
+Not Seelected	AT	OTHERS	Basic	Comilla	18	0	 -   	
+Not Seelected	AT	OTHERS	Others	Comilla	21	0	 0 	
+Not Seelected	AT	<=24 yrs	2G Device	Dhaka Metro	791	113	 127 	 125 
+Not Seelected	AT	<=24 yrs	3G Device	Dhaka Metro	1637	494	 694 	 685 
+Not Seelected	AT	<=24 yrs	4G Device	Dhaka Metro	1408	626	" 1,277 "	" 1,270 "
+Not Seelected	AT	<=24 yrs	Basic	Dhaka Metro	1683	180	 243 	 238 
+Not Seelected	AT	<=24 yrs	Others	Dhaka Metro	358	43	 42 	 40 
+Not Seelected	AT	25-29 yrs	2G Device	Dhaka Metro	1929	153	 184 	 180 
+Not Seelected	AT	25-29 yrs	3G Device	Dhaka Metro	3823	1051	" 1,793 "	" 1,777 "
+Not Seelected	AT	25-29 yrs	4G Device	Dhaka Metro	3254	1398	" 3,154 "	" 3,140 "
+Not Seelected	AT	25-29 yrs	Basic	Dhaka Metro	3756	305	 459 	 454 
+Not Seelected	AT	25-29 yrs	Others	Dhaka Metro	778	80	 83 	 81 
+Not Seelected	AT	30-34 yrs	2G Device	Dhaka Metro	2143	117	 140 	 136 
+Not Seelected	AT	30-34 yrs	3G Device	Dhaka Metro	3792	1003	" 1,651 "	" 1,636 "
+Not Seelected	AT	30-34 yrs	4G Device	Dhaka Metro	2759	1101	" 2,558 "	" 2,546 "
+Not Seelected	AT	30-34 yrs	Basic	Dhaka Metro	4229	284	 492 	 488 
+Not Seelected	AT	30-34 yrs	Others	Dhaka Metro	899	76	 118 	 117 
+Not Seelected	AT	35-39 yrs	2G Device	Dhaka Metro	1908	126	 148 	 146 
+Not Seelected	AT	35-39 yrs	3G Device	Dhaka Metro	3086	786	" 1,278 "	" 1,267 "
+Not Seelected	AT	35-39 yrs	4G Device	Dhaka Metro	2052	881	" 2,178 "	" 2,171 "
+Not Seelected	AT	35-39 yrs	Basic	Dhaka Metro	3543	187	 221 	 217 
+Not Seelected	AT	35-39 yrs	Others	Dhaka Metro	794	60	 87 	 86 
+Not Seelected	AT	40-44 yrs	2G Device	Dhaka Metro	1265	64	 95 	 94 
+Not Seelected	AT	40-44 yrs	3G Device	Dhaka Metro	1858	450	 707 	 699 
+Not Seelected	AT	40-44 yrs	4G Device	Dhaka Metro	1200	476	" 1,367 "	" 1,361 "
+Not Seelected	AT	40-44 yrs	Basic	Dhaka Metro	2190	149	 200 	 197 
+Not Seelected	AT	40-44 yrs	Others	Dhaka Metro	483	33	 36 	 35 
+Not Seelected	AT	45-59 yrs	2G Device	Dhaka Metro	2315	147	 162 	 159 
+Not Seelected	AT	45-59 yrs	3G Device	Dhaka Metro	3024	675	" 1,055 "	" 1,041 "
+Not Seelected	AT	45-59 yrs	4G Device	Dhaka Metro	2130	816	" 1,834 "	" 1,825 "
+Not Seelected	AT	45-59 yrs	Basic	Dhaka Metro	3841	197	 280 	 275 
+Not Seelected	AT	45-59 yrs	Others	Dhaka Metro	822	44	 44 	 43 
+Not Seelected	AT	60+ yrs	2G Device	Dhaka Metro	484	12	 11 	 10 
+Not Seelected	AT	60+ yrs	3G Device	Dhaka Metro	595	98	 181 	 179 
+Not Seelected	AT	60+ yrs	4G Device	Dhaka Metro	393	138	 317 	 315 
+Not Seelected	AT	60+ yrs	Basic	Dhaka Metro	766	29	 59 	 58 
+Not Seelected	AT	60+ yrs	Others	Dhaka Metro	237	4	 2 	 2 
+Not Seelected	AT	OTHERS	2G Device	Dhaka Metro	0	0	 -   	
+Not Seelected	AT	OTHERS	3G Device	Dhaka Metro	2	0	 0 	
+Not Seelected	AT	OTHERS	4G Device	Dhaka Metro	3	1	 0 	 0 
+Not Seelected	AT	OTHERS	Basic	Dhaka Metro	4	0	 0 	
+Not Seelected	AT	OTHERS	Others	Dhaka Metro	6	0	 -   	
+Not Seelected	AT	<=24 yrs	2G Device	Dhaka North	9624	1703	" 2,653 "	" 2,627 "
+Not Seelected	AT	<=24 yrs	3G Device	Dhaka North	18919	8644	" 16,337 "	" 16,259 "
+Not Seelected	AT	<=24 yrs	4G Device	Dhaka North	9296	5177	" 12,846 "	" 12,813 "
+Not Seelected	AT	<=24 yrs	Basic	Dhaka North	19577	3226	" 5,262 "	" 5,215 "
+Not Seelected	AT	<=24 yrs	Others	Dhaka North	2504	782	" 1,035 "	" 1,021 "
+Not Seelected	AT	25-29 yrs	2G Device	Dhaka North	23276	2654	" 3,940 "	" 3,891 "
+Not Seelected	AT	25-29 yrs	3G Device	Dhaka North	38063	14343	" 27,214 "	" 27,063 "
+Not Seelected	AT	25-29 yrs	4G Device	Dhaka North	16454	8389	" 22,111 "	" 22,051 "
+Not Seelected	AT	25-29 yrs	Basic	Dhaka North	47830	5194	" 8,420 "	" 8,334 "
+Not Seelected	AT	25-29 yrs	Others	Dhaka North	4422	1209	" 1,519 "	" 1,501 "
+Not Seelected	AT	30-34 yrs	2G Device	Dhaka North	29132	2380	" 3,456 "	" 3,409 "
+Not Seelected	AT	30-34 yrs	3G Device	Dhaka North	41496	14211	" 26,940 "	" 26,781 "
+Not Seelected	AT	30-34 yrs	4G Device	Dhaka North	16059	7717	" 20,647 "	" 20,585 "
+Not Seelected	AT	30-34 yrs	Basic	Dhaka North	59660	4971	" 7,826 "	" 7,735 "
+Not Seelected	AT	30-34 yrs	Others	Dhaka North	5086	1084	" 1,331 "	" 1,312 "
+Not Seelected	AT	35-39 yrs	2G Device	Dhaka North	23567	1662	" 2,383 "	" 2,344 "
+Not Seelected	AT	35-39 yrs	3G Device	Dhaka North	29833	9850	" 18,072 "	" 17,956 "
+Not Seelected	AT	35-39 yrs	4G Device	Dhaka North	11313	5381	" 13,469 "	" 13,425 "
+Not Seelected	AT	35-39 yrs	Basic	Dhaka North	46716	3388	" 5,136 "	" 5,071 "
+Not Seelected	AT	35-39 yrs	Others	Dhaka North	3637	782	 994 	 981 
+Not Seelected	AT	40-44 yrs	2G Device	Dhaka North	14349	1088	" 1,457 "	" 1,433 "
+Not Seelected	AT	40-44 yrs	3G Device	Dhaka North	17619	5957	" 10,650 "	" 10,580 "
+Not Seelected	AT	40-44 yrs	4G Device	Dhaka North	6910	3280	" 8,346 "	" 8,316 "
+Not Seelected	AT	40-44 yrs	Basic	Dhaka North	28335	2217	" 3,306 "	" 3,262 "
+Not Seelected	AT	40-44 yrs	Others	Dhaka North	2320	434	 560 	 551 
+Not Seelected	AT	45-59 yrs	2G Device	Dhaka North	24069	1920	" 2,585 "	" 2,540 "
+Not Seelected	AT	45-59 yrs	3G Device	Dhaka North	28538	9829	" 17,487 "	" 17,367 "
+Not Seelected	AT	45-59 yrs	4G Device	Dhaka North	11408	5493	" 13,571 "	" 13,522 "
+Not Seelected	AT	45-59 yrs	Basic	Dhaka North	47017	3615	" 5,487 "	" 5,410 "
+Not Seelected	AT	45-59 yrs	Others	Dhaka North	3638	720	 820 	 806 
+Not Seelected	AT	60+ yrs	2G Device	Dhaka North	5192	396	 469 	 459 
+Not Seelected	AT	60+ yrs	3G Device	Dhaka North	6108	2163	" 3,938 "	" 3,913 "
+Not Seelected	AT	60+ yrs	4G Device	Dhaka North	2332	1199	" 2,864 "	" 2,855 "
+Not Seelected	AT	60+ yrs	Basic	Dhaka North	10431	818	" 1,182 "	" 1,165 "
+Not Seelected	AT	60+ yrs	Others	Dhaka North	949	167	 229 	 226 
+Not Seelected	AT	OTHERS	2G Device	Dhaka North	16	0	 0 	
+Not Seelected	AT	OTHERS	3G Device	Dhaka North	9	1	 0 	 0 
+Not Seelected	AT	OTHERS	4G Device	Dhaka North	1	0	 0 	
+Not Seelected	AT	OTHERS	Basic	Dhaka North	25	0	 0 	
+Not Seelected	AT	OTHERS	Others	Dhaka North	46	0	 -   	
+Not Seelected	AT	<=24 yrs	2G Device	Dhaka South	4587	787	" 1,238 "	" 1,227 "
+Not Seelected	AT	<=24 yrs	3G Device	Dhaka South	9223	4368	" 9,029 "	" 8,990 "
+Not Seelected	AT	<=24 yrs	4G Device	Dhaka South	5046	2987	" 7,737 "	" 7,718 "
+Not Seelected	AT	<=24 yrs	Basic	Dhaka South	9576	1567	" 2,578 "	" 2,557 "
+Not Seelected	AT	<=24 yrs	Others	Dhaka South	1239	477	 718 	 713 
+Not Seelected	AT	25-29 yrs	2G Device	Dhaka South	12303	1399	" 1,973 "	" 1,950 "
+Not Seelected	AT	25-29 yrs	3G Device	Dhaka South	21271	8481	" 16,831 "	" 16,748 "
+Not Seelected	AT	25-29 yrs	4G Device	Dhaka South	10598	5665	" 15,778 "	" 15,740 "
+Not Seelected	AT	25-29 yrs	Basic	Dhaka South	26194	3025	" 5,222 "	" 5,176 "
+Not Seelected	AT	25-29 yrs	Others	Dhaka South	2606	752	" 1,097 "	" 1,088 "
+Not Seelected	AT	30-34 yrs	2G Device	Dhaka South	16381	1425	" 2,043 "	" 2,016 "
+Not Seelected	AT	30-34 yrs	3G Device	Dhaka South	23741	8595	" 16,940 "	" 16,847 "
+Not Seelected	AT	30-34 yrs	4G Device	Dhaka South	10576	5421	" 15,111 "	" 15,078 "
+Not Seelected	AT	30-34 yrs	Basic	Dhaka South	33806	2894	" 4,987 "	" 4,936 "
+Not Seelected	AT	30-34 yrs	Others	Dhaka South	3136	761	" 1,106 "	" 1,095 "
+Not Seelected	AT	35-39 yrs	2G Device	Dhaka South	13545	1032	" 1,474 "	" 1,453 "
+Not Seelected	AT	35-39 yrs	3G Device	Dhaka South	18222	6323	" 12,299 "	" 12,224 "
+Not Seelected	AT	35-39 yrs	4G Device	Dhaka South	7610	3879	" 10,529 "	" 10,501 "
+Not Seelected	AT	35-39 yrs	Basic	Dhaka South	27608	2135	" 3,380 "	" 3,339 "
+Not Seelected	AT	35-39 yrs	Others	Dhaka South	2470	548	 764 	 754 
+Not Seelected	AT	40-44 yrs	2G Device	Dhaka South	9422	673	" 1,008 "	 991 
+Not Seelected	AT	40-44 yrs	3G Device	Dhaka South	11968	4204	" 7,837 "	" 7,788 "
+Not Seelected	AT	40-44 yrs	4G Device	Dhaka South	5008	2469	" 6,838 "	" 6,817 "
+Not Seelected	AT	40-44 yrs	Basic	Dhaka South	18912	1487	" 2,181 "	" 2,154 "
+Not Seelected	AT	40-44 yrs	Others	Dhaka South	1554	373	 514 	 508 
+Not Seelected	AT	45-59 yrs	2G Device	Dhaka South	16401	1270	" 1,911 "	" 1,881 "
+Not Seelected	AT	45-59 yrs	3G Device	Dhaka South	20114	7381	" 13,317 "	" 13,234 "
+Not Seelected	AT	45-59 yrs	4G Device	Dhaka South	8220	4221	" 11,202 "	" 11,171 "
+Not Seelected	AT	45-59 yrs	Basic	Dhaka South	31439	2704	" 4,073 "	" 4,025 "
+Not Seelected	AT	45-59 yrs	Others	Dhaka South	2699	633	 824 	 815 
+Not Seelected	AT	60+ yrs	2G Device	Dhaka South	4274	265	 398 	 392 
+Not Seelected	AT	60+ yrs	3G Device	Dhaka South	4587	1634	" 2,975 "	" 2,956 "
+Not Seelected	AT	60+ yrs	4G Device	Dhaka South	2013	1106	" 2,849 "	" 2,842 "
+Not Seelected	AT	60+ yrs	Basic	Dhaka South	8403	573	 834 	 824 
+Not Seelected	AT	60+ yrs	Others	Dhaka South	745	157	 197 	 194 
+Not Seelected	AT	OTHERS	2G Device	Dhaka South	8	0	 -   	
+Not Seelected	AT	OTHERS	3G Device	Dhaka South	3	0	 0 	
+Not Seelected	AT	OTHERS	4G Device	Dhaka South	1	0	 0 	
+Not Seelected	AT	OTHERS	Basic	Dhaka South	18	0	 -   	
+Not Seelected	AT	OTHERS	Others	Dhaka South	28	0	 -   	
+Not Seelected	AT	<=24 yrs	2G Device	Khulna	6726	1512	" 2,942 "	" 2,928 "
+Not Seelected	AT	<=24 yrs	3G Device	Khulna	11610	6534	" 15,626 "	" 15,593 "
+Not Seelected	AT	<=24 yrs	4G Device	Khulna	5018	3439	" 9,887 "	" 9,874 "
+Not Seelected	AT	<=24 yrs	Basic	Khulna	12348	2638	" 5,408 "	" 5,385 "
+Not Seelected	AT	<=24 yrs	Others	Khulna	2130	831	" 1,020 "	" 1,011 "
+Not Seelected	AT	25-29 yrs	2G Device	Khulna	11009	1286	" 2,229 "	" 2,210 "
+Not Seelected	AT	25-29 yrs	3G Device	Khulna	14565	6412	" 14,075 "	" 14,028 "
+Not Seelected	AT	25-29 yrs	4G Device	Khulna	5333	3107	" 8,871 "	" 8,857 "
+Not Seelected	AT	25-29 yrs	Basic	Khulna	20192	2458	" 4,562 "	" 4,532 "
+Not Seelected	AT	25-29 yrs	Others	Khulna	2541	778	 987 	 978 
+Not Seelected	AT	30-34 yrs	2G Device	Khulna	12859	1051	" 1,995 "	" 1,979 "
+Not Seelected	AT	30-34 yrs	3G Device	Khulna	14113	5407	" 11,916 "	" 11,873 "
+Not Seelected	AT	30-34 yrs	4G Device	Khulna	4745	2601	" 7,381 "	" 7,367 "
+Not Seelected	AT	30-34 yrs	Basic	Khulna	24180	2189	" 4,219 "	" 4,187 "
+Not Seelected	AT	30-34 yrs	Others	Khulna	3110	707	 960 	 950 
+Not Seelected	AT	35-39 yrs	2G Device	Khulna	11349	860	" 1,478 "	" 1,464 "
+Not Seelected	AT	35-39 yrs	3G Device	Khulna	11104	4146	" 9,097 "	" 9,058 "
+Not Seelected	AT	35-39 yrs	4G Device	Khulna	3555	1969	" 5,336 "	" 5,325 "
+Not Seelected	AT	35-39 yrs	Basic	Khulna	21294	1730	" 3,339 "	" 3,313 "
+Not Seelected	AT	35-39 yrs	Others	Khulna	2614	547	 659 	 651 
+Not Seelected	AT	40-44 yrs	2G Device	Khulna	7699	557	 919 	 907 
+Not Seelected	AT	40-44 yrs	3G Device	Khulna	7381	2791	" 5,892 "	" 5,867 "
+Not Seelected	AT	40-44 yrs	4G Device	Khulna	2368	1279	" 3,848 "	" 3,840 "
+Not Seelected	AT	40-44 yrs	Basic	Khulna	13932	1209	" 2,183 "	" 2,164 "
+Not Seelected	AT	40-44 yrs	Others	Khulna	1804	382	 480 	 475 
+Not Seelected	AT	45-59 yrs	2G Device	Khulna	15136	1198	" 2,097 "	" 2,078 "
+Not Seelected	AT	45-59 yrs	3G Device	Khulna	13751	5255	" 11,629 "	" 11,583 "
+Not Seelected	AT	45-59 yrs	4G Device	Khulna	4374	2419	" 6,713 "	" 6,699 "
+Not Seelected	AT	45-59 yrs	Basic	Khulna	27380	2271	" 4,169 "	" 4,131 "
+Not Seelected	AT	45-59 yrs	Others	Khulna	3239	634	 809 	 800 
+Not Seelected	AT	60+ yrs	2G Device	Khulna	3923	314	 573 	 568 
+Not Seelected	AT	60+ yrs	3G Device	Khulna	3460	1301	" 2,981 "	" 2,971 "
+Not Seelected	AT	60+ yrs	4G Device	Khulna	1081	631	" 1,831 "	" 1,827 "
+Not Seelected	AT	60+ yrs	Basic	Khulna	7198	616	" 1,266 "	" 1,257 "
+Not Seelected	AT	60+ yrs	Others	Khulna	957	193	 272 	 269 
+Not Seelected	AT	OTHERS	2G Device	Khulna	7	0	 -   	
+Not Seelected	AT	OTHERS	3G Device	Khulna	4	0	 0 	
+Not Seelected	AT	OTHERS	4G Device	Khulna	3	1	 3 	 2 
+Not Seelected	AT	OTHERS	Basic	Khulna	8	0	 -   	
+Not Seelected	AT	OTHERS	Others	Khulna	30	0	 0 	
+Not Seelected	AT	<=24 yrs	2G Device	Kushtia	5629	1263	" 2,604 "	" 2,590 "
+Not Seelected	AT	<=24 yrs	3G Device	Kushtia	10989	6163	" 14,844 "	" 14,809 "
+Not Seelected	AT	<=24 yrs	4G Device	Kushtia	4414	2977	" 8,850 "	" 8,840 "
+Not Seelected	AT	<=24 yrs	Basic	Kushtia	10877	2345	" 5,047 "	" 5,025 "
+Not Seelected	AT	<=24 yrs	Others	Kushtia	2394	969	" 1,217 "	" 1,203 "
+Not Seelected	AT	25-29 yrs	2G Device	Kushtia	7830	974	" 1,793 "	" 1,779 "
+Not Seelected	AT	25-29 yrs	3G Device	Kushtia	12047	5141	" 11,600 "	" 11,564 "
+Not Seelected	AT	25-29 yrs	4G Device	Kushtia	4378	2521	" 7,125 "	" 7,113 "
+Not Seelected	AT	25-29 yrs	Basic	Kushtia	15944	1920	" 3,689 "	" 3,668 "
+Not Seelected	AT	25-29 yrs	Others	Kushtia	2363	701	 829 	 818 
+Not Seelected	AT	30-34 yrs	2G Device	Kushtia	9580	862	" 1,550 "	" 1,537 "
+Not Seelected	AT	30-34 yrs	3G Device	Kushtia	11823	4376	" 9,640 "	" 9,605 "
+Not Seelected	AT	30-34 yrs	4G Device	Kushtia	3868	2148	" 5,939 "	" 5,928 "
+Not Seelected	AT	30-34 yrs	Basic	Kushtia	19108	1769	" 3,484 "	" 3,461 "
+Not Seelected	AT	30-34 yrs	Others	Kushtia	2782	741	 818 	 808 
+Not Seelected	AT	35-39 yrs	2G Device	Kushtia	8918	680	" 1,215 "	" 1,204 "
+Not Seelected	AT	35-39 yrs	3G Device	Kushtia	9524	3405	" 7,464 "	" 7,431 "
+Not Seelected	AT	35-39 yrs	4G Device	Kushtia	2828	1531	" 4,243 "	" 4,236 "
+Not Seelected	AT	35-39 yrs	Basic	Kushtia	17457	1426	" 2,734 "	" 2,712 "
+Not Seelected	AT	35-39 yrs	Others	Kushtia	2522	616	 696 	 685 
+Not Seelected	AT	40-44 yrs	2G Device	Kushtia	5895	479	 832 	 824 
+Not Seelected	AT	40-44 yrs	3G Device	Kushtia	6067	2177	" 4,631 "	" 4,610 "
+Not Seelected	AT	40-44 yrs	4G Device	Kushtia	1794	921	" 2,538 "	" 2,533 "
+Not Seelected	AT	40-44 yrs	Basic	Kushtia	11321	908	" 1,751 "	" 1,737 "
+Not Seelected	AT	40-44 yrs	Others	Kushtia	1570	368	 384 	 378 
+Not Seelected	AT	45-59 yrs	2G Device	Kushtia	10375	952	" 1,838 "	" 1,823 "
+Not Seelected	AT	45-59 yrs	3G Device	Kushtia	10788	4020	" 9,014 "	" 8,979 "
+Not Seelected	AT	45-59 yrs	4G Device	Kushtia	3184	1677	" 4,616 "	" 4,606 "
+Not Seelected	AT	45-59 yrs	Basic	Kushtia	19521	1855	" 3,647 "	" 3,618 "
+Not Seelected	AT	45-59 yrs	Others	Kushtia	2892	702	 879 	 866 
+Not Seelected	AT	60+ yrs	2G Device	Kushtia	2835	216	 343 	 339 
+Not Seelected	AT	60+ yrs	3G Device	Kushtia	2792	1115	" 2,513 "	" 2,503 "
+Not Seelected	AT	60+ yrs	4G Device	Kushtia	834	484	" 1,311 "	" 1,309 "
+Not Seelected	AT	60+ yrs	Basic	Kushtia	5249	496	 972 	 965 
+Not Seelected	AT	60+ yrs	Others	Kushtia	859	191	 238 	 235 
+Not Seelected	AT	OTHERS	2G Device	Kushtia	4	0	 -   	
+Not Seelected	AT	OTHERS	3G Device	Kushtia	5	0	 -   	
+Not Seelected	AT	OTHERS	4G Device	Kushtia	3	0	 -   	
+Not Seelected	AT	OTHERS	Basic	Kushtia	19	0	 -   	
+Not Seelected	AT	OTHERS	Others	Kushtia	25	0	 -   	
+Not Seelected	AT	<=24 yrs	2G Device	Mymensingh	13631	2173	" 3,574 "	" 3,538 "
+Not Seelected	AT	<=24 yrs	3G Device	Mymensingh	21279	10080	" 19,299 "	" 19,223 "
+Not Seelected	AT	<=24 yrs	4G Device	Mymensingh	8183	4974	" 13,072 "	" 13,046 "
+Not Seelected	AT	<=24 yrs	Basic	Mymensingh	27849	4464	" 7,250 "	" 7,190 "
+Not Seelected	AT	<=24 yrs	Others	Mymensingh	2930	1013	" 1,222 "	" 1,208 "
+Not Seelected	AT	25-29 yrs	2G Device	Mymensingh	28444	2642	" 3,984 "	" 3,931 "
+Not Seelected	AT	25-29 yrs	3G Device	Mymensingh	35781	13397	" 25,779 "	" 25,647 "
+Not Seelected	AT	25-29 yrs	4G Device	Mymensingh	12241	6640	" 17,836 "	" 17,798 "
+Not Seelected	AT	25-29 yrs	Basic	Mymensingh	59702	5342	" 8,422 "	" 8,323 "
+Not Seelected	AT	25-29 yrs	Others	Mymensingh	4514	1169	" 1,535 "	" 1,519 "
+Not Seelected	AT	30-34 yrs	2G Device	Mymensingh	32705	2353	" 3,612 "	" 3,562 "
+Not Seelected	AT	30-34 yrs	3G Device	Mymensingh	35981	12471	" 23,958 "	" 23,825 "
+Not Seelected	AT	30-34 yrs	4G Device	Mymensingh	12155	6485	" 17,260 "	" 17,223 "
+Not Seelected	AT	30-34 yrs	Basic	Mymensingh	67766	4931	" 8,067 "	" 7,976 "
+Not Seelected	AT	30-34 yrs	Others	Mymensingh	5041	1060	" 1,284 "	" 1,267 "
+Not Seelected	AT	35-39 yrs	2G Device	Mymensingh	28248	1848	" 2,596 "	" 2,556 "
+Not Seelected	AT	35-39 yrs	3G Device	Mymensingh	28245	9876	" 18,790 "	" 18,687 "
+Not Seelected	AT	35-39 yrs	4G Device	Mymensingh	9491	5007	" 13,002 "	" 12,971 "
+Not Seelected	AT	35-39 yrs	Basic	Mymensingh	57219	3872	" 6,071 "	" 5,993 "
+Not Seelected	AT	35-39 yrs	Others	Mymensingh	4284	879	" 1,086 "	" 1,071 "
+Not Seelected	AT	40-44 yrs	2G Device	Mymensingh	18649	1366	" 1,932 "	" 1,899 "
+Not Seelected	AT	40-44 yrs	3G Device	Mymensingh	18303	6528	" 12,382 "	" 12,311 "
+Not Seelected	AT	40-44 yrs	4G Device	Mymensingh	5867	3119	" 8,143 "	" 8,121 "
+Not Seelected	AT	40-44 yrs	Basic	Mymensingh	36665	2825	" 4,529 "	" 4,474 "
+Not Seelected	AT	40-44 yrs	Others	Mymensingh	2748	552	 650 	 639 
+Not Seelected	AT	45-59 yrs	2G Device	Mymensingh	34876	2613	" 3,766 "	" 3,699 "
+Not Seelected	AT	45-59 yrs	3G Device	Mymensingh	34359	12386	" 23,214 "	" 23,077 "
+Not Seelected	AT	45-59 yrs	4G Device	Mymensingh	10488	5618	" 14,236 "	" 14,201 "
+Not Seelected	AT	45-59 yrs	Basic	Mymensingh	69991	5685	" 9,000 "	" 8,890 "
+Not Seelected	AT	45-59 yrs	Others	Mymensingh	5629	1119	" 1,321 "	" 1,300 "
+Not Seelected	AT	60+ yrs	2G Device	Mymensingh	9538	774	" 1,070 "	" 1,054 "
+Not Seelected	AT	60+ yrs	3G Device	Mymensingh	9418	3464	" 6,592 "	" 6,555 "
+Not Seelected	AT	60+ yrs	4G Device	Mymensingh	2938	1656	" 4,005 "	" 3,994 "
+Not Seelected	AT	60+ yrs	Basic	Mymensingh	19470	1525	" 2,477 "	" 2,447 "
+Not Seelected	AT	60+ yrs	Others	Mymensingh	1802	390	 496 	 490 
+Not Seelected	AT	OTHERS	2G Device	Mymensingh	6	0	 0 	
+Not Seelected	AT	OTHERS	3G Device	Mymensingh	10	2	 5 	 5 
+Not Seelected	AT	OTHERS	4G Device	Mymensingh	6	3	 7 	 7 
+Not Seelected	AT	OTHERS	Basic	Mymensingh	37	1	 1 	 1 
+Not Seelected	AT	OTHERS	Others	Mymensingh	48	0	 -   	
+Not Seelected	AT	<=24 yrs	2G Device	Noakhali	2108	428	 714 	 710 
+Not Seelected	AT	<=24 yrs	3G Device	Noakhali	4006	2313	" 5,046 "	" 5,034 "
+Not Seelected	AT	<=24 yrs	4G Device	Noakhali	1857	1266	" 4,020 "	" 4,016 "
+Not Seelected	AT	<=24 yrs	Basic	Noakhali	4809	813	" 1,485 "	" 1,476 "
+Not Seelected	AT	<=24 yrs	Others	Noakhali	572	196	 305 	 303 
+Not Seelected	AT	25-29 yrs	2G Device	Noakhali	4640	630	" 1,018 "	" 1,010 "
+Not Seelected	AT	25-29 yrs	3G Device	Noakhali	8213	4154	" 8,844 "	" 8,817 "
+Not Seelected	AT	25-29 yrs	4G Device	Noakhali	3386	2186	" 6,831 "	" 6,824 "
+Not Seelected	AT	25-29 yrs	Basic	Noakhali	11238	1450	" 2,504 "	" 2,485 "
+Not Seelected	AT	25-29 yrs	Others	Noakhali	1199	331	 436 	 432 
+Not Seelected	AT	30-34 yrs	2G Device	Noakhali	5493	574	 992 	 983 
+Not Seelected	AT	30-34 yrs	3G Device	Noakhali	8649	4118	" 8,670 "	" 8,645 "
+Not Seelected	AT	30-34 yrs	4G Device	Noakhali	3570	2279	" 6,630 "	" 6,622 "
+Not Seelected	AT	30-34 yrs	Basic	Noakhali	13028	1394	" 2,302 "	" 2,285 "
+Not Seelected	AT	30-34 yrs	Others	Noakhali	1352	322	 406 	 400 
+Not Seelected	AT	35-39 yrs	2G Device	Noakhali	5088	428	 681 	 673 
+Not Seelected	AT	35-39 yrs	3G Device	Noakhali	6882	3218	" 6,978 "	" 6,956 "
+Not Seelected	AT	35-39 yrs	4G Device	Noakhali	2710	1685	" 4,881 "	" 4,875 "
+Not Seelected	AT	35-39 yrs	Basic	Noakhali	11754	1067	" 1,795 "	" 1,781 "
+Not Seelected	AT	35-39 yrs	Others	Noakhali	1147	233	 326 	 322 
+Not Seelected	AT	40-44 yrs	2G Device	Noakhali	3025	316	 448 	 443 
+Not Seelected	AT	40-44 yrs	3G Device	Noakhali	4033	1906	" 4,156 "	" 4,143 "
+Not Seelected	AT	40-44 yrs	4G Device	Noakhali	1605	1013	" 2,977 "	" 2,974 "
+Not Seelected	AT	40-44 yrs	Basic	Noakhali	6683	678	" 1,098 "	" 1,090 "
+Not Seelected	AT	40-44 yrs	Others	Noakhali	748	170	 188 	 185 
+Not Seelected	AT	45-59 yrs	2G Device	Noakhali	5453	562	 822 	 812 
+Not Seelected	AT	45-59 yrs	3G Device	Noakhali	7109	3384	" 6,800 "	" 6,776 "
+Not Seelected	AT	45-59 yrs	4G Device	Noakhali	2628	1690	" 4,746 "	" 4,739 "
+Not Seelected	AT	45-59 yrs	Basic	Noakhali	12245	1207	" 2,013 "	" 1,996 "
+Not Seelected	AT	45-59 yrs	Others	Noakhali	1404	285	 391 	 386 
+Not Seelected	AT	60+ yrs	2G Device	Noakhali	1684	169	 276 	 273 
+Not Seelected	AT	60+ yrs	3G Device	Noakhali	2131	1039	" 2,133 "	" 2,127 "
+Not Seelected	AT	60+ yrs	4G Device	Noakhali	831	532	" 1,455 "	" 1,453 "
+Not Seelected	AT	60+ yrs	Basic	Noakhali	3786	393	 665 	 661 
+Not Seelected	AT	60+ yrs	Others	Noakhali	449	83	 113 	 111 
+Not Seelected	AT	OTHERS	2G Device	Noakhali	4	0	 -   	
+Not Seelected	AT	OTHERS	3G Device	Noakhali	1	0	 -   	
+Not Seelected	AT	OTHERS	4G Device	Noakhali	2	0	 -   	
+Not Seelected	AT	OTHERS	Basic	Noakhali	11	0	 0 	
+Not Seelected	AT	OTHERS	Others	Noakhali	11	0	 -   	
+Not Seelected	AT	<=24 yrs	2G Device	Rajshahi	5722	939	" 1,883 "	" 1,870 "
+Not Seelected	AT	<=24 yrs	3G Device	Rajshahi	9012	4298	" 9,493 "	" 9,464 "
+Not Seelected	AT	<=24 yrs	4G Device	Rajshahi	3609	2246	" 6,295 "	" 6,285 "
+Not Seelected	AT	<=24 yrs	Basic	Rajshahi	9274	1505	" 2,812 "	" 2,793 "
+Not Seelected	AT	<=24 yrs	Others	Rajshahi	1680	570	 670 	 661 
+Not Seelected	AT	25-29 yrs	2G Device	Rajshahi	8416	765	" 1,095 "	" 1,082 "
+Not Seelected	AT	25-29 yrs	3G Device	Rajshahi	10255	3628	" 7,578 "	" 7,544 "
+Not Seelected	AT	25-29 yrs	4G Device	Rajshahi	3416	1810	" 4,869 "	" 4,858 "
+Not Seelected	AT	25-29 yrs	Basic	Rajshahi	14587	1356	" 2,326 "	" 2,306 "
+Not Seelected	AT	25-29 yrs	Others	Rajshahi	1964	446	 508 	 502 
+Not Seelected	AT	30-34 yrs	2G Device	Rajshahi	10097	614	 883 	 871 
+Not Seelected	AT	30-34 yrs	3G Device	Rajshahi	10027	3149	" 6,464 "	" 6,435 "
+Not Seelected	AT	30-34 yrs	4G Device	Rajshahi	2812	1397	" 3,762 "	" 3,755 "
+Not Seelected	AT	30-34 yrs	Basic	Rajshahi	17289	1047	" 1,756 "	" 1,735 "
+Not Seelected	AT	30-34 yrs	Others	Rajshahi	2353	381	 424 	 417 
+Not Seelected	AT	35-39 yrs	2G Device	Rajshahi	8794	473	 699 	 688 
+Not Seelected	AT	35-39 yrs	3G Device	Rajshahi	7871	2380	" 4,760 "	" 4,737 "
+Not Seelected	AT	35-39 yrs	4G Device	Rajshahi	2242	1113	" 2,924 "	" 2,917 "
+Not Seelected	AT	35-39 yrs	Basic	Rajshahi	14753	862	" 1,558 "	" 1,541 "
+Not Seelected	AT	35-39 yrs	Others	Rajshahi	2058	291	 319 	 314 
+Not Seelected	AT	40-44 yrs	2G Device	Rajshahi	5633	334	 461 	 453 
+Not Seelected	AT	40-44 yrs	3G Device	Rajshahi	4931	1544	" 3,159 "	" 3,142 "
+Not Seelected	AT	40-44 yrs	4G Device	Rajshahi	1354	664	" 1,794 "	" 1,790 "
+Not Seelected	AT	40-44 yrs	Basic	Rajshahi	9396	605	" 1,031 "	" 1,020 "
+Not Seelected	AT	40-44 yrs	Others	Rajshahi	1418	164	 197 	 194 
+Not Seelected	AT	45-59 yrs	2G Device	Rajshahi	10137	651	 903 	 887 
+Not Seelected	AT	45-59 yrs	3G Device	Rajshahi	8826	2762	" 5,868 "	" 5,839 "
+Not Seelected	AT	45-59 yrs	4G Device	Rajshahi	2398	1168	" 3,370 "	" 3,363 "
+Not Seelected	AT	45-59 yrs	Basic	Rajshahi	16951	1128	" 2,015 "	" 1,992 "
+Not Seelected	AT	45-59 yrs	Others	Rajshahi	2732	383	 455 	 449 
+Not Seelected	AT	60+ yrs	2G Device	Rajshahi	2384	150	 210 	 207 
+Not Seelected	AT	60+ yrs	3G Device	Rajshahi	1988	592	" 1,311 "	" 1,304 "
+Not Seelected	AT	60+ yrs	4G Device	Rajshahi	556	276	 757 	 755 
+Not Seelected	AT	60+ yrs	Basic	Rajshahi	4105	270	 513 	 509 
+Not Seelected	AT	60+ yrs	Others	Rajshahi	912	97	 126 	 124 
+Not Seelected	AT	OTHERS	2G Device	Rajshahi	6	0	 -   	
+Not Seelected	AT	OTHERS	3G Device	Rajshahi	4	0	 -   	
+Not Seelected	AT	OTHERS	4G Device	Rajshahi	4	0	 -   	
+Not Seelected	AT	OTHERS	Basic	Rajshahi	6	0	 -   	
+Not Seelected	AT	OTHERS	Others	Rajshahi	13	0	 -   	
+Not Seelected	AT	<=24 yrs	2G Device	Rangpur	4023	705	" 1,462 "	" 1,449 "
+Not Seelected	AT	<=24 yrs	3G Device	Rangpur	6244	3119	" 7,219 "	" 7,193 "
+Not Seelected	AT	<=24 yrs	4G Device	Rangpur	1953	1298	" 3,808 "	" 3,803 "
+Not Seelected	AT	<=24 yrs	Basic	Rangpur	6561	1271	" 2,509 "	" 2,489 "
+Not Seelected	AT	<=24 yrs	Others	Rangpur	2030	533	 718 	 701 
+Not Seelected	AT	25-29 yrs	2G Device	Rangpur	5631	573	 940 	 926 
+Not Seelected	AT	25-29 yrs	3G Device	Rangpur	6211	2404	" 5,550 "	" 5,526 "
+Not Seelected	AT	25-29 yrs	4G Device	Rangpur	1715	984	" 2,960 "	" 2,955 "
+Not Seelected	AT	25-29 yrs	Basic	Rangpur	9085	969	" 1,715 "	" 1,696 "
+Not Seelected	AT	25-29 yrs	Others	Rangpur	1630	363	 433 	 422 
+Not Seelected	AT	30-34 yrs	2G Device	Rangpur	6011	362	 549 	 538 
+Not Seelected	AT	30-34 yrs	3G Device	Rangpur	5499	1832	" 4,074 "	" 4,051 "
+Not Seelected	AT	30-34 yrs	4G Device	Rangpur	1177	605	" 1,811 "	" 1,807 "
+Not Seelected	AT	30-34 yrs	Basic	Rangpur	10243	805	" 1,356 "	" 1,338 "
+Not Seelected	AT	30-34 yrs	Others	Rangpur	1471	262	 332 	 326 
+Not Seelected	AT	35-39 yrs	2G Device	Rangpur	4986	305	 505 	 495 
+Not Seelected	AT	35-39 yrs	3G Device	Rangpur	4072	1254	" 2,817 "	" 2,798 "
+Not Seelected	AT	35-39 yrs	4G Device	Rangpur	852	434	" 1,263 "	" 1,260 "
+Not Seelected	AT	35-39 yrs	Basic	Rangpur	8154	605	" 1,168 "	" 1,153 "
+Not Seelected	AT	35-39 yrs	Others	Rangpur	1236	204	 223 	 217 
+Not Seelected	AT	40-44 yrs	2G Device	Rangpur	2868	206	 310 	 304 
+Not Seelected	AT	40-44 yrs	3G Device	Rangpur	2404	844	" 1,811 "	" 1,800 "
+Not Seelected	AT	40-44 yrs	4G Device	Rangpur	521	268	 940 	 938 
+Not Seelected	AT	40-44 yrs	Basic	Rangpur	4509	384	 749 	 739 
+Not Seelected	AT	40-44 yrs	Others	Rangpur	795	135	 147 	 142 
+Not Seelected	AT	45-59 yrs	2G Device	Rangpur	5544	388	 570 	 556 
+Not Seelected	AT	45-59 yrs	3G Device	Rangpur	4411	1468	" 3,076 "	" 3,058 "
+Not Seelected	AT	45-59 yrs	4G Device	Rangpur	937	531	" 1,554 "	" 1,550 "
+Not Seelected	AT	45-59 yrs	Basic	Rangpur	8664	717	" 1,305 "	" 1,284 "
+Not Seelected	AT	45-59 yrs	Others	Rangpur	1528	255	 332 	 322 
+Not Seelected	AT	60+ yrs	2G Device	Rangpur	1406	105	 170 	 166 
+Not Seelected	AT	60+ yrs	3G Device	Rangpur	1098	361	 763 	 758 
+Not Seelected	AT	60+ yrs	4G Device	Rangpur	206	115	 347 	 346 
+Not Seelected	AT	60+ yrs	Basic	Rangpur	2298	193	 351 	 344 
+Not Seelected	AT	60+ yrs	Others	Rangpur	492	76	 102 	 99 
+Not Seelected	AT	OTHERS	2G Device	Rangpur	2	0	 -   	
+Not Seelected	AT	OTHERS	3G Device	Rangpur	4	0	 -   	
+Not Seelected	AT	OTHERS	4G Device	Rangpur	1	1	 0 	 0 
+Not Seelected	AT	OTHERS	Basic	Rangpur	13	0	 -   	
+Not Seelected	AT	OTHERS	Others	Rangpur	21	0	 -   	
+Not Seelected	AT	<=24 yrs	2G Device	Sylhet	4368	1233	" 2,819 "	" 2,807 "
+Not Seelected	AT	<=24 yrs	3G Device	Sylhet	14747	10131	" 28,551 "	" 28,502 "
+Not Seelected	AT	<=24 yrs	4G Device	Sylhet	6666	5289	" 20,272 "	" 20,258 "
+Not Seelected	AT	<=24 yrs	Basic	Sylhet	9318	2611	" 6,115 "	" 6,093 "
+Not Seelected	AT	<=24 yrs	Others	Sylhet	2367	1333	" 2,119 "	" 2,106 "
+Not Seelected	AT	25-29 yrs	2G Device	Sylhet	8489	1645	" 3,531 "	" 3,510 "
+Not Seelected	AT	25-29 yrs	3G Device	Sylhet	21954	13738	" 38,712 "	" 38,646 "
+Not Seelected	AT	25-29 yrs	4G Device	Sylhet	8989	6834	" 26,653 "	" 26,632 "
+Not Seelected	AT	25-29 yrs	Basic	Sylhet	18105	3413	" 8,082 "	" 8,047 "
+Not Seelected	AT	25-29 yrs	Others	Sylhet	3271	1560	" 2,452 "	" 2,435 "
+Not Seelected	AT	30-34 yrs	2G Device	Sylhet	8276	1145	" 2,322 "	" 2,307 "
+Not Seelected	AT	30-34 yrs	3G Device	Sylhet	17100	10055	" 28,543 "	" 28,486 "
+Not Seelected	AT	30-34 yrs	4G Device	Sylhet	6691	4899	" 18,959 "	" 18,941 "
+Not Seelected	AT	30-34 yrs	Basic	Sylhet	17585	2583	" 5,864 "	" 5,837 "
+Not Seelected	AT	30-34 yrs	Others	Sylhet	2847	1278	" 1,978 "	" 1,966 "
+Not Seelected	AT	35-39 yrs	2G Device	Sylhet	6414	739	" 1,520 "	" 1,508 "
+Not Seelected	AT	35-39 yrs	3G Device	Sylhet	11431	6399	" 17,506 "	" 17,469 "
+Not Seelected	AT	35-39 yrs	4G Device	Sylhet	4533	3258	" 12,451 "	" 12,440 "
+Not Seelected	AT	35-39 yrs	Basic	Sylhet	13338	1607	" 3,481 "	" 3,462 "
+Not Seelected	AT	35-39 yrs	Others	Sylhet	1958	769	" 1,031 "	" 1,022 "
+Not Seelected	AT	40-44 yrs	2G Device	Sylhet	4228	532	" 1,054 "	" 1,045 "
+Not Seelected	AT	40-44 yrs	3G Device	Sylhet	7270	4083	" 11,309 "	" 11,282 "
+Not Seelected	AT	40-44 yrs	4G Device	Sylhet	2672	1875	" 7,102 "	" 7,096 "
+Not Seelected	AT	40-44 yrs	Basic	Sylhet	8095	1018	" 2,337 "	" 2,324 "
+Not Seelected	AT	40-44 yrs	Others	Sylhet	1265	494	 669 	 663 
+Not Seelected	AT	45-59 yrs	2G Device	Sylhet	7800	974	" 1,865 "	" 1,849 "
+Not Seelected	AT	45-59 yrs	3G Device	Sylhet	12957	7308	" 20,341 "	" 20,296 "
+Not Seelected	AT	45-59 yrs	4G Device	Sylhet	4802	3472	" 13,331 "	" 13,318 "
+Not Seelected	AT	45-59 yrs	Basic	Sylhet	15043	1957	" 4,424 "	" 4,399 "
+Not Seelected	AT	45-59 yrs	Others	Sylhet	2494	933	" 1,387 "	" 1,374 "
+Not Seelected	AT	60+ yrs	2G Device	Sylhet	2081	257	 426 	 423 
+Not Seelected	AT	60+ yrs	3G Device	Sylhet	3346	1994	" 5,264 "	" 5,252 "
+Not Seelected	AT	60+ yrs	4G Device	Sylhet	1297	996	" 3,535 "	" 3,532 "
+Not Seelected	AT	60+ yrs	Basic	Sylhet	4159	510	" 1,064 "	" 1,056 "
+Not Seelected	AT	60+ yrs	Others	Sylhet	793	303	 379 	 376 
+Not Seelected	AT	OTHERS	2G Device	Sylhet	2	0	 0 	
+Not Seelected	AT	OTHERS	3G Device	Sylhet	3	0	 -   	
+Not Seelected	AT	OTHERS	4G Device	Sylhet	1	0	 -   	
+Not Seelected	AT	OTHERS	Basic	Sylhet	7	0	 -   	
+Not Seelected	AT	OTHERS	Others	Sylhet	11	0	 0 	
+								
+								
