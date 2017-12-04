@@ -4,7 +4,6 @@ setwd("D:\\CS_2\\Post_eRA/4G GTM/")
 
 dir()
 
-library(openxlsx)
 library(dplyr)
 
 
@@ -118,31 +117,32 @@ ggplot(channel_prefer_2,aes(cum_outlets,cum_percent_preferred_outlet))+
 
 
 
-jpeg(filename = "Outlets Paretto.jpeg")
+jpeg(filename = "Outlets Paretto_2.jpeg",width=600)
 
 label_cut_x<-c(10,20,30.40,50)
 
 ggplot(channel_prefer_2,aes(cum_pecent_outlet,cum_percent_preferred_outlet))+
-  geom_line(aes(col='blue'))+
-  geom_line(aes(y=cum_percent_data_sales_amount,col='red'))+
-  geom_line(aes(y=cum_percent_HVC_Data_User,col='green'))+
+  geom_line(aes(col='blue'),size=1)+
+  geom_line(aes(y=cum_percent_data_sales_amount,col='red'),size=1)+
+  geom_line(aes(y=cum_percent_HVC_Data_User,col='black'),size=1)+
   geom_text(aes(y=cum_percent_preferred_outlet,
     label=ifelse(cum_pecent_outlet %in% label_cut_x,paste0(as.character(round(cum_pecent_outlet,0)),"%,",as.character(round(cum_percent_preferred_outlet,0)),"%"),"")),
-    size=3,color='blue',hjust=0,vjust=0)+
+    size=5,color='blue',hjust=0,vjust=0,nudge_y =4,nudge_x = -10)+
   geom_text(aes(y=cum_percent_data_sales_amount,
                 label=ifelse(cum_pecent_outlet %in% label_cut_x,paste0(as.character(round(cum_percent_data_sales_amount,0)),"%"),"")),
-            size=3,color='red',hjust=0,vjust=0)+
+            size=5,color='red',hjust=0,vjust=0,nudge_y= -1.5,nudge_x = 2.5)+
   geom_text(aes(y=cum_percent_HVC_Data_User,
                 label=ifelse(cum_pecent_outlet %in% label_cut_x,paste0(as.character(round(cum_percent_HVC_Data_User,0)),"%"),"")),
-            size=3,color='green',hjust=0,vjust=0)+
+            size=5,color='black',hjust=0,vjust=0,nudge_y=-3,nudge_x =1.5)+
   xlab("Percent of Total Outlets in Selected Areas")+
   ylab("Cumulative %")+
-  ggtitle("Outlets Paretto",subtitle = "based on Ocotber'17 data " )+
-  scale_color_manual("Legends",
-                     values=c("blue"="blue","red"="red","green"='green'),
-                     labels=c("% Preferred Retailer","% Data Sales Amount","% Data User(>100 MB)")
+  ggtitle("",subtitle = "" )+
+  scale_color_manual("",
+                     values=c("blue"="blue","red"="red","black"='black'),
+                     labels=c("blue"="% Preferred Retailer(>30 Data Users)","red"="% Data Sales Amount","black"="% Data User(>100 MB)")
                      )+
-  theme_gray()
-
+  theme(legend.position='bottom',
+        panel.background = element_rect(fill="white")
+        )
 
 dev.off()
