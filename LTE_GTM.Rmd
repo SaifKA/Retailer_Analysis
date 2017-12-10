@@ -1,0 +1,53 @@
+---
+title: "LTE_GTM"
+author: "Saif Kabir Asif"
+date: "December 7, 2017"
+output: 
+    html_document:
+        keep_md: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,warning = F,message = F)
+```
+
+### Load libraries
+
+```{r}
+library(openxlsx)
+library(dplyr)
+
+
+```
+
+
+### Unzip
+
+```{r}
+unzip("Both brand.zip")
+
+dir("Both brand/")
+
+```
+
+### Read Excel
+
+```{r}
+df_Robi<-read.xlsx(xlsxFile = "Both brand/Robi single sheet.xlsx",sheet = 1,startRow = 3)
+
+str(df_Robi)
+
+
+df_Airtel<-read.xlsx(xlsxFile = "Both brand/Airtel single sheet.xlsx",sheet = 1,startRow = 2)
+
+str(df_Airtel)
+```
+
+### Sanitizing
+
+```{r}
+
+
+
+```
+

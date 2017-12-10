@@ -1,0 +1,79 @@
+# LTE_GTM
+Saif Kabir Asif  
+December 7, 2017  
+
+
+
+### Load libraries
+
+
+```r
+library(openxlsx)
+library(dplyr)
+```
+
+
+### Unzip
+
+
+```r
+unzip("Both brand.zip")
+
+dir("Both brand/")
+```
+
+```
+## [1] "Airtel single sheet.xlsx" "Robi single sheet.xlsx"
+```
+
+### Read Excel
+
+
+```r
+df_Robi<-read.xlsx(xlsxFile = "Both brand/Robi single sheet.xlsx",sheet = 1,startRow = 3)
+
+str(df_Robi)
+```
+
+```
+## 'data.frame':	454777 obs. of  12 variables:
+##  $ Phone.make             : chr  "ZYNC" "ZYNC" "ZYNC" "ZYNC" ...
+##  $ MODEL_NAME             : chr  "Z5" "Z900" "Z9SERIES" "Z9SERIES" ...
+##  $ Phone.type             : chr  "3G" "3G" "2G" "2G" ...
+##  $ REGION                 : chr  "Khulna" "Dhaka Metro" "Chittagong South" "Comilla" ...
+##  $ FOURG_AREA             : chr  "NON_SELECTED" "SELECTED" "NON_SELECTED" "NON_SELECTED" ...
+##  $ USIM_STATUS            : chr  "ALREADY" "REST " "REST " "REST " ...
+##  $ C_1_USER_COUNT         : num  1 0 1 0 2 0 0 0 0 1 ...
+##  $ C_1_TOTAL_DATA_USAGE_MB: num  1029 NA 1055 NA 340 ...
+##  $ C_2_USER_COUNT         : num  0 0 0 1 0 0 0 0 0 0 ...
+##  $ C_2_TOTAL_DATA_USAGE_MB: num  NA NA NA 88.8 NA ...
+##  $ C_3_USER_COUNT         : num  0 1 0 0 0 1 0 0 1 0 ...
+##  $ C_3_TOTAL_DATA_USAGE_MB: num  NA 1.94 NA NA NA ...
+```
+
+```r
+df_Airtel<-read.xlsx(xlsxFile = "Both brand/Airtel single sheet.xlsx",sheet = 1,startRow = 2)
+
+str(df_Airtel)
+```
+
+```
+## 'data.frame':	308062 obs. of  12 variables:
+##  $ BRAND_NAME             : chr  "MICROMAX" "MOTOROLA" "MAXON" "BOCOIN" ...
+##  $ MODEL_NAME             : chr  "A25" "MOTO G (4TH GEN), AF12752645" "MX-V30" "225 MINI" ...
+##  $ PHONE_TYPE             : chr  "2G" "4G" "2G" "OTHERS" ...
+##  $ REGION                 : chr  "Sylhet" "Mymensingh" "Dhaka Metro" "Chittagong North" ...
+##  $ FOURG_AREA             : chr  "NON_SELECTED" "SELECTED" "NON_SELECTED" "SELECTED" ...
+##  $ USIM_STATUS            : chr  "REST " "TARGET" "REST " "TARGET" ...
+##  $ C_1_USER_COUNT         : num  1 1 1 1 1 1 1 1 1 1 ...
+##  $ C_1_TOTAL_DATA_USAGE_MB: num  100 100 100 100 100 ...
+##  $ C_2_USER_COUNT         : num  0 1 0 0 0 0 0 0 1 0 ...
+##  $ C_2_TOTAL_DATA_USAGE_MB: num  NA 12 NA NA NA ...
+##  $ C_3_USER_COUNT         : num  1 0 0 0 0 0 0 2 14 0 ...
+##  $ C_3_TOTAL_DATA_USAGE_MB: num  0.848 NA NA NA NA ...
+```
+
+### Sanitizing
+
+
+
