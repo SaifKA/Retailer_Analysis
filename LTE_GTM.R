@@ -1,6 +1,8 @@
 getwd()
 setwd(dir = "D:/Shiny/Office/LTE_GTM/")
 
+setwd(dir="D:/Gits/SaifKA/Retailer_Analysis/")
+
 dir()
 
 ### Libraries
@@ -10,6 +12,7 @@ library(dplyr)
 library(ggplot2)
 
 
+install.packages("openxlsx")
 ### Unzip
 
 unzip("Both brand.zip")
@@ -68,6 +71,8 @@ saveRDS(df_merged,file = "df_merged.rds")
 write.xlsx(df_merged,"df_merged.xlsx")
 
 
+df_merged<-readRDS(file = "df_merged.rds")
+
 str(df_merged)
 
 summary(df_merged)
@@ -77,7 +82,7 @@ summary(df_merged)
 df_regional_clean<-df_merged%>%
     filter(!REGION %in% c("Unclassified","Unknown"))%>%
     filter(!is.na(REGION))%>%
-    group_by(REGION,FOURG_AREA,USIM_STATUS,Phone.type,Phone.make)%>%
+    group_by(Brand,REGION,FOURG_AREA,USIM_STATUS,Phone.type,Phone.make)%>%
     summarise(
         c1_Count=sum(C_1_USER_COUNT),
         c1_Usage=sum(C_1_TOTAL_DATA_USAGE_MB),
@@ -85,10 +90,14 @@ df_regional_clean<-df_merged%>%
         c2_Usage=sum(C_2_TOTAL_DATA_USAGE_MB),
         c3_Count=sum(C_3_USER_COUNT),
         c3_Usage=sum(C_3_TOTAL_DATA_USAGE_MB)
-    )
+    )%>%
+  ungroup()
 
 
+str(df_regional_clean)
 
 saveRDS(df_regional_clean,file = "df_regional_clean.rds")
 
 write.xlsx(df_regional_clean,"df_regional_clean.xlsx")
+
+
